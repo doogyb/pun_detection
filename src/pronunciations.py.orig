@@ -1,0 +1,66 @@
+
+
+import subprocess
+
+from src.data_processing import load_cmu
+
+from src import string_similarity as sm
+
+cmu = None
+word_frequencies = None
+MAX_FREQUENCY = 100000
+model = None
+
+
+def get_closest_sounding_words(in_word, cthreshold=0, use_dictionary=False):
+    """
+    :param in_word: word to be processed
+    :param use_dictionary: include words that are similar and have same first letter
+    :return: returns a set of similar sounding words based on CMU dict phonemes
+    """
+    in_word = in_word.lower()
+    global cmu
+    if not cmu:
+        cmu = load_cmu()
+
+    if in_word not in cmu:
+        return []
+
+    # print("src/c/closest_sounding_words", in_word, cthreshold)
+    pros = set([w.decode("UTF-8", "ignore") for w in subprocess.check_output(["src/c/closest_sounding_words", in_word, str(cthreshold)]).split()])
+
+    # print(pros)
+    if use_dictionary:
+        dictionary = open("/usr/share/dict/american-english").read().lower().split()
+        for word in dictionary:
+            if in_word[0] == word[0] and sm.levenshtein(in_word, word) <= 2 and in_word != word:
+                pros.add(word)
+    return pros
+
+
+def same_sounding_words(in_word):
+    global cmu
+    if not cmu:
+        cmu = load_cmu()
+
+    if in_word not in cmu and in_word.lower() not in cmu:
+        return []
+    pronounce_word = cmu[in_word] if in_word in cmu else cmu[in_word.lower()]
+    ret = []
+    for key, val in cmu.items():
+        if key == in_word:
+            continue
+        if any(i in val for i in pronounce_word):
+            ret.append(key)
+
+    return ret
+
+
+if __name__ == "__main__":
+<<<<<<< HEAD
+    #print same_sounding_words("fourth")
+    # get_closest_sounding_words("hello")
+=======
+    # print((same_sounding_words("orifice", threshold=4)))
+    print(get_closest_sounding_words("orificeq",  cthreshold=2))
+>>>>>>> 95d7fca12b7e1ad795b2857c052c6e1c90e92427

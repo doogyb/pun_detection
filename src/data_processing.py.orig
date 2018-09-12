@@ -1,0 +1,100 @@
+# -*- coding: utf-8 -*-
+import xml.etree.ElementTree as ET
+import sys
+from nltk.corpus import wordnet as wn, cmudict
+
+
+def print_progress(iteration, total, prefix='', suffix='', decimals=1, bar_length=100):
+    """
+    Call in a loop to create terminal progress bar
+    @params:
+        iteration   - Required  : current iteration (Int)
+        total       - Required  : total iterations (Int)
+        prefix      - Optional  : prefix string (Str)
+        suffix      - Optional  : suffix string (Str)
+        decimals    - Optional  : positive number of decimals in percent complete (Int)
+        bar_length  - Optional  : character length of bar (Int)
+    """
+    str_format = "{0:." + str(decimals) + "f}"
+    percents = str_format.format(100 * (iteration / float(total)))
+    filled_length = int(round(bar_length * iteration / float(total)))
+    bar = '█' * filled_length + '-' * (bar_length - filled_length)
+
+    sys.stdout.write('\r%s |%s| %s%s %s' % (prefix, bar, percents, '%', suffix)),
+
+    if iteration == total:
+        sys.stdout.write('\n')
+    sys.stdout.flush()
+
+
+def annotate_subtask3():
+    tree = ET.parse("../data/subtask3-homographic-test.xml")
+    root = tree.getroot()
+    count = 0
+    skip = 400
+    pun_word = ""
+    with open("../data/subtask3-annotations-full.tsv") as in_file:
+        lines = in_file.read().split("\n")
+
+    with(open("../data/subtask3-annotations-full-2.tsv")) as f:
+        already_written = len(f.read().split("\n"))
+
+    with open("../data/subtask3-annotations-full-2.tsv", 'a') as out_file:
+        for count, line in enumerate(lines):
+            if count <= already_written:
+                continue
+            print("\n\n\n\t\t\t\t", count, "\n\n\n")
+<<<<<<< HEAD
+            print (line)
+            original_word = line.split("\t")[2]
+            print (original_word)
+=======
+            print(line)
+            original_word = line.split("\t")[2]
+            print(original_word)
+>>>>>>> 95d7fca12b7e1ad795b2857c052c6e1c90e92427
+            senses = wn.synsets(original_word)
+            if len(senses) == 0:
+                continue
+            if len(senses) == 1:
+                out_file.write(line + "\t" + senses[0].lemmas()[0].key() + "\t")
+
+            else:
+                for i, s in enumerate(senses):
+                    print(i, s.definition())
+<<<<<<< HEAD
+                syn = senses[int(raw_input())]
+=======
+                syn = senses[int(input())]
+>>>>>>> 95d7fca12b7e1ad795b2857c052c6e1c90e92427
+                out_file.write(line + "\t" + syn.lemmas()[0].key() + "\t")
+
+            other_word = line.split("\t")[3]
+            print(other_word)
+            senses = wn.synsets(other_word)
+            if len(senses) == 0:
+                continue
+            if len(senses) == 1:
+                out_file.write(senses[0].lemmas()[0].key() + "\n")
+
+            else:
+                for i, s in enumerate(senses):
+                    print(i, s.definition())
+<<<<<<< HEAD
+                syn = senses[int(raw_input())]
+=======
+                syn = senses[int(input())]
+>>>>>>> 95d7fca12b7e1ad795b2857c052c6e1c90e92427
+                out_file.write(syn.lemmas()[0].key() + "\n")
+
+
+if __name__ == '__main__':
+    annotate_subtask3()
+
+
+def load_cmu():
+    cmu = cmudict.dict()
+    for key, val in cmu.items():
+        for i, phoneme in enumerate(val):
+            cmu[key][i] = [ph[:2] for ph in phoneme]
+    return cmu

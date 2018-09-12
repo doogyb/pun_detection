@@ -1,0 +1,2290 @@
+('hid', 'VBP')	('sweat', 'VB')	They hid from the gunman in a sauna where they could sweat it out .
+NA	NA	Wal - Mart isn ' t the only saving place !
+NA	('sting', 'NN')	Can honeybee abuse lead to a sting operation ?
+NA	NA	A ditch digger was entrenched in his career .
+('She', 'PRP')	('forge', 'VB')	She was only a Blacksmith ' s daughter , but she knew how to forge ahead .
+('Borg', 'NNP')	('Would', 'MD')	86 of Borg : You will be assimilated . Would you believe , stood close to ?
+('Did', 'NNP')	('hit', 'NN')	Did you hear about the new pinata ? It ' s a huge hit .
+('also', 'RB')	('time', 'NN')	A bank manager who was also a high jumper spent most of his time in the vault .
+('digging', 'VBG')	('deep', 'JJ')	A discussion of digging a new mine shaft was too deep for him .
+('She', 'PRP')	('stealing', 'VBG')	She was suspected of stealing a brooch but they couldn ' t pin it on her .
+('cream', 'NN')	('licked', 'VBN')	Once ice cream was invented the problem was licked .
+NA	NA	Precepts teach , examples move .
+NA	NA	Diligent youth makes easy age .
+('There', 'EX')	('admitted', 'VBD')	' ' There ' s room for one more , ' ' Tom admitted .
+('toaster', 'NN')	('toasted', 'VBN')	They threw a party for the inventor of the toaster . And he was toasted .
+('If', 'IN')	NA	If you ' re a gardener you might call yourself a ' plant manager ' .
+('You', 'PRP')	('Take', 'VB')	You have two choices for dinner : Take it or Leave it .
+('class', 'NN')	('squares', 'NNS')	My advanced geometry class is full of squares .
+('Jesus', 'NNP')	NA	Jesus changes grave situations . Happy Easter .
+('angry', 'JJ')	('find', 'VBP')	I got angry when my cell phone battery died . My counselor suggested I find an outlet .
+('also', 'RB')	NA	A cowboy who was also an artist could draw fast .
+('Me', 'NNP')	('snorted', 'VBD')	' ' Angel dust ? Me ? Never touch it ! ' ' Tom snorted .
+NA	('questions', 'NNS')	The fire chief was always asked burning questions .
+NA	('retire', 'VB')	OLD MECHANICS never die they just retire
+('Some', 'DT')	('reaction', 'NN')	Some diets cause a gut reaction .
+('leave', 'VBP')	('spell', 'VB')	If you leave alphabet soup on the stove and go out , it could spell disaster .
+NA	NA	OLD BUNGEE JUMPERS sometimes die but they can still bounce back
+NA	NA	The gunman took a shot at new opportunities .
+('I', 'PRP')	('beach', 'NN')	My name is Sandy , I just hang around the beach .
+('I', 'PRP')	('gushed', 'VBD')	I ' ve struck oil ! Tom gushed .
+('Getting', 'VBG')	('problems', 'NNS')	Getting rid of your boat for another could cause a whole raft of problems .
+('I', 'PRP')	NA	I ' ve met zucchini with more potential .
+('My', 'PRP$')	('plumber', 'NN')	My name is John . I ' m a plumber
+('Pretend', 'VBP')	NA	' ' Pretend we were in the days before railways , ' ' Tom coached .
+('em', 'VBZ')	('em', 'NN')	Stick em up ! < BANG > Okay . . . . DON ' T stick em ' up !
+NA	('deleted', 'VBD')	Meaning of life : < deleted for lack of space >
+('What', 'WP')	NA	What if there were no hypothetical questions ?
+('never', 'RB')	('marital', 'JJ')	OLD STATISTICIANS never die , they just get broken down by age , sex and marital status .
+('hear', 'VBP')	('wrong', 'JJ')	Did you hear about the crime that happened in a parking garage ? It was wrong on so many levels .
+NA	NA	Time is money .
+('put', 'VB')	('end', 'NN')	Two astronauts who were dating put an end to it because they both needed their space .
+('changes', 'VBZ')	('fool', 'JJ')	A wise man changes his mind , but a fool never does .
+NA	('buy', 'VB')	Luggage salespeople have to make a good case for you to buy .
+('stove', 'NN')	('Home', 'NNP')	A kettle on the stove was singing ' Home on the Range ' .
+NA	NA	Musical mechanics always sing in parts .
+('wanted', 'VBD')	('better', 'JJR')	Hubble wanted to bring the idea into better focus .
+('construction', 'NN')	('groundbreaking', 'JJ')	The decision to begin construction on the Empire State Building was a groundbreaking historical event .
+NA	('go', 'VB')	OLD QUILTERS never die , they just go under cover .
+NA	NA	Discretion is the better part of valor .
+('cannibals', 'NNS')	('taste', 'NN')	When cannibals ate a missionary they got a taste of religion .
+('never', 'RB')	('away', 'RP')	OLD GUITARISTS never die , they just fret their lives away
+('King', 'NNP')	('still', 'RB')	One evening King Arthur ' s men discovered Sir Lancelot ' s moonshine whiskey operation and shattered the still of the knight .
+NA	NA	He stole an invention and then told patent lies .
+('Better', 'RBR')	('bad', 'JJ')	Better to be alone than in bad company .
+('I', 'PRP')	('see', 'VB')	I made a batch of fish eye soup , it should see me through the week .
+('Where', 'WRB')	('next', 'JJ')	Elvis Stamps : Where will your mail be spotted next ?
+('It', 'PRP')	('wise', 'RB')	It ' s easy to be wise after the event .
+('When', 'WRB')	('wanted', 'VBD')	When he kicked the invoice , it didn ' t mean he wanted to foot the bill .
+('big', 'JJ')	('fix', 'VB')	A big enough hammer can usually fix anything .
+('though', 'IN')	('get', 'VB')	Even though the well was a mystery to her , she didn ' t want to get to the bottom of it .
+('never', 'RB')	('irrational', 'JJ')	Old math teachers never die , they just become irrational .
+NA	NA	Careless stair dancers are heading for a heavy landing .
+NA	NA	OLD LOGICIANS never die , they just vacate the premises .
+('Why', 'WRB')	('least', 'JJS')	Why do those that pay the least complain the most ?
+('go', 'VB')	('something', 'NN')	If all appears to go well , you missed something . . .
+NA	NA	Riker to Holodeck : `` Woman , 23 , hot . ``
+('always', 'RB')	('called', 'VBN')	Lawyers have to like alcohol because they ' re always being called to the bar .
+('I', 'PRP')	('juice', 'NN')	I ' ll have one brain on drugs with bacon , toast and juice .
+('players', 'NNS')	('bat', 'NN')	Baseball players are expected to perform well right off the bat .
+('short', 'JJ')	('slightest', 'JJS')	Vines are extremely short - tempered . They snap at the slightest wind .
+('heard', 'VBD')	('sprinkles', 'NNS')	The man brought an umbrella with him into the ice cream store because he heard there was a chance of sprinkles .
+NA	('lose', 'VBP')	OLD ACADEMICIANS never die , they just lose their faculties
+('rubber', 'NN')	('snappy', 'JJ')	Bring me a rubber band and make it snappy !
+('always', 'RB')	('energy', 'NN')	An electric company is always looking for high energy employees .
+('volumes', 'NNS')	('quickly', 'RB')	When a thief stole several volumes from the library he was quickly booked .
+NA	NA	The inept mathematician couldn ' t count on his friends .
+('call', 'NN')	('get', 'VB')	The phone call interrupted my nap , and I never did get the rest .
+('chips', 'NNS')	('crunch', 'JJ')	When potato chips don ' t sell fast enough , the maker knows it will soon be crunch time .
+('Misfortunes', 'NNS')	NA	Misfortunes never come singly .
+NA	NA	Save the whales , spouted Tom .
+('never', 'RB')	('boot', 'NN')	OLD HIKERS never die they just get the boot .
+NA	NA	Come in for a free makeover this Sunday
+NA	NA	Superglue ! Tom rejoined .
+NA	NA	96 . 37 % of all statistics are useless . .
+('Admitting', 'VBG')	('corrected', 'VBN')	Admitting a mistake : ' ' Like the orthopedist ' s patient , I stand corrected . ' '
+('every', 'DT')	('I', 'PRP')	For every 45 I collected , I would write down the song and the artist so I could keep records .
+NA	NA	' ' There , there , ' ' was Tom ' s pat answer .
+('A', 'DT')	('called', 'VBN')	A contest held by fire fighters is called a ' match ' .
+NA	NA	Willful waste makes woeful want .
+('No', 'DT')	('hell', 'NN')	No one chills out in the fires of hell .
+('lot', 'NN')	('root', 'NN')	A lot of trees were dying , but they needed to figure out the root of the problem .
+('never', 'RB')	('get', 'VB')	OLD PILOTS never die , they just get more turbulent .
+('promoted', 'VBN')	('promoted', 'VBN')	A guy became so good with a chainsaw that he was promoted to branch manager .
+NA	NA	Zeal without knowledge is a runaway horse .
+('NOT', 'NNP')	('white', 'JJ')	I ' m NOT `` white , `` I ' m `` melanin - challenged . ``
+('argue', 'NN')	('blow', 'VB')	Don ' t argue with a bomb inventor - he might blow up at you .
+('let', 'NN')	('knees', 'NNS')	Don’t let adversity get you down unless you are on your knees
+('Wrestler', 'NNP')	('box', 'NN')	She was only a Wrestler ' s daughter , but you oughtta see her box . .
+('die', 'VBP')	('become', 'VB')	OLD DOOR FRAMERS never die , they just become unhinged .
+('I', 'PRP')	('much', 'JJ')	I was against the construction of tennis courts in the park as I thought they would cause too much racket .
+NA	('make', 'VB')	One swallow does not make a summer .
+('ignorant', 'NN')	('understand', 'VB')	The ignorant always adore what they can not understand .
+('I', 'PRP')	('croaked', 'VBD')	I ' m dying , Tom croaked .
+('job', 'NN')	('always', 'RB')	In a recession , the most secure job is garbage - man . Business is always picking up .
+NA	NA	Suicidal dyslexic jumps behind train - film at 11
+NA	NA	Wilbur Wright said he ' d take a flier on it .
+('vet', 'NN')	('pay', 'VB')	A man brought his retriever to the vet for some tests and had to pay a lab fee .
+('orange', 'NN')	('add', 'VB')	They replaced the baseball with an orange to add zest to the game .
+('If', 'IN')	('boring', 'JJ')	If you operate a drill press you have a boring job .
+NA	NA	Figure skaters don ' t like to be in a rut .
+NA	NA	Garbage in , garbage out .
+('calendar', 'NN')	('months', 'NNS')	A thief who stole a calendar got twelve months .
+NA	('type', 'NN')	OLD PRINTERS never die they ' re just not the type
+NA	NA	Cross river * THEN * insult alligator .
+('play', 'NN')	('cue', 'NN')	A play , based on billiards , started right on cue .
+('My', 'PRP$')	('little', 'JJ')	My father slept under the bed , I think he was a little potty .
+NA	('grind', 'NN')	Is coffee your daily grind ?
+('A', 'DT')	('anic', 'NN')	Backup not found : ( A ) bort ( R ) etry ( P ) anic
+('Some', 'DT')	('quite', 'RB')	Some people find fire drills quite Alarming .
+NA	NA	Old math profs never die , they just can ' t differentiate .
+NA	NA	A bad settlement is better than a good lawsuit .
+NA	('bit', 'NN')	Little by little and bit by bit .
+('Barking', 'VBG')	('bite', 'RB')	Barking dogs seldom bite .
+NA	('see', 'VB')	The inventor of glass decided to see it through .
+('dating', 'VBG')	('possessive', 'JJ')	A noun and a verb were dating but they broke up because the noun was too possessive .
+NA	NA	Hell ! . . . I’d forgotten about that !
+('She', 'PRP')	('daughter', 'NN')	She was only a Pitcher ' s daughter , but you should have seen her curves .
+('sell', 'VB')	('good', 'JJ')	A baseball player can sell himself to a new team if he has a good pitch .
+('right', 'NN')	('care', 'VB')	Yes , you ' re right . Unfortunately , I don ' t really care .
+NA	NA	' ' Use your own toothbrush ! ' ' Tom bristled .
+('err', 'VB')	NA	To err is human , to forgive is against my policy
+('My', 'PRP$')	NA	My name is Bill . I run a collection agency
+('never', 'RB')	('dough', 'NN')	OLD BAKERS never die , they just stop making lots of dough .
+('Tonight', 'NNP')	('dawn', 'NN')	Tonight ' s forecast : Dark , scattered light toward dawn .
+('couple', 'NN')	('old', 'JJ')	The couple grew fruit trees and lived to a ripe old age .
+('quit', 'VB')	('much', 'JJ')	The plumber had to quit his job because it was too much of a drain .
+NA	NA	Finding area is an integral part of calculus .
+('sing', 'VBP')	('good', 'JJ')	If you sing while playing baseball , you won ' t get a good pitch .
+('die', 'VBP')	('dole', 'NN')	OLD PINEAPPLE GROWERS never die , they just get on the dole .
+('given', 'VBN')	('General', 'NNP')	Some commands given by the army are specific , others are General .
+('If', 'IN')	('say', 'VB')	If a horse could predict the weather , it would probably say that the weather is stable .
+('She', 'PRP')	('warm', 'JJ')	She was only a Weatherman ' ' s daughter , but she sure had a warm front .
+NA	NA	A drowning man will clutch at a straw .
+('never', 'RB')	('get', 'VB')	OLD LOCOMOTIVE ENGINEERS , never die , they just get derailed
+('doctor', 'NN')	('shots', 'NNS')	A doctor who became a bartender was always giving out shots !
+('grass', 'NN')	('side', 'NN')	The grass is always greener on the other side .
+NA	NA	OLD STATISTICIANS never die , they just average out .
+('light', 'JJ')	('show', 'VBP')	A little boy fired his light - colored crayons because they wouldn ' t show up .
+('certain', 'JJ')	('register', 'VB')	With certain cashiers , things are slow to register .
+NA	('lose', 'VB')	OLD ELECTRICIANS never die they just lose contact .
+('I', 'PRP')	('said', 'VBD')	' ' Perhaps I will , ' ' said Tom with all his might .
+('way', 'NN')	('new', 'JJ')	The comedian stopped at the fabric store on his way to a comedy gig . He was looking for new material .
+NA	NA	- Call me a taxi . - OK , you ' re a taxi .
+('sells', 'VBZ')	('pawn', 'NN')	Someone who sells old chess pieces is a pawn broker .
+('want', 'VBP')	('show', 'VB')	If you want her to show emotion , cut up her credit cards .
+('joined', 'VBD')	NA	The model who joined the air force was a bombshell .
+NA	('pipe', 'VBP')	OLD PLUMBERS never die , they just pipe down .
+NA	('sorry', 'NN')	Better safe than sorry .
+('really', 'RB')	('fly', 'NN')	The surgeon really did not know how to perform quick surgeries on insects , but he did one on the fly .
+('die', 'VBP')	('mean', 'JJ')	OLD STATISTICIANS never die , they just get mean .
+NA	NA	We went to the owls convention and it was a real hoot .
+NA	('deflowered', 'VBN')	OLD GARDENERS never die they are just deflowered .
+('installers', 'NNS')	('opportunity', 'NN')	In the air duct installers union they have lots of opportunity to vent .
+('He', 'PRP')	('cut', 'NN')	He and his partner made knives , and they shared a cut .
+('player', 'NN')	('steal', 'VB')	A baseball player was a thief . He was always trying to steal .
+NA	NA	First deserve , then desire .
+NA	NA	The fault line had a splitting headache .
+('You', 'PRP')	('think', 'VBP')	You ' re so vain / I bet you think this tagline ' s about you
+NA	NA	OLD DIVERS never die , they just flop .
+('used', 'VBD')	('going', 'VBG')	For a while , Houdini used a lot of trap doors in his act , but he was just going through a stage .
+NA	NA	You know the tree by its fruit .
+NA	('lose', 'VBP')	OLD MINERS never die , they just lose their veins .
+('Animals', 'NNS')	('meat', 'NN')	Animals are slaughtered for meat at a tender age .
+('I', 'PRP')	('mail', 'NN')	' ' I make the armour out of chain links , ' ' Tom replied by mail .
+NA	NA	He became an astronaut and had a blast .
+('A', 'DT')	('one', 'CD')	A perfect woman is one that is inflated to 40 psi .
+('broom', 'NN')	('feet', 'NNS')	A janitor with a broom in hand swept her off her feet .
+('I', 'PRP')	('clicked', 'VBD')	I couldn ' t figure out how to fasten my seatbelt . Then it clicked .
+NA	('lose', 'VBP')	OLD PHOTOGRAPHERS never die , they just lose their focus .
+NA	NA	Ne ' er cast a clout till May be out .
+NA	('Every', 'DT')	The trapeze artist had to buy his own safety equipment . Every Friday he drew his net wages .
+('think', 'VB')	('friends', 'NNS')	Do not think that one enemy is insignificant , or that a thousand friends are too many .
+NA	('cavity', 'NN')	Dentists on death fill their last cavity .
+('I', 'PRP')	('need', 'VBP')	I ' d love to , but my bathroom tiles need grouting .
+NA	('work', 'VB')	Math class is full of drama . There are so many problems to work out .
+('Her', 'PRP$')	('bone', 'VB')	Her exam was on the human skeleton , so she decided to bone up .
+('pin', 'NN')	('friend', 'NN')	Once the pin is pulled , Mr . Grenade is no longer a friend . . .
+('go', 'VBP')	('chicken', 'VB')	The first duck wouldn ' t go in the water . The other duck said ' ' What are you , chicken ? ' ' .
+('course', 'NN')	('drive', 'NN')	To golf at your favorite course may require a long drive .
+NA	('Continue', 'NNP')	Any key will commence hard drive format . Continue ( y / n ) ?
+('never', 'RB')	('lose', 'VBP')	OLD TRIGONOMETRY TEACHERS never die , they just lose their identities .
+('I', 'PRP')	('crashing', 'NN')	I ' m not afraid of flying , I ' m afraid of crashing .
+('She', 'PRP')	('chin', 'NN')	She was only a Catcher ' s daughter , but she had many balls bounce off her chin .
+NA	NA	Money talks .
+NA	NA	Jesus did the only extreme world makeover , the flood
+('took', 'VBD')	('point', 'NN')	I took up teaching fencing as I wanted my students to get the point .
+('Sign', 'NN')	NA	Sign on an electrician ' s truck : Let us remove your shorts .
+NA	NA	I like marching songs , in any month .
+('I', 'PRP')	NA	' ' I couldn ' t believe there were 527 , 986 bees in the swarm ! ' ' Tom recounted .
+('I', 'PRP')	('home', 'VBN')	`` I ' m sick ! I ought to be home in bed with a nurse . ``
+('Scouts', 'NNP')	('hitch', 'NN')	Our Boy Scouts ' knot - tying class went off without a hitch .
+('used', 'VBD')	NA	I used to have a fear of hurdles , but I got over it .
+('A', 'DT')	('pop', 'NN')	A group called the Balloons sings pop music .
+('I', 'PRP')	('score', 'NN')	' ' I have to check the score on this exam again , ' ' Tom remarked .
+NA	NA	The dogs bark but the caravan passes on .
+('She', 'PRP')	('knows', 'VBZ')	She was only a Gardener ' s daughter , but she knows all the rakes .
+NA	('skills', 'NNS')	A locksmith has to have a good Combination of skills .
+('asked', 'VBD')	('arms', 'NNS')	The teacher asked a question and the students were all up in arms .
+('Real', 'JJ')	('away', 'RB')	She was only a Real estate agent ' ' s daughter , but she gave a lot away .
+('make', 'VB')	('make', 'VB')	If you can ' t make it good , make it expensive .
+NA	NA	Little strokes fell great oaks .
+('never', 'RB')	('fair', 'JJ')	Faint heart never won fair lady .
+NA	NA	In the middle of difficulty lies opportunity .
+('wearing', 'VBG')	('flies', 'NNS')	When you ' re wearing a watch on an airplane , time flies .
+('It', 'PRP')	('never', 'RB')	It ' s better to have loved and lost than never to have loved at all .
+NA	NA	A man ' s home is his castle .
+NA	NA	The mathematician worked at home because he only functioned in his domain .
+('I', 'PRP')	('legs', 'NNS')	I couldn ' t stand to be without my legs .
+('never', 'RB')	('dough', 'NN')	Old bakers never die , they just keep making lots of dough .
+('I', 'PRP')	('problem', 'NN')	In equations with square numbers I can never find the root of the problem .
+('Did', 'NNP')	('right', 'RB')	Did you hear about the guy whose whole left side was cut off ? He ' s all right now .
+NA	('places', 'NNS')	Airline pilots make many friends in high places .
+('die', 'VBP')	('keep', 'VB')	OLD MOONSHINERS never die , they just keep still .
+NA	('cut', 'VBD')	His business plan to manufacture scissors just didn ' t cut it .
+('carpenter', 'NN')	('work', 'NN')	The carpenter was well - known for nailing his work .
+('like', 'IN')	('get', 'VB')	Salespeople selling security equipment like to see people get alarmed .
+('She', 'PRP')	('around', 'RP')	She was only a Globetrotter ' s daughter , but she manages to get around .
+('church', 'NN')	('around', 'RP')	We’ve got children’s church because we know how to kid around
+('boils', 'VBZ')	('taste', 'NN')	What it boils down to is this : eggs taste good .
+('My', 'PRP$')	('butcher', 'NN')	My name is Chuck , I ' m a butcher .
+NA	NA	The pope , on his 2008 tour in the United States , skipped Mass .
+NA	NA	I ' ll have what the gentleman on the floor is having .
+('massive', 'JJ')	('public', 'JJ')	There was a massive outcry against the plan to build a power line across a nature preserve . The public couldn ' t bear the tension .
+('tailor', 'NN')	('suit', 'VB')	A tailor sometimes decides to suit himself .
+('considered', 'VBN')	('crowning', 'VBG')	A woman who became queen considered it her crowning achievement .
+NA	('mass', 'VBN')	Even though Catholics in space are weightless , do they have mass ?
+NA	NA	OLD PILOTS never die , they just buzz off .
+NA	NA	Convicts are committed people .
+NA	('simplicity', 'NN')	sophisticated , adj . deprived of its native simplicity .
+('My', 'PRP$')	('star', 'NN')	My name is Emmy , I ' m a T . V . star
+('The', 'DT')	('next', 'JJ')	The Procrastinators Anonymous meeting has been delayed until next Wednesday
+('care', 'NN')	('pennies', 'NNS')	Take care of the pennies and the pounds will take care of themselves .
+('A', 'DT')	('sweeping', 'VBG')	A new type of broom came out , it is sweeping the nation .
+('Behind', 'IN')	('lies', 'VBZ')	Behind every great computer lies . . . a mess of wires !
+NA	('uprooted', 'VBN')	OLD TREE SURGEONS never die , they are just uprooted .
+('long', 'JJ')	('mouthful', 'NN')	Pills with long names can be quite a mouthful .
+NA	('I', 'PRP')	My name is Brooks . I ' m an irrrigation consultant
+('learn', 'VBP')	('one', 'CD')	In zen skiing , you learn to become one with the snow .
+NA	NA	Missing the wood for the trees .
+('A', 'DT')	('police', 'NN')	A lingerie thief gave a police officer the slip .
+('We', 'PRP')	('always', 'RB')	We ' ll never run out of math teachers because they always multiply .
+NA	NA	The more you stroke the cat ' s tail , the more he raises his back .
+('Klingon', 'NNP')	NA	Are you a Klingon , or is that a turtle on your head ?
+('got', 'VBD')	('scratched', 'VBN')	The race dogs got a bad case of the fleas - they had to be scratched .
+('asked', 'VBD')	NA	A lawyer asked his dentist to give him a retainer .
+('Wade', 'NNP')	('swimming', 'VBG')	My name is Wade and I ' m in swimming pool maintenance .
+('Hell', 'NNP')	('scorned', 'VBN')	Hell hath no fury like a woman scorned .
+('must', 'MD')	('situation', 'NN')	An astronaut who fails on a weightlessness experiment must be aware of the gravity of the situation .
+NA	('July', 'NNP')	The weatherman who forecasted snow in July was a bit of a flake .
+('brothers', 'NNS')	('ghost', 'NN')	Two brothers collaborated on haunted stories , but one was a ghost writer .
+('They', 'PRP')	('falling', 'VBG')	They built a tree house together but then had a falling out .
+('I', 'PRP')	('tree', 'JJ')	I ' m a sap for tree jokes .
+NA	NA	Eschew Obfuscation !
+('Monday', 'NNP')	('spend', 'VB')	Monday is a hard way to spend 1 / 7 of your life .
+('never', 'RB')	('boot', 'NN')	OLD COWBOYS never die , they just get the boot .
+('Cowboys', 'NNP')	('bucks', 'NNS')	Cowboys in a rodeo can be sure to get a few bucks .
+NA	('lose', 'VBP')	OLD PRINCIPALS never die they just lose their faculties .
+('lie', 'NN')	('see', 'VB')	Never lie to an x - ray technician . They can see right through you .
+('bought', 'VBD')	('tie', 'VB')	He bought a rope factory to tie into his empire .
+('He', 'PRP')	('spike', 'VB')	He took a nail to the volleyball game because he wanted to spike it .
+('There', 'EX')	('fool', 'NN')	There ' s no fool like an old fool .
+NA	NA	Pharmacists find their work to be very encapsulating .
+NA	('punch', 'VBP')	OLD KEY PUNCH OPERATORS never die they just punch out .
+('player', 'NN')	('dribble', 'VB')	A basketball player couldn ' t control his saliva but he could sure dribble .
+('STICK', 'NNP')	('A', 'DT')	STICK \ ' stik \ n . 1 : A somewhat nonfunctional boomerang .
+('work', 'VBP')	('time', 'NN')	If you work in a forestry company you will probably have to log your time .
+('never', 'RB')	('away', 'RP')	OLD GOLFERS never die they just putter away .
+('job', 'NN')	('big', 'JJ')	A job circumcising elephants isn ' t so bad . The base salary is small but the tips are big .
+('candle', 'JJ')	('candle', 'JJ')	A man giving a speech by candle - light can wax eloquent .
+NA	NA	Working hard to become roadkill on the Infobahn .
+('I', 'PRP')	('away', 'RB')	I never have understood how you ' re supposed to hit anything with a bat . . . . . it keeps flying away .
+('I', 'PRP')	('without', 'IN')	' ' How long will I have to wait for a table ? ' ' asked Tom without reservation .
+('wondered', 'VBD')	('little', 'JJ')	The designer wondered why his pirate room wasn ' t perfect , and the judge told him he went a little overboard .
+('Consult', 'NNP')	NA	' ' Consult an investment broker , ' ' was Tom ' s stock answer .
+('one', 'CD')	('middle', 'NN')	If there ' s one person you don ' t want to interrupt in the middle of a sentence it ' s a judge .
+('like', 'IN')	('hops', 'NNS')	Rabbits like their beer brewed with a lot of hops .
+('My', 'PRP$')	NA	My name is Sly . I ' m a detective .
+('really', 'RB')	('fan', 'NN')	Some people really enjoy blowing air out of their lungs - I ' m not a fan myself .
+('An', 'DT')	('veteran', 'NN')	An old spice wholesaler is a seasoned veteran .
+NA	NA	All women are automatically born with a shopping disorder
+NA	('appear', 'VB')	Talk of the devil and he ' s sure to appear .
+('shop', 'VB')	('tail', 'NN')	If an animal looses its tail it should shop at a retail store .
+('go', 'VBP')	('make', 'VB')	If you go for a job interview at a rubber stamp company try to make a good impression .
+('never', 'RB')	('spark', 'NN')	OLD BLASTING TECHNICIANS never die , they just lose their spark .
+('Love', 'VB')	('sweet', 'JJ')	Love me tender / love me sweet / push me out at 12 , 000 ft
+('Studying', 'VBG')	('minds', 'NNS')	Studying fungus is a way to mold young minds .
+NA	NA	`` Graphic Artist seeks Boss with vision impairment . ``
+('musician', 'NN')	('things', 'NNS')	A mechanic who was also a musician was good at tuning things .
+NA	NA	More haste , less speed .
+NA	('bets', 'NNS')	A gambling gardener usually hedges his bets .
+('I', 'PRP')	('real', 'JJ')	I watched a movie about a baby hen , it was a real chick flick .
+('invented', 'VBN')	NA	Copper wire was invented by lawyers arguing over a penny .
+('player', 'NN')	('shuffle', 'VBP')	How does a card player party ? They shuffle .
+('I', 'PRP')	('bothered', 'VBN')	I noticed that the sun was out , and nobody had bothered to relight it .
+('IQs', 'NNP')	('dense', 'NN')	If a town ' s people have low IQs is the population dense ?
+('I', 'PRP')	('hung', 'VBD')	I was talking during sex and my girlfriend hung up .
+('You', 'PRP')	('young', 'JJ')	You are an example of why some animals eat their young .
+('got', 'VBD')	('take', 'VB')	Doctor , Doctor , you ' ve got to help me . I think I ' m a kleptomaniac . - Don ' t worry . I think there ' s something you can take for that . Next .
+NA	NA	Practice makes perfect .
+('She', 'PRP')	('peach', 'NN')	She was only a Fruit vender ' s daughter , but , oh , what a peach .
+('Cometh', 'NNP')	('man', 'NN')	Cometh the hour cometh the man .
+NA	NA	The Bagginses , they steals our taglines , precioussss . . . .
+('never', 'RB')	('expressions', 'NNS')	Old math profs never die - - they just use strange expressions .
+NA	NA	and that , my leige , is how we know the Earth to be banana - shaped . . .
+('accident', 'NN')	('marooned', 'VBD')	A boating accident between the yacht , Red Dawn , and the schooner , Blue Lagoon , left the survivors marooned .
+('loved', 'VBN')	('lose', 'VB')	Junior loved being a member of the wrestling team even though he was prone to lose .
+('waiter', 'NN')	('I', 'PRP')	The waiter was shocked when I asked for my salad to be served naked . I explained , no dressing please .
+('suspected', 'VBD')	('asked', 'VBD')	I suspected our new house guest was a terrorist . He asked to sleep on a blow up mattress .
+('give', 'VB')	('purchase', 'NN')	Trophy shops often will give customers floss with their purchase to eliminate plaque problems .
+NA	NA	Scientists have created a flea from scratch .
+NA	NA	Seek water in the sea .
+NA	('deflowered', 'VBN')	OLD BOTANISTS never die , they ' re just deflowered .
+('pond', 'NN')	('quite', 'RB')	The plot to his story of the pond was quite shallow .
+('sight', 'VBP')	('fluke', 'NN')	If you sight a whale , it could be a fluke .
+('would', 'MD')	('account', 'NN')	A person who would make a banking joke is of no account .
+NA	('asking', 'VBG')	Lose nothing for want of asking .
+('He', 'PRP')	('could', 'MD')	He bought a plate with four corners so he could have a square meal .
+('I', 'PRP')	('peeped', 'VBD')	' ' I didn ' t look at all ! ' ' Tom peeped .
+('My', 'PRP$')	('Musician', 'JJ')	My name is Melody . A Musician
+('made', 'VBD')	NA	Two companies that made shoelaces had common ties .
+NA	NA	The younger brother the better gentleman .
+('I', 'PRP')	('one', 'CD')	New religion ? I haven ' t used up the old one , yet !
+('Why', 'WRB')	('long', 'RB')	Why is the word abbreviation so long ?
+('Why', 'WRB')	('Because', 'IN')	Why was the car embarrassed ? Because it had gas !
+('God', 'NNP')	('ways', 'NNS')	God works in mysterious ways .
+NA	NA	An egotist is a person who is more interested in himself than in me .
+('keep', 'VB')	('dead', 'JJ')	Three can keep a secret , if two of them are dead .
+('I', 'PRP')	('take', 'VBP')	I was arrested after my therapist suggested I take something for my kleptomania .
+('coming', 'VBG')	('Next', 'NNP')	Doctor , Doctor , my hair is coming out . What can you give me to keep it in ? - A cigar box . Next .
+NA	NA	Once a thief always a thief .
+NA	NA	OLD FLORISTS never die , they just make alternative arrangements .
+('home', 'NN')	('alive', 'JJ')	When entering a funeral home , remember to stay alert and always look alive !
+NA	NA	Loose lips sink ships .
+NA	('stuff', 'NN')	Taxidermists really know their stuff .
+('blackberries', 'NNS')	('jam', 'NN')	Two blackberries met . They were both in a jam .
+NA	NA	Two surgeons were joking about sutures and had each other in stitches .
+('every', 'DT')	('wear', 'VB')	Behind every man , there ' s a woman with nothing to wear .
+('My', 'PRP$')	('met', 'VBD')	My boyfriend and I started to date after he backed his car into mine . We met by accident .
+('Some', 'DT')	('always', 'RB')	Some burglars are always looking for windows of opportunity .
+('die', 'VBZ')	('plane', 'NN')	OLD PILOTS never die they just go to a higher plane .
+NA	('drink', 'NN')	Beer : So much more than a breakfast drink .
+('I', 'PRP')	NA	I am not 40 , I ' m 18 with 22 years experience
+NA	('time', 'NN')	Dry cleaners are often pressed for time .
+NA	NA	Cousteau was submerged in his work .
+('buy', 'VB')	('soup', 'NN')	I went to the store to buy some soup but they were out of stock .
+NA	NA	Sports are refereed by people of many stripes .
+('new', 'JJ')	('sucked', 'VBN')	My new expensive vacuum cleaner really sucked .
+NA	NA	A restaurant owner gave his cooks a stirring speech .
+('I', 'PRP')	NA	I travel all over America , Tom stated .
+('never', 'RB')	('spark', 'NN')	OLD PYROMANIACS never die , they just lose their spark
+NA	NA	The Easter story is not a dead issue .
+NA	NA	Be true to your teeth , or they will be false to you .
+('footprints', 'NNS')	('heel', 'NN')	Don’t let your footprints in the sands of time be the mark of a heel
+('wanted', 'VBD')	('horse', 'NN')	Five brothers wanted to buy a horse , so they all had to pony up .
+('He', 'PRP')	('job', 'NN')	He couldn ' t decide whether to accept a job in mattress sales so he decided to sleep on it .
+('dry', 'VBP')	('prune', 'VB')	When the plums dry on your tree , it ' s time to prune .
+('sick', 'JJ')	('could', 'MD')	If you get sick at the airport it could be a terminal illness .
+NA	NA	The dentist ' s favourite shopping centre was ' The Gap ' .
+('hired', 'VBN')	('grilled', 'VBD')	Before he was hired as a short order cook they grilled him .
+('Fast', 'NNP')	('Two', 'CD')	( a ) Fast , ( b ) Reliable , ( c ) Inexpensive - Pick Two .
+NA	('holidays', 'NNS')	Business at the candle factory tapered off after the holidays .
+('Take', 'VB')	('come', 'VBP')	Take all things as they come and be content .
+('guessed', 'VBD')	('rough', 'JJ')	The golfer guessed that his ball landed 20 feet off the fairway . Of course , that was just a rough estimate .
+NA	NA	Pencil sharpeners have a tough life - they live off tips .
+('went', 'VBD')	('head', 'NN')	Two referees went head to head because they had a score to settle .
+('There', 'EX')	('present', 'JJ')	There is no time like the present .
+NA	NA	There is danger in delay .
+('circus', 'NN')	('funny', 'JJ')	A circus lion won ' t eat clowns because they taste funny .
+NA	('Postponed', 'VBD')	Procrastination Day Has Been Postponed !
+('took', 'VBD')	('steps', 'NNS')	In an office : Would the person who took the step ladder yesterday kindly bring it back or further steps will be taken .
+('never', 'RB')	('drive', 'NN')	OLD GOLFERS never die , they just lose their drive .
+('lumpy', 'RB')	NA	When it was lumpy he had a beef with his gravy .
+('A', 'DT')	('new', 'JJ')	A pop singer bought a new house for a song .
+('There', 'EX')	('caught', 'VBN')	There are as good fish in the sea as ever were caught .
+('better', 'JJR')	('one', 'CD')	50 percent of something is better than one hundred percent of nothing .
+('florists', 'NNS')	('arranged', 'JJ')	Two florists got married . It was an arranged marriage .
+('never', 'RB')	('tangent', 'NN')	OLD GEOMETRY TEACHERS never die , they just go off on a tangent .
+NA	NA	The photograph that I took of the sandstorm turned out grainy .
+NA	('staff', 'NN')	The owner of the hair salon had to make cuts on his staff .
+('said', 'VBD')	('let', 'NN')	One palm tree said to another ' let ' s have a date . '
+('It', 'PRP')	('sleep', 'VBP')	It ' s a fact , taller people sleep longer in bed .
+('got', 'VBD')	NA	Nobel got a big bang out of it .
+NA	('always', 'RB')	Those working in tissue research and testing are always blowing it .
+('drunk', 'NN')	('work', 'NN')	For the office drunk : He generally found him loaded with work to do .
+('would', 'MD')	('Next', 'JJ')	Doctor , Doctor , what would you take for this cold ? - Make me an offer . Next .
+[]
+[]
+[]
+[]
+[]
+('one', 'CD')	('last', 'JJ')	An undertaker can be one of your best friends , he is always the last one to let you down .
+('Day', 'NNP')	('preceding', 'VBG')	Labor Day is a good time to stop and reflect on the august events the the preceding month .
+NA	NA	The show must go on .
+('decided', 'VBD')	NA	Two pencils decided to have a race . The outcome was a draw .
+('Waiter', 'NNP')	('tailor', 'NN')	' ' Waiter , there ' s a fly in my soup ! ' ' ' ' Force of habit , sir , the chef used to be a tailor .
+('You', 'PRP')	('adding', 'VBG')	You know what happens after you miss math class ? It starts adding up .
+('I', 'PRP')	('stinks', 'NNS')	I crossed a cell phone with a skunk , and now the service stinks .
+('I', 'PRP')	('start', 'NN')	I hear the Sylvester Stallone Film Festival got off to a rocky start .
+('I', 'PRP')	('fly', 'VB')	I wanted to bring a penguin home but my parents said that wasn ' t going to fly .
+('collects', 'VBZ')	('mint', 'NN')	He collects mouthwash bottles , and they ' re all in mint condition .
+NA	NA	Early nuclear experimenters discovered an element of surprise .
+NA	('things', 'NNS')	Multitasking = screwing up several things at once .
+('After', 'IN')	('time', 'NN')	After Junior swallowed the watch he had to wait to pass the time .
+('die', 'VBP')	('exhausted', 'JJ')	OLD AUTO MECHANICS never die , they just become exhausted .
+('goes', 'VBZ')	('something', 'NN')	If all goes well , you ' ve overlooked something !
+NA	NA	Two companies that manufactured rulers decided to align .
+('Waiter', 'NNP')	('food', 'NN')	Waiter , there are pennies in my soup ! ' ' Well , sir , you said you ' d stop eating here if there wasn ' t some change in the food . ' ' *
+NA	NA	Hope for the best , but prepare for the worst .
+('tried', 'VBD')	('hardly', 'RB')	I tried to pack myself in a suitcase . I could hardly contain myself .
+('My', 'PRP$')	('trainer', 'NN')	My name is Leo . A lion trainer .
+('crested', 'VBD')	('spilled', 'VBN')	The river crested when a factory spilled toothpaste into it .
+NA	('given', 'VBN')	When video arcades switched to a system of tokens , there was no quarter asked or given .
+('The', 'DT')	('downhill', 'NN')	The Alpine Skiing competition started poorly and went downhill from there .
+NA	NA	Deep calls to deep .
+('A', 'DT')	('man', 'NN')	A young man married is a young man marred .
+('long', 'JJ')	('cheap', 'RB')	A gardening store owner who often called long distance for importing realized that talk and dirt aren ' t necessarily cheap .
+('wear', 'VBP')	('know', 'VBP')	If you wear a blindfold at the shooting range , you won ' t know what you ' re missing .
+NA	('deliverer', 'NN')	When a letter carrier became a hero they called him a deliverer .
+('I', 'PRP')	('Tom', 'NNP')	' ' I ' ve run out of wool , ' ' said Tom , knitting his brow .
+NA	NA	Lunatic asylum : where optimism most flourishes .
+('Librarians', 'NNS')	('book', 'NN')	Librarians are always going by the book .
+NA	NA	Cross the stream where it is shallowest .
+('think', 'VB')	NA	The prospector didn ' t think his career would pan out .
+('write', 'VB')	('pointless', 'JJ')	To write with a broken pencil is pointless .
+('ruts', 'NNS')	('slipping', 'VBG')	The ice at the rink has many ruts . I think the maintenance crew is slipping up .
+NA	('I', 'PRP')	There was a contest on a slippery rock slope . I won in a landslide .
+('keep', 'VBP')	('Next', 'JJ')	Doctor , doctor , I keep thinking I ' m a deck of cards . - I ' ll deal with you later . Next !
+NA	NA	OLD FARMERS never die , they just turn into vegetables .
+NA	('clerical', 'JJ')	When a priest makes a mistake in church it ' s a clerical error .
+('simple', 'JJ')	('find', 'VB')	. . . So simple a child could do it ? Go find me a child !
+NA	NA	What you sow is what you reap .
+('days', 'NNS')	('hanging', 'VBG')	In the old days a suspended sentence was hanging .
+('first', 'JJ')	('I', 'PRP')	The first time I got hold of a hang glider I had to wing it .
+NA	NA	Curiosity killed the cat .
+('like', 'IN')	('ago', 'RB')	The coffee tasted like mud because it was ground a couple of minutes ago .
+NA	('lose', 'VBP')	OLD DEANS never die they just lose their faculties .
+('I', 'PRP')	('sitting', 'VBG')	Show me a baker who is on a roll and I ' ll show you someone sitting on a bun .
+('never', 'RB')	('potential', 'NN')	OLD ELECTRICIANS never die , they just lose their potential .
+NA	NA	Success comes in cans , failure comes in cant’s
+NA	NA	The spirit is willing but the flesh is weak .
+('She', 'PRP')	NA	She was only a Junkie ' s daughter but her crack was the best in town .
+('I', 'PRP')	('got', 'VBD')	I know road rage is an awful thing but when someone bumped my car I just couldn ' t help it . I got out my camera and snapped at the offender .
+NA	('bring', 'VB')	The worth of a thing is what it will bring .
+('She', 'PRP')	('calves', 'NNS')	She was only a Cattleman ' s daughter , but she couldn ' t keep her calves together .
+('wags', 'VBP')	('bread', 'NN')	Dogs wags their tails , not as much to you as to your bread .
+('I', 'PRP')	('away', 'RB')	I tried hard to get into vexillology , but , in the end , had to flag it away .
+NA	NA	An archaeologist ' s career ended in ruins .
+NA	NA	Any given program , once running , is obsolete .
+NA	NA	OLD PRESIDENTS never die , they just go through their cabinets
+NA	NA	Who has not served can not command .
+NA	('type', 'VBP')	SYSOP \ ' sis äp \ n : the person laughing as you type
+('I', 'PRP')	NA	I ' ve spotted more blackbirds than you have , Tom crowed .
+NA	('lose', 'VBP')	OLD TYPISTS never die , they just lose their justification .
+NA	('longer', 'JJR')	No longer foster , no longer friend .
+('people', 'NNS')	('causes', 'VBZ')	Don ' t lend people money . It causes amnesia .
+('That', 'DT')	('least', 'JJS')	That government is best which governs least .
+('I', 'PRP')	('wood', 'NN')	I ' ll glue the sheets of wood back together , Tom replied .
+('die', 'VBN')	('pine', 'VB')	Old lumberjacks never die , they just pine away .
+('problems', 'NNS')	('eventually', 'RB')	Early stone tools had many problems that were eventually ironed out .
+NA	NA	Empty vessels make the most sound .
+NA	NA	To test a man ' s character , give him power .
+('He', 'PRP')	('job', 'NN')	He was facinated by his new welding job . It was riveting .
+('significantly', 'RB')	('span', 'NN')	Bridge tolls have increased significantly over a 5 year span .
+NA	NA	Nothing is so smiple that it can ' t get screwed up .
+('polish', 'JJ')	('work', 'NN')	Those who polish cars so that they shine work in a buffer zone .
+('apple', 'NN')	('whole', 'JJ')	One rotten apple will spoil the whole barrel .
+('None', 'NN')	('types', 'VBZ')	None of you exist . The sysop types it all in . . .
+('Did', 'NNP')	('dummies', 'NNS')	Did you see guys that Bob the ventriloquist hangs out with ? They ' re nothing special , just a bunch of dummies .
+('secret', 'NN')	('know', 'VB')	One secret of success is to know how to deny yourself and other people .
+NA	NA	One scabbed sheep mars the whole flock .
+('silent', 'JJ')	('mouth', 'NN')	Better to remain silent and be thought a fool , than to open your mouth and remove all doubt .
+NA	('jump', 'VB')	Today is a good day for you to jump in a lake .
+('poor', 'JJ')	('even', 'RB')	We were so poor when I was growing up we couldn ' t even afford to pay attention .
+('give', 'VBP')	('back', 'RP')	When you give to god , you always get back change
+('paranoid', 'JJ')	('told', 'VBD')	I ' m not paranoid ! Which of my enemies told you this ?
+('going', 'VBG')	('loose', 'JJ')	I was going to buy some loose tea , but the price was too steep .
+NA	('fortified', 'VBN')	The sergeant drank whiskey in order to be fortified in his position .
+NA	NA	OLD COUPON CLIPPERS never die , they just expire .
+('sure', 'JJ')	('speed', 'NN')	Oh sure ! But what ' s the speed of dark ?
+('certainly', 'RB')	('good', 'JJ')	She was only a Electrician ' s daughter , but she certainly had good connections .
+NA	('relative', 'JJ')	The harm caused by sibling rivalry is relative .
+('When', 'WRB')	('job', 'NN')	When the woman got paid for being in a study at the sleep clinic , she said it was her dream job .
+('sat', 'NN')	('bored', 'VBN')	A carpenter sat on his drill and was bored to tears .
+NA	NA	A civil question deserves a civil answer .
+('library', 'NN')	('building', 'NN')	A library should have several floors because it is a multi story building .
+NA	NA	We don’t read palms ; we wave them .
+NA	NA	Once a drunkard always a drunkard .
+('disagreed', 'VBP')	('hash', 'VB')	Two cooks disagreed but decided to hash it over .
+('Hire', 'NNP')	('know', 'VBP')	Hire teenagers while they still know everything .
+('tongue', 'NN')	('hold', 'VB')	The tongue weighs very little , but few people can hold it .
+NA	('works', 'NNS')	She ' s a composer who has scores of works to her credit .
+('fell', 'VBD')	('bad', 'JJ')	When he fell in the wet concrete he left a bad impression .
+('Herb', 'NNP')	('cook', 'NN')	My name is Herb . I ' m a cook .
+('lives', 'VBZ')	('die', 'VB')	Who lives by hope will die of hunger .
+('fired', 'VBN')	('know', 'VBP')	There was a report of shots fired in a local bar . The police don ' t know what triggered the commotion .
+NA	('find', 'VBP')	Take things as you find them .
+('supplies', 'NNS')	('staple', 'NN')	A goat that ate office supplies was on a staple diet .
+('watered', 'VBN')	('proof', 'NN')	When the wino suspected his muscatel was watered down , he needed more proof .
+('promised', 'VBD')	('every', 'DT')	The bargain store promised a free abacus with every purchase , but I wouldn ' t count on it .
+('find', 'VBP')	('tricky', 'JJ')	Illusionists always find themselves in tricky situations .
+NA	NA	The orange squeezer was invented with some juicy information .
+('fools', 'NNS')	('think', 'VB')	The first chapter of fools is to think themselves wise .
+('die', 'VBP')	('lousy', 'JJ')	OLD NITPICKERS never die , they just feel lousy .
+NA	NA	Comedians , the biggest joke going .
+('Graduate', 'NN')	('Acting', 'VBG')	I ' m ! A ! Graduate ! Of ! The ! Bill ! Shatner ! Acting ! School !
+('little', 'JJ')	('nuts', 'NNS')	Why didn ' t the little boy ask the flight attendant for a snack ? He didn ' t have the nuts .
+('Why', 'WRB')	('questions', 'NNS')	Why did the agricultural presentation go so smoothly ? They planted questions .
+('I', 'PRP')	('came', 'VBD')	I couldn ' t quite remember how to throw a boomerang , but eventually it came back to me .
+('never', 'RB')	('trace', 'NN')	OLD FORGERS never die , they just leave no trace .
+('Speed', 'NNP')	('Stopping', 'VBG')	Speed doesn ' t kill . Stopping very fast kills .
+NA	('never', 'RB')	When buying a battery you should never have to charge it .
+('want', 'VBP')	('right', 'RB')	If you want a thing done right , do it yourself .
+('Hey', 'NNP')	('lawn', 'NN')	Hey , is this yours ? Your dog left it on my lawn . . .
+NA	NA	Fretting cares make grey hairs .
+('never', 'RB')	('lose', 'VBP')	OLD WRESTLERS never die they just lose their grip .
+NA	('forest', 'JJS')	`` Bother , `` said Pooh , as he torched the forest . . . . .
+('In', 'IN')	('filed', 'VBN')	In the office she was frantically looking for her false nails only to discover she had filed them away .
+NA	NA	He is my friend who grinds at my mill .
+NA	('lose', 'VBP')	OLD TEACHERS never die they just lose their class .
+NA	NA	Gunpowder was invented in a flash .
+NA	('well', 'RB')	The frog went unnoticed in the milkshake because it blended so well .
+('Sign', 'NNP')	('refuse', 'VB')	Sign in an electrician ' s shop : ' We will refuse you . '
+('Do', 'NNP')	NA	Do not add oil to the fire .
+NA	NA	Low carb diets really go against the grain .
+('Laugh', 'NNP')	('cry', 'VBP')	Laugh and the world laughs with you , cry and you cry alone .
+('A', 'DT')	NA	A wig van blew up on the motorway - police are combing the area .
+NA	NA	Vegetarian : Indian word for lousy hunter ! ! !
+('kill', 'VB')	('lays', 'VBZ')	Don ' t kill the goose that lays the golden eggs .
+('Sandy', 'NNP')	('lifeguard', 'NN')	My name is Sandy . I ' m a lifeguard .
+('He', 'PRP')	('back', 'RB')	He had a difficult time bouncing back from his bungee cord accident .
+('ignorance', 'NN')	('folks', 'NNS')	If ignorance is bliss , why aren ' t there more happy folks ?
+NA	NA	Love is blind .
+('tattle', 'JJ')	NA	A tattle tale pig is a squealer .
+NA	NA	SHIN : A device for finding furniture in the dark
+NA	NA	Bike sales go in cycles .
+NA	NA	Like father , like son .
+('tennis', 'NN')	('serving', 'VBG')	A waiter who played tennis was great at serving .
+('never', 'RB')	('late', 'JJ')	An old professor who was never on time died and was called the late professor Brown .
+NA	NA	Two cooks had a contest and the heat was on .
+('together', 'RB')	('clubs', 'NNS')	When cave men got together they formed clubs .
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+('fired', 'VBN')	('last', 'JJ')	My friend was fired from his job at the road department for stealing . I have to say I saw it coming . The last time I was at his house all the signs were there .
+('skills', 'NNS')	('going', 'VBG')	My skiing skills are really going downhill .
+('keep', 'VBP')	('Next', 'NNP')	Doctor , doctor , I keep thinking I ' m a spoon . - Sit there and don ' t stir . Next .
+('known', 'VBN')	('pitched', 'JJ')	Baseball is known for its pitched battles .
+('Reassembling', 'VBG')	('mammoth', 'JJ')	Reassembling the skeletons of prehistoric mammals can be a mammoth undertaking .
+NA	NA	Life ' s essentials : H O C N Ca P Cl K S Na Mg
+NA	NA	Math teachers have lots of problems .
+NA	NA	Graveyard workers really dig their jobs .
+('I', 'PRP')	('clothes', 'NNS')	I ' m blind enough to look at the situation in the wrong fashion , so I changed my clothes .
+('trees', 'NNS')	('got', 'VBD')	Before he sold Christmas trees , he got himself spruced up .
+('never', 'RB')	('kick', 'NN')	OLD SOCCER PLAYERS never die , they just lose their kick .
+('Golfers', 'NNS')	('get', 'VB')	Golfers hate cake because they might get a slice .
+('decision', 'NN')	('precipitous', 'JJ')	Her decision to take up rock climbing was precipitous to say the least .
+('My', 'PRP$')	('Ray', 'NNP')	My name is Ray . I ' m a roentgenologist .
+('He', 'PRP')	('trice', 'NN')	He gives twice who gives in a trice .
+('truly', 'JJ')	('plays', 'VBZ')	A truly wise man never plays leapfrog with a unicorn .
+('There', 'EX')	NA	There is no smoke without fire .
+('goes', 'VBZ')	('fall', 'NN')	If pride goes before a fall , humility should arrive by that winter
+NA	('ride', 'VB')	Put a beggar on horseback and he ' ll ride it to death .
+('genie', 'NN')	('bottled', 'VBN')	The psychiatrist told the genie his emotions were all bottled up .
+NA	NA	After they had it out in the boxing ring , they called it square .
+('I', 'PRP')	('back', 'RB')	Send $ 20 and I will double your IQ or no money back
+('He', 'PRP')	('god', 'NN')	He who lends to the poor gets interest from god
+NA	NA	Power corrupts , especially at the electric company .
+('die', 'VBP')	('away', 'RP')	OLD PSYCHIATRISTS never die , they just shrink away .
+('back', 'RB')	('support', 'NN')	A politician with a bad back needs lots of support .
+('She', 'PRP')	('full', 'JJ')	She had two different jobs as a chef which gave her a full plate .
+NA	('disappear', 'VBP')	OLD MAGICIANS never die they just disappear .
+NA	('twins', 'VBZ')	Conjoined twins aren ' t the only twins with special connections .
+('two', 'CD')	('charged', 'VBN')	The two guys caught drinking battery acid will soon be charged .
+('never', 'RB')	('boot', 'NN')	OLD SHOEMAKERS never die , they are just given the boot .
+('health', 'NN')	('know', 'VB')	The first step to health is to know that we are sick .
+NA	('flash', 'JJ')	The exhibitionist went to the store because he heard they were having a flash sale .
+('baseball', 'NN')	('bases', 'NNS')	A baseball player joined the army and did the round of military bases .
+('guns', 'NNS')	('use', 'VB')	If word processing a presentation about guns - - be sure to know how to use bullets .
+NA	('get', 'VB')	OLD METEOROLOGISTS never die , they just get under the weather .
+('case', 'NN')	('police', 'NNS')	A case of disappearing bison had police completely buffaloed .
+('automation', 'NN')	('machines', 'NNS')	Ultimate office automation : networked coffee machines .
+('tell', 'VB')	('lie', 'NN')	Any golfer will tell you the gospel truth . Your next shot always depends on the lie .
+('rolling', 'VBG')	('moss', 'NN')	A rolling stone gathers no moss .
+('artist', 'NN')	('designs', 'VBN')	A tatoo artist has designs on his clients .
+('practice', 'NN')	('many', 'JJ')	Dentists practice by going through many drills .
+('die', 'VBP')	('steal', 'VB')	OLD PICKPOCKETS never die , they just steal away .
+('kill', 'VB')	('got', 'VBD')	Curiosity didn ' t kill the cat . I got ' im with the mower !
+('little', 'JJ')	('pop', 'NN')	A little boy called his father who made balloons ' pop ' .
+('crashes', 'NNS')	('flop', 'NN')	The stock market crashes , but Viagra beats the flop .
+NA	NA	Plagiarism is the sincerest form of flattery .
+('willing', 'JJ')	('thumb', 'NN')	Three fingers were willing to cooperate but the thumb and forefinger were opposed .
+('Those', 'DT')	NA	Those who build roofs are so inclined .
+('A', 'DT')	NA	A skier who makes it to the olympics finds that it is all downhill from there .
+('find', 'VBP')	('right', 'JJ')	When the human cannonball retired they couldn ' t find a replacement of the right caliber .
+NA	NA	A horse is a very stable animal .
+('never', 'RB')	('cold', 'JJ')	OLD ESKIMOS never die , they just go cold .
+('really', 'RB')	('habit', 'NN')	You really are addicted to soccer , you should think of kicking the habit .
+('She', 'PRP')	('bench', 'NN')	She was only a Magistrates daughter , but she knew what to do on the bench .
+('happens', 'VBZ')	('twice', 'RB')	What happens when you get scared half to death . . . . . twice ?
+NA	NA	The first fish to gather in schools was the grouper .
+NA	NA	Put your money where your mouth is .
+('lose', 'VB')	('get', 'VB')	I wanted to lose weight so I went to the paint store . I heard I could get thinner there .
+('If', 'IN')	NA	If all your troubles are melting away watch out for the floods .
+NA	NA	Justice delayed is justice denied .
+('What', 'WP')	('gander', 'NN')	What ' s good for the goose is good for the gander .
+('die', 'VBP')	('steal', 'VB')	OLD PLAGIARISTS never die , they just steal away .
+('used', 'VBD')	('clean', 'NN')	I used to be addicted to soap , but I ' m clean now .
+NA	NA	Profanity , the language of computer professionals
+('want', 'VBP')	('beat', 'NN')	If I want your opinion I ' ll beat it out of you !
+NA	NA	Some cardiologists are heartless .
+('All', 'DT')	('end', 'NN')	All good things must come to an end .
+('went', 'VBD')	('little', 'JJ')	I went to buy some property with a hill on it , but it was a little steep .
+('I', 'PRP')	('well', 'RB')	I find that movies about submarines always go down well .
+('If', 'IN')	('obviously', 'RB')	If it ' s obvious , it ' s obviously wrong .
+NA	NA	`` WHO CARES where Carmen Sandiego is ? ``
+('She', 'PRP')	('ya', 'NN')	`` She ' s dead , Jim . Still warm , though . Flip ya for her ? ``
+('racer', 'NN')	('drive', 'VB')	A racer who was also a golfer really knew how to drive .
+('invite', 'VBP')	NA	If you invite an insomniac to your pajama party they will be up for it .
+('dentists', 'NNS')	('corps', 'NN')	Army dentists make a good drill corps .
+NA	('rash', 'JJ')	Dermatologists often make rash statements .
+('My', 'PRP$')	('Bet', 'NNP')	My name is Bet . I ' m a coupier .
+('A', 'DT')	('thought', 'VBD')	A young sailor thought all of the waves were just swell .
+('die', 'VBZ')	('bits', 'NNS')	OLD PROGRAMMERS never die they just go to bits .
+('Give', 'VB')	('sure', 'JJ')	Give and you might receive . Take and be sure of it .
+('usually', 'RB')	('unless', 'IN')	Backups are usually a good thing unless it ' s a sewer .
+('Vikings', 'NNP')	('storm', 'NN')	The Vikings landed during thunder and lightning and took the city by storm .
+NA	('lose', 'VBP')	OLD BREAD MEN never die , they just lose their dough .
+NA	('scale', 'NN')	Seafood operations start out on a small scale .
+('servants', 'NNS')	('government', 'NN')	Civil servants named Grant are known as government grants .
+NA	NA	Here , you go first , you ' re immune to bullets .
+('I', 'PRP')	('two', 'CD')	I wish Noah had swatted those two mosquitoes . . . . .
+('We', 'PRP')	('young', 'JJ')	We should not expect to find old heads on young shoulders .
+('I', 'PRP')	('told', 'VBD')	I might study something at a university that someone once told me about - there is a degree of ambiguity there .
+NA	('finished', 'VBN')	When ancient wall sculptors were finished it was a relief .
+('hot', 'JJ')	('quite', 'RB')	The hot dog vendor answered , with a tone quite frank .
+('never', 'RB')	('expressions', 'NNS')	OLD MATH PROFESSORS never die , they just use strange expressions .
+NA	('said', 'VBD')	When all is said and done , more is said then done .
+('die', 'VBN')	('waste', 'VB')	OLD SEWAGE WORKERS never die they just waste away .
+NA	('whole', 'JJ')	A half truth is a whole lie .
+('plan', 'NN')	('carry', 'VB')	The thief had a bold plan . He figured he could carry it off .
+('How', 'WRB')	('pans', 'NNS')	How do they get Teflon to stick to the pans ?
+('never', 'RB')	('lose', 'VBP')	OLD SEERS never die they just lose their vision .
+('God', 'NNP')	('devil', 'NN')	Where God has a church the devil will have his chapel .
+NA	NA	Everyday is a gift from god , that is why it is called the present
+NA	('bit', 'NN')	A low yield atomic bomb is like being a bit pregnant .
+NA	NA	There’s no high like the most high .
+NA	NA	OLD LAUNDRY WORKERS never die , they just are decreased .
+('She', 'PRP')	('still', 'RB')	She was only a Moonshiner ' s daughter , but I love her still .
+NA	NA	God cures and the physician takes the fee .
+NA	('looks', 'VBZ')	A cynic smells flowers and looks for the casket .
+('It', 'PRP')	('world', 'NN')	It takes all sorts of people to make a world .
+NA	('lose', 'VBP')	OLD UNIVERSITY PRESIDENTS never die , they just lose their faculties
+('I', 'PRP')	('help', 'NN')	I was going to buy a book on phobias , but I was afraid it wouldn ' t help me .
+NA	NA	The aluminum foiled my plans .
+('She', 'PRP')	('dish', 'VB')	She was only a Waitress ' s daughter but she sure could dish it out .
+NA	NA	The hypnotist went out of business because he ran out of suggestions .
+('class', 'NN')	('flexible', 'JJ')	For class schedules Yoga instructors are flexible .
+('players', 'NNS')	('always', 'RB')	Hockey players are terrible chess players because they are always getting checked .
+('spreadsheets', 'NNS')	('work', 'NN')	I do a lot of spreadsheets in the office so you can say I ' m excelling at work .
+('He', 'PRP')	('strained', 'VBD')	He bent over to pick up a sieve and strained himself .
+NA	('well', 'RB')	When they told him that his drum couldn ' t be fixed , it didn ' t resonate very well .
+NA	('hooks', 'NNS')	A fisherman tried boxing , but he only threw hooks .
+NA	NA	Federal Law prohibits the removal of this tagline
+('Winning', 'VBG')	('sweet', 'JJ')	Winning candy as a prize is always a sweet victory .
+NA	NA	During his lifetime , the composer Bach was a noted success .
+NA	('discarded', 'VBN')	OLD POKER PLAYERS never die , they are just discarded .
+('key', 'JJ')	('key', 'NN')	Press any key to continue . . Any other key to format hard drive .
+('take', 'VB')	('snapped', 'VBD')	' ' I can take photographs if I want to ! ' ' Tom snapped .
+NA	NA	Lightning storms can be very striking .
+('bikinis', 'NN')	('simply', 'RB')	Our bikinis are exciting . They are simply the tops .
+('ladder', 'NN')	('He', 'PRP')	High on a ladder he saw a beautiful girl below . He fell for her .
+('vat', 'NN')	('brewing', 'VBG')	When underwear fell in the vat at a beer - makers , a scandal was brewing .
+('made', 'VBN')	('point', 'NN')	Pencils could be made with erasers at both ends , but what would be the point ?
+('burglars', 'VBZ')	('steal', 'VB')	Old burglars never die they just steal away .
+NA	NA	Lumberjacks have to keep problem logs .
+NA	NA	My name is Grant , I am a loan officer .
+NA	NA	Midwives don ' t like to wear breeches .
+('She', 'PRP')	('fertilize', 'VB')	She was only a Farmer ' s daughter , but she knew hundreds of ways to fertilize .
+('boiling', 'VBG')	('degree', 'NN')	Molecules boiling points vary to some degree .
+NA	('away', 'RB')	A girl a day keeps the wife away .
+NA	NA	Suicidal twin kills sister by mistake . . . news at 11 !
+NA	NA	My name is Joe , an espresso vender
+NA	NA	Haste makes waste .
+('took', 'VBD')	('skip', 'VB')	Two friends took ropes to school so that they could skip out .
+('Many', 'JJ')	('learn', 'VB')	Many people need to learn to be happy with the State they are in .
+('often', 'RB')	NA	Pipe fitters often have high pressure jobs .
+('I', 'PRP')	('Tom', 'NNP')	' ' I told you not to ride that horse , ' ' Tom nagged .
+NA	NA	Coaches usually have a goal in mind .
+('took', 'VBD')	('ride', 'NN')	The meat truck took a long time to deliver because of the Jerky ride .
+NA	NA	Suicide at sea is definitely going overboard .
+('one', 'CD')	('bugs', 'NNS')	An exterminator in Idaho announced that he invented a new spray , one application of which will remain effective for a full season . ' ' Of course , ' ' he warned . ' ' I ' ve still got a few bugs to iron out . ' '
+('get', 'VB')	('trouble', 'NN')	Swimmers have to be careful not to get into deep trouble .
+NA	('derail', 'NN')	OLD RAILROADERS never die , they just derail .
+NA	NA	Time flies .
+NA	NA	The invention of a shirt fastener after the button was a snap .
+('death', 'NN')	('always', 'RB')	Life after death for evil doers has always been a hot topic .
+('got', 'VBD')	('rash', 'JJ')	The man who impulsively got a cat despite his allergies later realized that it was a rash decision .
+NA	NA	OLD CARD PLAYERS never die , they just fold .
+NA	('melons', 'NNS')	She was only a Fruit vendor ' s daughter , but , my , she had big melons .
+('carry', 'VBP')	('stick', 'NN')	Walk softly , carry a big stick .
+('said', 'VBD')	('much', 'JJ')	Boyle said he was under too much pressure .
+('The', 'DT')	('rose', 'VBD')	The color of the sun in the early morning : rose .
+NA	('toll', 'NN')	Driving on so many turnpikes was taking its toll .
+('shame', 'NN')	('shame', 'NN')	Fool me once , shame on you . Fool me twice , shame on me .
+('hospital', 'NN')	('I', 'PRP')	A ham walked out of the hospital and said ' ' I ' m cured ' ' .
+('oranges', 'NNS')	NA	If you ' re looking for oranges on an apple tree you will have a fruitless search .
+('come', 'VBN')	NA	First come , first served .
+('I', 'PRP')	('hard', 'JJ')	In high school I recall having a beautiful but difficult math teacher . She was easy on the eyes and hard on the pupils !
+('scissors', 'NNS')	('words', 'NNS')	Those with scissors shouldn ' t use cutting words .
+NA	NA	What ' s the deal with negotiations ?
+('elders', 'NNS')	('relative', 'JJ')	The family elders have relative importance .
+('loses', 'VBZ')	('frosty', 'JJ')	A skier who loses a race on a cold day will have a frosty disposition .
+('never', 'RB')	('life', 'NN')	OLD PROGRAMMERS never die , they just get bugged with life .
+('keep', 'VB')	('faith', 'NN')	Christians , keep the faith . . . but not from others !
+('Those', 'DT')	('many', 'JJ')	Those who get up at sunrise have many ideas dawn on them .
+('give', 'VB')	('lot', 'NN')	An experienced waiter can give a lot of good tips .
+('Someone', 'NN')	('gossip', 'VB')	Someone who gossips to you will gossip about you .
+('little', 'JJ')	('lots', 'NNS')	A little greed can get you lots of stuff
+('man', 'NN')	NA	Every man thinks his own geese swans .
+('Money', 'NN')	('$', '$')	Money is the Root of All Evil . For more info , send $ 10 .
+NA	('class', 'NN')	' ' This must be an aerobics class , ' ' Tom worked out .
+NA	NA	Don ' t go between the tree and the bark .
+NA	NA	Mind your P ' s and Q ' s .
+('surgeons', 'NNS')	('hip', 'NN')	The most popular operation for orthopaedic surgeons is upper - leg surgery : very hip .
+NA	NA	Actors are cast through their good and bad stages .
+NA	('pound', 'NN')	Food for bad dogs is bought by the pound .
+('scooter', 'NN')	('house', 'NN')	My son wanted a scooter . When I told him they are too dangerous , he moped around the house .
+('Spare', 'NNP')	NA	Spare the rod , spoil the child .
+('never', 'RB')	('tangent', 'NN')	OLD MATHEMATICIANS never die , they just go off on a tangent
+('broke', 'VBD')	('He', 'PRP')	A thief fell and broke his leg in wet cement . He became a hardened criminal .
+('job', 'NN')	('hours', 'NNS')	A career is a job that takes about 20 more hours a week .
+NA	NA	Strip mining prevents forest fires .
+NA	NA	De Broglie waved aside the invitation .
+('lots', 'NNS')	('scratch', 'NN')	In parking lots , arguments often start from scratch .
+NA	NA	Some shoe sales have a good selection to boot .
+('town', 'NN')	('told', 'VBD')	When the town removed billboards , they told people that ' s how it was designed .
+NA	NA	Good eating deserves good drinking .
+('army', 'JJ')	('people', 'NNS')	An army officer is a position that some people shoot for .
+('supplies', 'NNS')	('store', 'NN')	The electrician got his supplies at the outlet store .
+('downsized', 'VBN')	('deadwood', 'NN')	The lumber company downsized . They got rid of the deadwood .
+('You', 'PRP')	('eat', 'VB')	You can ' t have your cake and eat it too .
+('soup', 'NN')	('nice', 'JJ')	Waiter , there ' s a fly in my soup ! ' ' I know . It gives you a nice buzz doesn ' t it ? ' '
+('hanging', 'VBG')	('threads', 'NNS')	Tailors enjoy hanging out in internet fora , as they are full of threads .
+('Always', 'NNS')	('like', 'IN')	Always remember you ' re unique - just like everyone else .
+('If', 'IN')	('wipe', 'VB')	If you make yourself into a doormat , people will wipe their feet on you .
+NA	NA	Priests can ' t marry without prior approval .
+('never', 'RB')	('things', 'NNS')	Old artists never die , they just put things in perspective .
+('put', 'VBD')	('basket', 'NN')	Don ' t put all your eggs in one basket .
+('away', 'RP')	NA	Go away , you snake ! Tom rattled off .
+('God', 'NNP')	('mad', 'NN')	Whom God will destroy , he first make mad .
+('never', 'RB')	('thing', 'NN')	I never understood why people liked to play soft ball . It ' s a very underhanded thing to do .
+('tired', 'JJ')	('bed', 'NN')	Tom was so tired , he lied about his bed .
+NA	NA	Home sweet home .
+('She', 'PRP')	('daughter', 'NN')	She was only an Artist ' s daughter , but what a crowd she could draw .
+NA	NA	The pen is mightier than the sword .
+NA	('chicken', 'VBP')	OLD KENTUCKY FRIED CHICKEN FRANCHISERS never die , they just chicken out .
+NA	('take', 'VB')	OLD PILOTS never die they just take off .
+NA	('I', 'PRP')	My name is Marshall . I ' m a peace officier .
+('Goose', 'NNP')	('sounds', 'NNS')	Goose , gander and gosling are three sounds but one thing .
+('often', 'RB')	NA	Astronomers often have their own private viewpoints .
+('CRICKETERS', 'NNP')	('get', 'VB')	OLD CRICKETERS never die , they just get bowled over .
+('Smaller', 'NNP')	('need', 'VBP')	Smaller babies may be delivered by stork but the heavier ones need a crane .
+NA	NA	A farmer with a rip in his clothes has an overall problem .
+('Dairyman', 'NNP')	('daughter', 'NN')	She was only a Dairyman ' s daughter , but what a calf
+('gave', 'VBD')	('rub', 'VB')	Doctor , Doctor , this ointment you gave me makes my arm smart . . - Then rub some on your head ? Next .
+('It', 'PRP')	('drop', 'NN')	It ' s quiet in a bowling alley because you can hear a pin drop .
+('got', 'VBD')	('It', 'PRP')	I just got back from a statistical probability conference . It was average .
+('never', 'RB')	('trip', 'NN')	OLD HIPPIES never die , they just take a trip .
+('I', 'PRP')	('shoulders', 'NNS')	I finally found a spotter at the gym , it ' s like a huge weight has been lifted off my shoulders .
+('If', 'IN')	('repent', 'VB')	If you trust before you try , you may repent before you die .
+NA	NA	Tit for tat .
+NA	NA	Shepherds sometimes have staff meetings .
+('elbow', 'NN')	('Bradley', 'NNP')	After having a knee dislocated and an elbow fractured in two barroom brawls Bradley should have learned to stay away from those joints .
+NA	NA	War is too important to be left to the generals .
+('No', 'DT')	('pinches', 'NNS')	No one knows where the shoe pinches , but he who wears it .
+('never', 'RB')	('cool', 'NN')	OLD AIR CONDITIONER REPAIRMEN never die , they just lose their cool .
+('frequent', 'NN')	('need', 'VBP')	To be a successful frequent flier you need a lot of connections .
+('lumber', 'VBP')	('log', 'NN')	What do they call all that lumber on the Star Trek ' s Enterprise ? Captain ' s log .
+('Ummm', 'NNP')	('I', 'PRP')	`` Ummm , trouble with grammar have I ? Yes ! `` - - Yoda
+('PRESS', 'NN')	('RELEASE', 'NNP')	PRESS To test . < click > RELEASE to detonate .
+('After', 'IN')	('got', 'VBD')	After Gus gave his girlfriend a 3 dollar box of chocolates for her birthday he got nothing but snickers .
+('I', 'PRP')	('mouth', 'NN')	I ' ll hear it from the horse ' s mouth .
+('Did', 'NNP')	('clammed', 'VBD')	Did you hear about the bivalve they called in to interrogate for that big murder investigation ? Apparently , he ' s clammed up .
+NA	('baby', 'NN')	Don ' t make clothes for a not yet born baby .
+('I', 'PRP')	('I', 'PRP')	At a conference , I unexpectedly encountered the wife of a former client , whom I hadn ' t seen in 20 or more years . ' ' You haven ' t changed ! ' ' she exclaimed . ' ' There ' s plenty of time for that , ' ' I replied . ' ' The dinner isn ' t until this evening . ' '
+('Changing', 'VBG')	('wrenching', 'JJ')	Changing a tire on that crazy Houston freeway was a wrenching experience .
+NA	NA	Two podiatrists became arch rivals .
+NA	('soon', 'RB')	A husband and wife argued over the weather , but it soon blew over .
+('needed', 'VBD')	('cutting', 'VBG')	I needed a raise in my allowance . Mowing the grass all summer just wasn ' t cutting it .
+('think', 'VBP')	('year', 'NN')	I think Santa has riverfront property in Brazil . All our presents came from Amazon this year .
+('Husbands', 'NNS')	('go', 'VBP')	Husbands are like fires . They go out when unattended .
+('Success', 'NNP')	NA	Success is just a matter of luck . Ask any failure .
+NA	NA	Counsel is no command .
+('manufacturer', 'NN')	('light', 'JJ')	A manufacturer that made lamps gave their employees a light workload .
+('boughs', 'NNS')	('hang', 'JJ')	The boughs that bear most hang lowest .
+('A', 'DT')	('indicates', 'VBZ')	A jerk present in a group indicates a jerk in charge .
+('tell', 'VB')	('sense', 'NN')	If towels could tell jokes they would probably have a dry sense of humor .
+('people', 'NNS')	('power', 'NN')	An office with many people and few electrical outlets could be in for a power struggle .
+NA	NA	A man ' s best fortune or his worst is a wife .
+NA	NA	Vinyl records are really groovy .
+('If', 'IN')	('wrong', 'JJ')	If anything can go wrong , it will .
+('Before', 'IN')	('took', 'VBD')	Before a plumber retired , he took the final plunge .
+('Firefighters', 'NNS')	NA	Firefighters can rescue you , but only Jesus saves .
+NA	NA	Faraday was charged up with the idea .
+('An', 'DT')	('one', 'CD')	An unusual medical book is one which has no appendix .
+('A', 'DT')	('new', 'JJ')	A tire store loves a chance to Roll out a new product .
+NA	NA	If Version 1 . 0 works someone goofed . . .
+NA	('Fret', 'NNP')	If you break a string on your guitar don ' t Fret .
+('two', 'CD')	('marked', 'JJ')	After he bought his two - year - old a felt pen , he was a marked man .
+[]
+[]
+('never', 'RB')	('breath', 'NN')	OLD CARTOONISTS never die , they just draw their last breath .
+('The', 'DT')	('front', 'NN')	The best place for criticism is in front of your mirror .
+('plums', 'NNS')	('pruned', 'VBN')	The plums for sale dried out , so the profits were pruned .
+('When', 'WRB')	('happy', 'JJ')	When a duck is feeling down he might just be happy .
+('A', 'DT')	('words', 'NNS')	A picture is worth a thousand words .
+('This', 'DT')	('date', 'NN')	This is the best guy I ' ve met to date .
+('Half', 'PDT')	('bread', 'NN')	Half a loaf is better than no bread .
+('Waiter', 'NNP')	('I', 'PRP')	Waiter , I ' ll have my bill now . - How did you find your steak , sir ? - Oh , I just moved the potato and there it was .
+('toil', 'VB')	('peanuts', 'NNS')	Elephants will toil all day , and they work for peanuts .
+NA	('lose', 'VBP')	OLD AUDITORS never die , they just lose their figures .
+NA	NA	Iron sharpens iron .
+NA	NA	A new broome sweepeth cleane .
+('Take', 'VB')	('anyway', 'RB')	Take my advice , I don ' t use it anyway .
+('saw', 'VBD')	('turn', 'VB')	The other day I saw a magician walk down the street and turn into a drugstore .
+('flies', 'NNS')	('barrel', 'NN')	You can catch more flies with a drop of honey than with a barrel of vinegar .
+NA	NA	The world is your oyster .
+('racers', 'NNS')	('small', 'JJ')	The racers all had shorts on that were too small for them , so it was a tight race .
+('She', 'PRP')	('bars', 'NNS')	She was only a Convict ' s daughter , but she sure knew all of the bars .
+NA	NA	Better late than never .
+NA	NA	Life is a game . Money is how we keep score .
+('Why', 'WRB')	('show', 'NN')	Why did CNN cancel that cool `` Desert Storm `` show ?
+('Some', 'DT')	('little', 'JJ')	Some clockmakers are normal , but others are a little cuckoo .
+NA	('crowns', 'NNS')	They called him the king of the dentists because he specialized in crowns .
+('stole', 'VBZ')	('clean', 'JJ')	A man stole a case of soap from the corner store . The police said he made a clean getaway .
+NA	NA	News of a coming flood was leaked .
+NA	NA	The voice of the people is the voice of god .
+NA	('calling', 'VBG')	She became a telephone operator because it was her calling .
+NA	NA	Keyboard not connected . Think F1 to continue .
+NA	NA	If you snooze you lose .
+('politician', 'NN')	('favors', 'NNS')	The politician is not one for Indian food . But he ' s good at currying favors .
+('You', 'PRP')	('trees', 'NNS')	You can ' t see the wood for the trees .
+('eat', 'VBP')	('nuts', 'NNS')	If you are what you eat , I ' m staying away from the nuts !
+('My', 'PRP$')	('make', 'VBP')	My name is Clay . I make pottery .
+NA	('right', 'NN')	One of these new shoes isn ' t right .
+NA	NA	Don ' t judge a book by its cover .
+('I', 'PRP')	('Sit', 'NN')	Doctor , Doctor , I can ' t get to sleep . - Sit on the edge of the bed and you ' ll soon drop off . Next .
+('I', 'PRP')	('plate', 'NN')	I went to the dentist without lunch , and he gave me a plate .
+NA	NA	Truth is stranger than fiction .
+('wives', 'NNS')	('never', 'RB')	To our sweethearts and wives . May they never meet !
+('never', 'RB')	('get', 'VB')	OLD JANITORS never die they just get swept up .
+NA	('nice', 'JJ')	The massage which came with the spa treatment was a nice touch .
+NA	NA	OLD SHOE SHINE BOYS never die , they are just rebuffed . .
+('track', 'NN')	('run', 'VB')	Here is how the track meet is going to run . . .
+('How', 'WRB')	('put', 'VBD')	How do I handle change ? I put it in the parking meter .
+('never', 'RB')	('beneath', 'IN')	I ' ve never taken an elevator to the basement floor , that ' s just beneath me .
+('never', 'RB')	('take', 'VBP')	I ' ve never killed a deer before but I ' ll take a shot at it .
+('Hands', 'NNS')	NA	Hands in Prayer : Already Digital
+NA	NA	Life imitates art .
+NA	NA	Diabetics should not be allowed to have sweet dreams .
+('I', 'PRP')	('pay', 'NN')	I ' m going to the guillotine at dawn and my wife has already collected my severance pay .
+('years', 'NNS')	('adjustment', 'NN')	After 5 years with the same chiropractor , I moved and had to change doctors . It was quite an adjustment .
+('fallout', 'NN')	('layoffs', 'NNS')	We ' re expecting fallout from the recent layoffs at the nuclear plant .
+('solve', 'VB')	('part', 'NN')	A scientist doing a large experiment with liquid chemicals was trying to solve a problem when he fell in and became part of the solution .
+('It', 'PRP')	('useless', 'JJ')	It ' s the Borg ! ! Quick , everyone try to look useless !
+('got', 'VBD')	('pick', 'VB')	I got a great bargain the other day when I bought a forklift for half - price . It ' s amazing what you can pick up these days .
+('built', 'VBD')	('ark', 'NN')	Professionals built the Titanic , amateurs built the ark .
+('I', 'PRP')	('said', 'VBD')	' ' I just came in through the door , ' ' said Tom , entranced .
+NA	('wear', 'IN')	If the shoe fits , wear it .
+('shoes', 'NNS')	('got', 'VBD')	Dutch shoes used to be made in a factory machine , until it got clogged up .
+NA	NA	The inventor of a hay baling machine made a bundle .
+('right', 'JJ')	('sit', 'VB')	Even if you ' re on the right track , you ' ll get run over if you just sit there .
+('came', 'VBD')	('spent', 'VBN')	When the investor came home from work he was spent .
+('We', 'PRP')	('disappointed', 'VBD')	We are born crying , live complaining , die disappointed
+NA	NA	Courage lost , all lost .
+('die', 'VBN')	('keep', 'VB')	Old electricians never die , they just keep plugging away .
+('die', 'VBP')	('uprooted', 'JJ')	OLD GARDENERS never die , they just get uprooted .
+NA	NA	The science teachers broke up because there was no chemistry between them .
+NA	NA	Resist everything but temptation .
+NA	NA	Eavesdroppers hear no good of themselves .
+('find', 'VB')	('tracks', 'NNS')	How do you find a missing train ? Follow the tracks .
+('My', 'PRP$')	('The', 'DT')	My name is Brandy . The bartender .
+NA	NA	It ain ' t over till it ' s over .
+('Ham', 'NNP')	('I', 'PRP')	My name is Ham . I raise pigs
+NA	NA	Ohm resisted the idea at first .
+('personal', 'JJ')	('job', 'NN')	The personal trainer quit his job because it wasn ' t working out .
+('A', 'DT')	('words', 'NNS')	A man of words and not of deeds , is like a garden full of weeds .
+('crazy', 'JJ')	('He', 'PRP')	The math professor went crazy with the blackboard . He did a number on it .
+('remember', 'VBP')	('keep', 'VB')	Madame : ' ' Now remember , girls , when handling royalty the important thing is to keep up your dukes ! ' '
+('Do', 'VB')	('tired', 'VBN')	Do you ever get tired of sleeping ?
+('I', 'PRP')	('make', 'VB')	I was in a big hurry so I scrambled to make eggs for breakfast .
+NA	NA	There is no royal road to learning .
+('live', 'VBP')	NA	People who live in glass houses shouldn ' t throw stones .
+NA	('swear', 'VB')	Bathroom scale : Something you stand on and swear at .
+('I', 'PRP')	('behind', 'IN')	I had some back trouble , but it ' s all behind me now .
+NA	NA	Daddy , how come my magnet won ' t pick up these disks ?
+('Just', 'RB')	('one', 'CD')	Just after thimbles were invented there was a shortage , so many people got stuck without one .
+NA	NA	Badminton players are for the birds .
+('Got', 'NNP')	NA	Got ta run . . . the cat ' s caught in the printer again !
+('untruthful', 'JJ')	('full', 'JJ')	The untruthful deli clerk was full of baloney .
+('neon', 'JJ')	('glowing', 'VBG')	When neon lights were perfected the inventor was positively glowing .
+('Sue', 'NNP')	('also', 'RB')	My name is Sue . I ' m also a lawyer .
+('manufacturers', 'NNS')	NA	The manufacturers of dynamite do a booming business .
+NA	NA	In the house of the hanged man , mention not the rope .
+('He', 'PRP')	NA	He who does not advance goes backwards .
+NA	NA	Gardeners like to plant their feet firmly .
+('One', 'CD')	('one', 'CD')	One grasshopper told another about eating corn . It went in one ear and out the other .
+('Did', 'NNP')	('little', 'JJ')	Did you hear about the guy who planted bullets ? He wanted to see a lot of little shoots .
+('Call', 'VB')	NA	Call me if you need my phone number !
+('male', 'NN')	('drone', 'VB')	Pompous male bees are often known to drone on about themselves .
+('pay', 'VB')	('wages', 'NNS')	The parsley farmer couldn ' t pay his child support , so the courts garnished his wages .
+('started', 'VBD')	('business', 'NN')	She started a new courier business for an express purpose .
+('always', 'RB')	('comparison', 'NN')	She always paints night scenes . Other artists pale by comparison .
+('Some', 'DT')	NA	Some people like raw meat on rare occasions .
+('person', 'NN')	('even', 'RB')	To a person who is attentive to minutiae : ' ' You ' re certainly observant , even if you ' re not religious . ' '
+('work', 'NN')	NA	An Electrician ' s work is well grounded .
+('would', 'MD')	('fired', 'VBN')	When he found out that he would visit a real blacksmith he got all fired up .
+('said', 'VBD')	('always', 'RB')	The scorpion said to the desert , ' You know , our conversations are always so dry . '
+NA	NA	Measure twice , cut once .
+NA	NA	An argument at the Bomb Squad convention ended in a blowup .
+('What', 'WP')	NA	What you see is what you get .
+('day', 'NN')	('pooped', 'VBN')	After a day of changing her triplet ' s diapers , the new mother was feeling rather pooped .
+('You', 'PRP')	('issues', 'NNS')	You ' ve got more issues than Time magazine .
+('money', 'NN')	('cuts', 'NNS')	Saw makers losing money have to make lots of cuts .
+('longshoremen', 'NNS')	('get', 'VBP')	When longshoremen show up late for work they get docked .
+('die', 'VBP')	('get', 'VB')	OLD EXORCISTS never die , they just get repossessed .
+('I', 'PRP')	('way', 'NN')	Lead me not into temptation , I can find my own way
+('I', 'PRP')	('coach', 'NN')	Doctor , doctor , I think I ' m a bridge . - What ' s come over you ? - Two cars , a truck and a coach .
+NA	('daughter', 'NN')	She was only a Electrician ' s daughter , but she went haywire .
+('I', 'PRP')	('I', 'PRP')	People tell me I ' m indecisive . Am I ? I ' m not sure .
+('sexist', 'JJ')	NA	Don ' t be sexist ! Chicks hate that .
+('seventh', 'JJ')	('He', 'PRP')	And on the seventh day , He took an aspirin .
+('Brag', 'NNP')	('holdfast', 'NN')	Brag is a good dog , but holdfast is better .
+NA	('lose', 'VBP')	OLD MEDIUMS never die , they just lose their spirits .
+NA	NA	There is no little enemy .
+NA	('rats', 'NNS')	This just in : Research causes cancer in rats !
+('used', 'VBD')	('renting', 'NN')	I used to be afraid of purchasing residential property for the purpose of renting , but now I have an apartment complex .
+NA	NA	OLD LUMBERJACKS never die , they just split .
+('welcome', 'JJ')	('space', 'NN')	Martians welcome . We have space for everyone .
+('It', 'PRP')	('balls', 'NNS')	It ' s not that the man did not know how to juggle , he just didn ' t have the balls to do it .
+('taken', 'VBN')	('yet', 'RB')	A small boy swallowed some coins and was taken to a hospital . When his grandmother telephoned to ask how he was a nurse said ' No change yet ' .
+NA	NA	OLD SWIMMERS never die , they just have a stroke .
+('magazines', 'NNS')	('leaf', 'VB')	The landscaper thought gardening magazines were fun to leaf through .
+('There', 'EX')	('cat', 'NN')	There ' s more than one way to skin a cat .
+NA	('daughter', 'NN')	She was only a Bricklayer ' s daughter , but she was certainly stacked .
+NA	('driving', 'VBG')	A boy saving up for a car has a lot of driving ambition .
+NA	NA	Don ' t burn the candle at both ends .
+('Dean', 'NNP')	('college', 'NN')	My name is Dean A college chancellor
+('friend', 'NN')	('said', 'VBD')	When I commented on a friend ' s psychedelic door he said , Don ' t Knock It .
+('There', 'EX')	NA	There ' s no such thing as a free lunch .
+('like', 'IN')	('Pat', 'NNP')	`` I ' d like to buy a schwa , Pat . ``
+('curable', 'JJ')	NA	Virginity IS curable if detected early . . .
+NA	NA	Practice what you preach .
+('missed', 'VBD')	('line', 'NN')	The fish missed the call because he was stuck on the other line .
+NA	('end', 'NN')	OLD CONTORTIONISTS never die , they just meet their end .
+('bungee', 'NN')	('faith', 'NN')	No bungee cords , but we encourage leaps of faith .
+('came', 'VBD')	('fainted', 'VBD')	My friend came around for dinner . We ate for 20 minutes , then he fainted again .
+[]
+[]
+('burned', 'VBD')	('toast', 'RB')	My friend ' s bakery burned down last night . Now his business is toast .
+('I', 'PRP')	('perfectly', 'RB')	I can do an excellent impression of Sinatra , said Tom , being perfectly frank .
+('He', 'PRP')	('different', 'JJ')	The roulette dealer had a unique personality . He had a different spin on everything .
+('listen', 'VB')	('AM', 'NNP')	He was able to listen to his favorite radio show in the morning because he had an AM radio
+('She', 'PRP')	('knew', 'VBD')	She was only a Doctor ' s daughter , but she really knew how to operate .
+NA	NA	Failure is the stepping stone for success .
+NA	('conduct', 'VB')	Musicians need a leader because they don ' t know how to conduct themselves .
+('equal', 'JJ')	('lack', 'VB')	Women who seek to be equal to men lack ambition .
+('six', 'CD')	('area', 'NN')	After the six campers were discovered missing from their tents the state police began to canvas the area .
+NA	NA	No pain , no gain .
+NA	NA	Jumping to conclusions is bad exercise
+('accountant', 'NN')	('cooked', 'VBN')	An accountant for a restaurant has to be sure the books are not cooked .
+('die', 'VBZ')	('exhausted', 'VBN')	OLD MUFFLERS never die they just get exhausted .
+('If', 'IN')	NA	If you’re looking for a sign from god , this is it .
+('never', 'RB')	('away', 'RP')	OLD HIKERS never die , they just trail away .
+('People', 'NNS')	('eyes', 'NNS')	People who make necklaces may get beady eyes .
+('retired', 'VBN')	NA	A skier retired because he was going downhill .
+NA	('bears', 'VBZ')	There is no tree but bears some fruit .
+('I', 'PRP')	('together', 'RB')	Doctor , Doctor I feel like a pair of curtains - Well pull yourself together then . Next .
+('gravity', 'NN')	('stand', 'VBP')	The gravity was so powerful , I couldn ' t stand it .
+('My', 'PRP$')	('masseur', 'NN')	My name is Pat . I am a masseur
+('I', 'PRP')	('lousy', 'JJ')	I can ' t remember ever getting nits as a kid , although I do have a lousy memory .
+('Dear', 'NNP')	('naughty', 'JJ')	Dear Santa , all I want is your list of naughty girls .
+('I', 'PRP')	('woman', 'NN')	I knew a woman who owned a taser , man was she stunning !
+NA	('fruit', 'NN')	People only throw stones at trees with fruit on them .
+('soap', 'VB')	('shower', 'JJR')	The thought of having no alternative to soap never washed with the inventor of shower gel .
+('Did', 'NNP')	('locked', 'VBD')	Did you hear about the man who was jabbed in the back with a set of keys ? His back locked up .
+('deaf', 'NN')	('sign', 'VBD')	OLD INTERPRETERS ( for the deaf ) never die , they just sign off .
+NA	NA	Fear the man of one book .
+('milking', 'VBG')	('milking', 'VBG')	The dairy farmer while milking his cow strained his calf in the process .
+('He', 'PRP')	('table', 'NN')	He was a janitor in the restaurant . He did things under the table .
+('think', 'VBP')	('home', 'NN')	If you think guests really enjoy your home movies , you are probably projecting .
+('Just', 'RB')	NA	Just because pews come in rows doesn’t mean we should plant ourselves there
+('father', 'NN')	('They', 'PRP')	My father ' s father wanted to know if he could stay with the company in spite of the many changes . They ended up grandfathering him in .
+('Getting', 'VBG')	('I', 'PRP')	Getting this job managing a country estate has put me off fried eggs . I ' m a gamekeeper turned poacher .
+('wanted', 'VBD')	('reservations', 'NNS')	I wanted to have dinner at a native American themed restaurant , but I didn ' t have reservations .
+('termites', 'NNS')	('hunger', 'NN')	Why did the termites eat the wooden barrel ? To stave off hunger .
+('She', 'PRP')	('calves', 'NNS')	She was only a Rancher ' s daughter , but she couldn ' t keep her calves together .
+('intelligent', 'JJ')	('designing', 'VBG')	The intelligent entrepreneur ' s idea for designing catapults meant that his boss was completely thrown .
+NA	NA	Children are uncertain comforts but certain cares .
+('boy', 'NN')	('kidding', 'VBG')	A boy told his parents he wanted to raise goats for a living , but he was only kidding .
+('guy', 'NN')	('sharp', 'JJ')	A guy went to a costume party dressed as a knife , and he really looked sharp .
+('There', 'EX')	NA	There are 2 kinds of people : pessimists and fools . . . .
+('It', 'PRP')	NA	It ain ' t over till the fat lady sings .
+('never', 'RB')	('point', 'NN')	OLD SEAMSTRESSES never die , they just come to the point .
+('Tip', 'NN')	NA	Tip : Never take a beer to a job interview .
+('steal', 'VBP')	('stalking', 'NN')	Thieves who steal corn from a garden could be charged with stalking .
+('It', 'PRP')	('house', 'NN')	It wasn ' t my fault your wife wandered into my house !
+('school', 'NN')	NA	Old school principals never die , they just lose their faculties .
+('A', 'DT')	('found', 'VBN')	A hole has been found in the nudist camp wall . The police are looking into it .
+NA	NA	The boxer ' s girlfriend was a knockout .
+('one', 'CD')	('get', 'VB')	A pirate with one hand often picked up the phone . He wanted to get off the hook .
+NA	NA	After he bought a mirror he became very reflective .
+NA	NA	Tagline dispenser temporarily out of order .
+('toothache', 'NN')	('bad', 'JJ')	A dentist with a toothache could have a bad impact on his patients .
+('tap', 'VB')	('natural', 'JJ')	Plumbers often have to tap their natural abilities .
+('threw', 'VBD')	('neighbor', 'NN')	He threw snow in his neighbor ' s driveway and shouted , DO YOU GET MY DRIFT ?
+('die', 'VBP')	('anymore', 'RB')	Old colanders never die , they just can ' t take the strain anymore .
+('mark', 'NN')	('marks', 'VBZ')	A prisoner ' s favorite punctuation mark is the period . It marks the end of his sentence .
+('working', 'JJ')	('picket', 'NN')	The fence builders were upset with their working conditions , so the started to picket .
+('waiting', 'VBG')	('sleeves', 'NNS')	If your waiting for something to turn up , try your sleeves .
+('He', 'PRP')	('kill', 'VB')	He stomped on his old watch because he had time to kill .
+('make', 'VBP')	('absorbed', 'VBN')	Those who make sponges get very absorbed in their work .
+('confused', 'VBN')	('topless', 'JJ')	As confused as a baby at a topless bar .
+('die', 'VBZ')	('gutter', 'NN')	OLD BOWLERS never die they just end up in the gutter .
+NA	NA	Hell’s the pits
+NA	NA	OLD ELECTRICIANS never die , they just can ' t make connections
+('melted', 'VBD')	('useless', 'JJ')	When the butter melted , it was rendered useless .
+('Q', 'NN')	('A', 'DT')	Q : What do you call six blondes placed ear to ear ? A : A wind tunnel .
+('airlines', 'NNS')	('baggage', 'NN')	The airlines have become so cash - strapped , they charged me for my emotional baggage .
+('day', 'NN')	('take', 'VB')	The cosmetic student was sick on the day of the final exam . Now she has to take a Make Up exam .
+('keeps', 'VBZ')	('away', 'RB')	An apple a day keeps the doctor away .
+('River', 'NNP')	('Liquid', 'NN')	Q : River Ravi flows in which state ? A : Liquid .
+NA	('circulation', 'NN')	OLD NEWSPAPER PUBLISHERS never die , they just lose their circulation .
+NA	('stern', 'JJ')	A leak in the back of a boat is a stern warning .
+('full', 'JJ')	('damned', 'VBN')	Hell is full . The damned are now in Tech Support .
+('decided', 'VBD')	('dark', 'JJ')	A politician decided to resign on the day of an eclipse because it was a dark day .
+('moved', 'VBD')	('buzz', 'NN')	When the beekeeper moved into town he created quite a buzz .
+NA	('popular', 'JJ')	' ' This movie will be very popular , ' ' Tom projected .
+NA	('cop', 'VBP')	OLD POLICEMEN never die they just cop out .
+('love', 'NN')	NA	I ' d love to , but I ' m observing National Apathy Week .
+('never', 'RB')	('get', 'VB')	OLD HUMAN CANNONBALLS never die they just get fired .
+('die', 'VBZ')	('stop', 'VB')	OLD PHOTOGRAPHERS never die they just stop developing .
+NA	NA	The best is cheapest .
+('thought', 'VBD')	('experience', 'NN')	Edison thought it would be an illuminating experience .
+('The', 'DT')	('counter', 'NN')	The best place for a mathematician is behind a counter .
+('I', 'PRP')	('struck', 'VBD')	I was struggling to figure out how lightning works then it struck me .
+('found', 'VBD')	('net', 'JJ')	The man found something to catch fish , which was a net gain .
+NA	NA	Quick at meat , quick at work .
+('She', 'PRP')	('cover', 'VB')	She was only a Librarian ' s daughter , but she was checked out from cover to cover .
+('players', 'NNS')	NA	Basketball players are always bouncing ideas off each other .
+NA	('full', 'JJ')	Some business graphs are full of legend .
+NA	('Love', 'NNP')	Tennis players don ' t marry because Love means Nothing to them .
+('John', 'NNP')	('resigned', 'VBD')	John Hancock didn ' t retire , he just resigned .
+('I', 'PRP')	('nice', 'JJ')	I ' ve planted part of a riding whip . I ' m hoping for a nice crop .
+NA	NA	' Coming ready or not ! ’ – Jesus .
+('turfed', 'VBD')	('ready', 'JJ')	The seed company turfed out my idea for ready made lawn .
+NA	NA	I hate it when motorcyclists hog the road .
+('asked', 'VBD')	('I', 'PRP')	An old lady once asked the dispatcher of a local trucking company if they could ship an antique mirror to her sister in Toronto . The dispatcher says , ' I don ' t know madam , I ' d have to look into it first ' .
+('die', 'VBP')	('pine', 'VB')	OLD TREE SURGEONS never die , they just pine away .
+('mailman', 'NN')	('perfect', 'JJ')	My mailman should be a comedian , his delivery is perfect !
+NA	NA	Beggars can ' t be choosers .
+('If', 'IN')	('expect', 'VBP')	If a judge loves the sound of his own voice , expect a long sentence .
+('Two', 'CD')	('made', 'VBD')	Two monocles were making love in front of a window and made spectacles of themselves .
+('Whenever', 'WRB')	('get', 'VBP')	Whenever I go near my bank I get withdrawal symptoms .
+('absent', 'JJ')	('taking', 'VBG')	For a chronically absent employee : It seemed her career was just taking off .
+('No', 'DT')	('No', 'DT')	No Credit , Bad Credit ? No Problem . No Money ? Problem .
+('set', 'VBN')	('play', 'VB')	A rock band set up on the exchange floor . They wanted to play the stock market .
+('Back', 'RB')	('breaking', 'VBG')	Back when the news was written on clay tablets there was a lot of breaking news .
+NA	NA	When there ' s a sale on tennis balls it ' s first come first serve .
+('head', 'NN')	('called', 'VBN')	My job as head chef at a top rated restaurant is in jeopardy because my latest culinary creation was called a recipe for disaster .
+('She', 'PRP')	NA	She was always calling for her twins , ' ' on the double . ' '
+NA	NA	Strike while the iron is hot .
+('She', 'PRP')	('let', 'VB')	She was only a Flag - waver ' s daughter , but she ' d let her standards down for anyone .
+('broke', 'VBD')	('hardened', 'JJ')	When the thief fell in the wet cement and broke both legs , he became a hardened criminal .
+('I', 'PRP')	('volume', 'NN')	I was fired from my job selling amplifiers . I didn ' t achieve the sufficient volume of sales .
+('Did', 'NNP')	('hooked', 'VBN')	Did you hear about the compulsive fisherman ? He was really hooked on it .
+NA	NA	Nothing succeeds like success .
+('If', 'IN')	('well', 'RB')	If a job is worth doing , it is worth doing well .
+('Sign', 'NN')	('Here', 'RB')	Sign at a deer crossing : The Buck Stops Here .
+NA	('monumental', 'JJ')	The unveiling of the statue was a monumental occasion .
+('often', 'RB')	('grain', 'NN')	You won ' t often catch loggers or farmers going against the grain .
+NA	NA	My name is Charity , a televangelist
+('It', 'PRP')	('get', 'VB')	It ' s hard for a depressed turtle to get out of his shell .
+('poor', 'JJ')	('problem', 'NN')	An apple farmer with poor yields has to get to the core of the problem .
+('soon', 'RB')	('looking', 'VBG')	As soon as the airplane was invented , things were looking up .
+('astronomy', 'JJ')	('devoted', 'VBN')	An astronomy column in the newspaper would have a lot of space devoted to it .
+('plane', 'NN')	('flying', 'VBG')	When the plane hit turbulence , the passengers went flying .
+NA	NA	Gravity , it ' s always putting everyone down .
+('friends', 'NNS')	('one', 'CD')	All are not friends who speak one fair .
+NA	NA	My name is Mark . I price items at the supermarket .
+NA	NA	A book is a friend .
+('Did', 'NNP')	('It', 'PRP')	Did you hear about that new drug that makes people angry ? It ' s all the rage now .
+('Honor', 'NNP')	NA	Honor your mother and father rather than major credit cards .
+('She', 'PRP')	('wanted', 'VBD')	She memorized just what kind of locket she wanted , by heart .
+NA	NA	He was a Red Cross donor until he went out of circulation .
+('Philosophy', 'NN')	('insoluble', 'VB')	Philosophy : unintelligible answers to insoluble problems
+NA	NA	`` A newspaper is a collection of half - injustices ``
+('There', 'EX')	NA	There is no such thing as bravery ; only degrees of fear .
+NA	('I', 'PRP')	Florida bumper sticker : DON ' T SHOOT ! I ' M LOCAL !
+('Keep', 'VB')	NA	Keep your friends close , but your enemies closer .
+('chain', 'NN')	('weakest', 'JJS')	A chain is only as strong as its weakest link .
+('She', 'PRP')	('many', 'JJ')	She wanted to be a weaver but there were always too many snags .
+('one', 'CD')	('wear', 'VB')	Eve showed up one morning wearing flowers instead of a fig leaf . She was the first woman to wear bloomers .
+NA	('moles', 'NNS')	The dermatologist was an avid gardener but he had a problem with moles .
+('dog', 'NN')	('got', 'VBD')	A dog who played baseball always got walked .
+NA	NA	Great beer bellies are made , not born .
+('Making', 'VBG')	('experience', 'NN')	Making gloves is a real hands - on experience .
+NA	NA	Reason does not come before years .
+('breathe', 'VBP')	('said', 'VBD')	If you breathe heavily on the map , it will reveal topography , ' he said , with a sigh of relief .
+('It', 'PRP')	('way', 'NN')	It is not what you say , it is the way you say it .
+('itching', 'VBG')	('season', 'NN')	Alergy sufferers are itching to get through the hay fever season .
+NA	('retire', 'NN')	OLD AUTO MECHANICS never die , they just retire .
+('still', 'RB')	('improving', 'VBG')	I still miss my ex - husband . But my aim is improving .
+('die', 'VBZ')	('retired', 'JJ')	OLD WHEELS never die they just get retired .
+('building', 'NN')	('plumb', 'JJ')	The building inspector said whoever installed the water pipes was plumb loco .
+NA	('decent', 'JJ')	Geology class is the foundation of a decent education .
+('Insert', 'NNP')	('fit', 'VB')	It said `` Insert disk # 3 `` , but only 2 will fit !
+('She', 'PRP')	('cavity', 'NN')	She was only a Dentist ' s daughter , but everybody wanted to fill her cavity .
+NA	NA	Sin enough and you will become dead to it .
+('terms', 'NNS')	('jail', 'NN')	Limit Congress to 2 terms : one in office , one in jail !
+('I', 'PRP')	('I', 'PRP')	I walked past a gang of youths yesterday and one of them threw a piece of cheese at me , which hit me on the back of the head . I turned round and shouted , ' ' That ' s not very mature ! ' '
+('heavy', 'JJ')	('He', 'PRP')	The state police highway officer worked tirelessly in the heavy rain to assist a lady whose car was stuck in a ditch . He was a real trooper .
+NA	NA	Bitter pills may have blessed effects .
+('My', 'PRP$')	('day', 'NN')	My coach got stung by a bee . The next day he had hives .
+('My', 'PRP$')	('make', 'VB')	My friend asked me to carve a sculpture out of a large rock . It was the hardest thing I ' ve ever had to make !
+NA	NA	Old accountants never die , they just lose their balance .
+('They', 'PRP')	('young', 'JJ')	They who would be young when they are old must be old when they are young .
+NA	NA	During branding cowboys have sore calves .
+('math', 'NN')	('one', 'CD')	The math professor liked even numbers , but only the odd one .
+('That', 'DT')	('killer', 'JJ')	That new mystery novel has a killer start to it .
+('tool', 'NN')	('equipped', 'VBD')	A fool with a tool is a well - equipped fool
+('I', 'PRP')	('I', 'PRP')	I ' ve been to the dentist several times so I know the drill .
+('I', 'PRP')	('bigger', 'JJR')	I idiot - proof my programs , but along comes a bigger idiot .
+('back', 'RB')	('roots', 'NNS')	A gardener who moved back to his home town rediscovered his roots .
+NA	('current', 'JJ')	Ampere was worried he wasn ' t up to current research .
+('She', 'PRP')	('stop', 'VB')	She was only a Bottlemaker ' s daughter , but nothing could stop her .
+('Our', 'PRP$')	('quite', 'RB')	Our country ' s olympic swimming program has quite a talent pool .
+('There', 'EX')	NA	There was a guy who was fired from the orange juice factory for lack of concentration .
+NA	NA	Cobblers children are worst shod .
+NA	NA	Follow glory and it will flee , flee glory and it will follow thee .
+('She', 'PRP')	('really', 'RB')	She was only a Photographer ' s daughter , but she was really developed .
+('staring', 'VBG')	('fault', 'NN')	Two geologists were staring at a huge fissure in a cliff face and one was overheard to say ' It ' s not my fault ' .
+NA	NA	When the electrican apprentice made mistakes , his mother grounded him .
+('smarter', 'JJR')	('sled', 'VBN')	Cats are smarter than dogs . . . You won ' t see eight cats pulling a sled .
+('charged', 'VBD')	NA	VanDeGraaf charged his assistant to attend .
+('best', 'JJS')	('They', 'PRP')	Harry and Clem the carpenters , argued mightily on how best to complete the dinette set they were working on . They finally agreed to table the discussion .
+('funny', 'JJ')	('Now', 'RB')	`` Very funny , Scotty . Now beam up my clothes . ``
+('Crucifix', 'NNP')	('vampire', 'NN')	A Crucifix ? Oy vey , have YOU got the wrong vampire . . .
+NA	NA	His plan to manufacture pencils just didn ' t draw attention .
+('fell', 'VBD')	('loan', 'NN')	One night a banking tycoon fell overboard from his yacht . He was saved because he could float a loan .
+NA	NA	`` Happiness is a warm puppy , `` said the anaconda .
+('Blows', 'VBZ')	NA	Compatible : Blows up a little later than Incompatible
+('friends', 'NNS')	('lost', 'VBD')	My friends and I played a game of football on a pile of quarry rock - we lost on aggregate .
+('key', 'JJ')	('key', 'NN')	Press any key to continue . . But my computer doesn ' t have an `` any `` key .
+('wants', 'VBZ')	('ring', 'NN')	A boxer who wants to get married has the ring to worry about .
+NA	NA	Inventors have their own devices .
+NA	NA	Darwin said he ' d have to see what evolved .
+('When', 'WRB')	('excellent', 'JJ')	When the TV repairman got married the reception was excellent .
+NA	NA	Pride comes before the fall .
+('die', 'VBP')	('get', 'VB')	OLD HOOKERS never die , they just get laid off .
+NA	NA	Do NOT look into laser with remaining eye . .
+('school', 'NN')	('I', 'PRP')	Overheard in med school - ' I learned about the colon through the process of elimination . '
+NA	('reservations', 'NNS')	He recommended the restaurant to me , and said he had no reservations .
+('Old', 'NNP')	('around', 'RB')	Old carpenters never die , they just lumber around .
+NA	('retire', 'VB')	OLD GARAGEMEN never die , they just retire
+('crust', 'NN')	('pan', 'NN')	Tony attempted to join his thin crust pizza company with Zimo ' s Thick Crust Pizza , but somehow it didn ' t pan out .
+('never', 'RB')	('downhill', 'JJ')	OLD SKIERS never die , but they go downhill fast .
+('drop', 'VB')	('ran', 'VBD')	I majored in nursing but I had to drop it because I ran out of milk .
+NA	NA	Nothing ventured , nothing gained .
+('My', 'PRP$')	('kidded', 'VBD')	' ' My parents are called Billy and Nanny , ' ' Tom kidded .
+NA	NA	Tomorrow is another day .
+('When', 'WRB')	('let', 'VB')	When thy friend asks , let there be no to - morrow .
+('I', 'PRP')	('took', 'VBD')	I once knew a guy who had fish and chips every day for a year . His stomach took a battering .
+NA	NA	Pavlov was drooling at the thought .
+NA	('become', 'VB')	Continually discovering new viruses can become a strain .
+('studied', 'VBD')	('knowledge', 'NN')	He studied water purification and had a great thirst for knowledge .
+('play', 'VBP')	('tuned', 'VBN')	Those who play musical instruments for radio or TV have to stay tuned .
+('want', 'VBP')	('let', 'VB')	If you want enemies excel others , if you want friends let others excel you .
+('I', 'PRP')	NA	I met a girl at an internet cafe , but we didn ' t click .
+('lost', 'VBD')	('watch', 'NN')	A lovely lady who lost her watch became a timeless beauty .
+('walls', 'NNS')	('scale', 'NN')	Prison walls are never built to scale .
+('You', 'PRP')	('eat', 'VBP')	You don ' t shit where you eat .
+('I', 'PRP')	('gone', 'VBN')	I was heading to Hooters but my wife said ' Don ' t bother , they have gone bust ' .
+('working', 'VBG')	('fit', 'VB')	A man tried working in a shoe store , but he just couldn ' t seem to fit in .
+('keep', 'VB')	('tangents', 'NNS')	The calculus teacher tried to keep his students on task , but the class discussion kept going off on tangents .
+('got', 'VBD')	('boot', 'NN')	I got a deal on a new computer , and they threw in the operating system to boot .
+NA	('recover', 'VB')	OLD UPHOLSTERERS never die , they just recover . .
+('joined', 'VBD')	('hit', 'NN')	A new batter joined the baseball team , and he was a real hit .
+('I', 'PRP')	('clothes', 'NNS')	My name is Dick . I ' m a plain - clothes policeman .
+('belly', 'RB')	('bed', 'NN')	A belly button is for salt when you eat celery in bed .
+('halfway', 'RB')	('gets', 'VBZ')	A lie can be halfway around the world before the truth gets its boots on .
+('dessert', 'NN')	('tax', 'NN')	On being served an extravagant dessert : ' ' So rich , it has its own tax shelters . ' '
+('She', 'PRP')	('town', 'NN')	She was only a Musician ' s daughter , but she knew all the bars in town .
+('charming', 'JJ')	('entranced', 'VBD')	What a charming doorway ! said Tom , entranced .
+('My', 'PRP$')	('thief', 'NN')	My name is Rob . I ' m a thief .
+('good', 'JJ')	('answer', 'NN')	A baseball pitcher asked if he had a good curve ball , but wanted a straight answer .
+NA	NA	The astronauts said their experience on the moon was out of this world .
+('watch', 'VB')	('bonding', 'JJ')	A family went to watch a 007 movie at the theatre , it was a bonding experience .
+NA	('real', 'JJ')	After dating the goalie on the local team for a while , she realized he was a real keeper .
+('like', 'IN')	('hold', 'NN')	Wrestlers don ' t like to be put on hold .
+('The', 'DT')	('one', 'NN')	The most expensive component is the one that breaks .
+NA	NA	OLD INVESTORS never die they just roll over .
+NA	('future', 'NN')	Could modern submarines be the wave of the future ?
+NA	('sees', 'VBZ')	The eye looks but it is the mind that sees .
+('never', 'RB')	('get', 'VB')	OLD TRAIN ENGINEERS never die , they just get derailed .
+NA	('worth', 'IN')	An ounce of discretion is worth a pound of wit .
+('If', 'IN')	('Kleenex', 'NNP')	If there is no God , who pops up the next Kleenex ?
+('Sherry', 'NNP')	('master', 'NN')	My name is Sherry . I ' m a wine - master .
+NA	('good', 'JJ')	No news is good news .
+('may', 'MD')	('period', 'NN')	You may use this opinion for a two week trial period .
+('She', 'PRP')	('men', 'NNS')	She was only an Archer ' s daughter , but to all the men she was the target .
+('Deal', 'NNP')	('catch', 'VB')	Deal gently with the bird you mean to catch .
+NA	('guns', 'NNS')	The lawyer asked a loaded question about guns .
+('Holly', 'NNP')	('decorator', 'NN')	My name is Holly , I ' m a holiday decorator
+('He', 'PRP')	('swallow', 'VB')	He told me he could eat a 32 ounce steak , but I found that hard to swallow .
+('guitar', 'NN')	('skills', 'NNS')	The boy ' s guitar teacher helped him pick up his skills .
+('Why', 'WRB')	('bad', 'JJ')	Why was the rabbit depressed ? He was just going through a bad patch !
+('Better', 'RBR')	('one', 'CD')	Better the devil you know ( than the one you don ' t . )
+('never', 'RB')	('get', 'VB')	OLD GROCERS never die , they just get shelved .
+NA	NA	If a program is useful , it will have to be changed .
+[]
+[]
+[]
+[]
+('He', 'PRP')	('last', 'JJ')	He was almost persuaded to invest in a poultry farm , but chickened out at the last minute .
+('done', 'VBN')	('said', 'VBD')	`` Well done `` is better than `` well said `` .
+('sweat', 'VBD')	('Everything', 'NN')	Rule 1 : Don ' t sweat the small stuff . Rule 2 : Everything is small stuff
+('money', 'NN')	('people', 'NNS')	The portrait artist made extra money as a census taker . He was good at canvasing people .
+NA	NA	Like cures like .
+('It', 'PRP')	('spin', 'NN')	It ' s true that the earth rotates , but scientists are always putting their own spin on it .
+('There', 'EX')	('Keep', 'NNP')	There was a sign on the lawn at a drug re - hab center that said ' Keep off the Grass ' .
+('pushed', 'VBD')	('luck', 'NN')	A husband is a lover who pushed his luck too far .
+NA	('really', 'RB')	His model airplane hobby really took off .
+NA	NA	The wish is father to the thought .
+('She', 'PRP')	('still', 'RB')	She was only a Bootleggers daughter , but I loved her still .
+NA	NA	None but the brave deserve the fair .
+('ever', 'RB')	('great', 'JJ')	Have you ever wondered why baseball players get girlfriends ? They ' re great at hitting it off .
+('He', 'PRP')	('driving', 'JJ')	He wanted desperately to be a good golfer - you could say he had a driving ambition .
+('It', 'PRP')	NA	It is the early bird that gets the worm .
+('walk', 'VBP')	('feel', 'VB')	If you walk along a railroad track you may soon feel run down .
+('best', 'JJS')	('bad', 'JJ')	Make the best of a bad bargain .
+NA	('aground', 'IN')	When the pirate captain ' s ship ran aground he couldn ' t fathom why .
+('staff', 'NN')	('wear', 'NN')	Attention staff ! The clothes keep falling off the mannequins in ladies ' wear . Would someone please redress the problem ?
+NA	NA	Using deodorant is no sweat .
+NA	('He', 'PRP')	A lawyer was defending a math teacher . He had to sum up .
+('man', 'NN')	('whose', 'WP$')	No man is born into this world , whose work is not born with him .
+('never', 'RB')	NA	Heart surgeons never bypass a good opportunity .
+NA	NA	If it screams , it ' s not food , yet . . . .
+('My', 'PRP$')	('winner', 'NN')	My name is Victor , and I ' m a winner in everything I do .
+('My', 'PRP$')	NA	My name is Faith . I ' m a minister .
+NA	('remains', 'VBZ')	The state funeral remains to be seen .
+NA	('vegetate', 'NN')	Old gardeners never die they just vegetate .
+NA	('refined', 'VBN')	People who make motor oil are very refined .
+('send', 'VBP')	('put', 'VBD')	If you send a letter to the Philippines put it in a Manila envelope .
+NA	('quite', 'RB')	The play on fishing had quite a cast .
+NA	NA	Never lie to your lawyer .
+('Did', 'NNP')	('see', 'VB')	Did you hear about these new reversible jackets ? I ' m excited to see how they turn out .
+('Do', 'NNP')	('miracles', 'NNS')	Do not merely believe in miracles , rely on them .
+NA	('decreasing', 'VBG')	It has been discovered that sales of irons are decreasing .
+('It', 'PRP')	('seconds', 'NNS')	It ' s not the minutes spent at the table that put on weight , it ' s the seconds .
+NA	NA	He that will not when he may , when he will he may have nay .
+('worth', 'IN')	('worth', 'IN')	An ounce of prevention is worth a pound of cure .
+NA	NA	When he proposed to her , she found it very engaging .
+NA	NA	Anyone who remembers the 60 ' s . . . wasn ' t there .
+('I', 'PRP')	('said', 'VBD')	When I asked the man how he became a ditch - digger , he said he just fell into it .
+('put', 'VB')	('It', 'PRP')	Anyone should know how to put a saddle on a horse so it won ' t slip and cause an injury . It ' s a cinch .
+('cool', 'JJ')	('rocks', 'VBZ')	That ' s a cool chair . Yeah , I know , it rocks .
+NA	NA	If you run through a screen door you ' ll strain yourself .
+('There', 'EX')	('create', 'VB')	There is rarely a sale on beer because the demand is always high so there ' s no need to create a buzz .
+('get', 'VB')	('get', 'VB')	Did the reproducing amoeba get a splitting headache ?
+('job', 'NN')	('I', 'PRP')	Since I ' ve taken the job in The Everglades I ' ve been swamped !
+('talking', 'VBG')	('serious', 'JJ')	When talking nonsense try not to be serious .
+('teach', 'VB')	('giving', 'VBG')	To teach someone how to build a compass you have to be good at giving directions .
+('decided', 'VBD')	('idea', 'NN')	The farmer decided to get a cow , and milk the idea for all it was worth .
+('never', 'RB')	('underworld', 'NN')	OLD GANGSTERS never die , they just go to the underworld . .
+('sheets', 'NNS')	('usually', 'RB')	He who hogs the sheets is usually very wrapped up in himself .
+('newspaper', 'NN')	('Classified', 'VBN')	The newspaper doesn ' t put in Politics what is Classified .
+NA	('god', 'VB')	If there is a hypocrite between you and the church , he is closer to god than you .
+NA	NA	All roads lead to Rome .
+('Can', 'MD')	('I', 'PRP')	Can I tell you a story about my bed ? I made it up .
+('I', 'PRP')	('go', 'VB')	I was going to order a satellite dish but then I found out that I had to go through channels .
+('wanted', 'VBD')	('group', 'NN')	Galois wanted to assemble his own group .
+NA	NA	My fear of planes has taken off .
+('dentist', 'NN')	('cavity', 'NN')	The dentist ' s alibi was full of holes , so the police performed a cavity search .
+('I', 'PRP')	('topic', 'NN')	I ' m going to be discussing global warming next week , it ' s quite a heated topic .
+('He', 'PRP')	('nut', 'NN')	He that would eat the kernel must crack the nut .
+('military', 'JJ')	('fire', 'NN')	An artist with the military kept drawing enemy fire .
+('die', 'VBP')	('unstrung', 'JJ')	OLD VIOLINISTS never die , they just become unstrung .
+('hit', 'VBN')	('knocked', 'VBN')	He was hit on the head during a hail storm and was knocked out cold .
+NA	('got', 'VBD')	The car stopped with a jerk , then the jerk got out .
+NA	NA	Good swimmers are often drowned .
+NA	('repulsed', 'VBN')	OLD CARDIOLOGISTS never die , they are just repulsed . .
+('invented', 'VBN')	('quite', 'RB')	The safe was invented by a cop and a robber . It was quite a combination .
+NA	('man', 'NN')	A woman cries before the wedding , a man after .
+NA	NA	This building is so high , the elevator shows movies .
+NA	NA	OLD TROMBONISTS never die , they just slide away . . .
+('The', 'DT')	('rave', 'VB')	The dance club opened to rave reviews .
+('She', 'PRP')	('go', 'VB')	She was only a Elevator operator ' s daughter , and she loved to go down .
+NA	('best', 'JJS')	The good is the enemy of the best .
+('debating', 'VBG')	('argument', 'NN')	We spent all day debating about housefires . It was quite a heated argument .
+('never', 'RB')	('get', 'VB')	OLD STATUES never die they just get busted .
+('color', 'NN')	('color', 'NN')	Students who accent their textbooks with color markers add a real highlight to their day .
+('I', 'PRP')	('Which', 'JJ')	Of COURSE I ' m on topic . ( Which echo is this ? )
+NA	NA	Pasteur was boiling about not being invited .
+NA	NA	Trespassers will be shot , survivors will be shot again !
+NA	('sentences', 'NNS')	OLD JUDGES never die , they just slur their sentences
+('heard', 'VBP')	('joke', 'NN')	Have you heard the joke about the bomb ? It had no impact .
+('He', 'PRP')	('stuck', 'VBN')	He got a job in a factory making needles , but soon got stuck .
+('put', 'VBD')	('done', 'VBN')	Never put off till tomorrow what can be done today .
+('never', 'RB')	('commission', 'NN')	OLD SALESMEN never die , they just go out of commission .
+('never', 'RB')	('lose', 'VB')	OLD BANKERS never die they just lose interest .
+('best', 'JJS')	('life', 'NN')	The best things in life are free .
+('Josh', 'NNP')	('show', 'NN')	My name is Josh . I ' m a talk show host
+('thing', 'NN')	('especially', 'RB')	The one thing that is constant is Change especially if you are a cashier .
+('really', 'RB')	('hurt', 'VBD')	That really nice fellow works in a clothing factory sewing zippers on jeans . That is good . He wouldn ' t hurt a fly .
+('plan', 'VB')	('detailed', 'JJ')	To plan a graveyard you need a skeleton idea before a detailed plan .
+('playing', 'VBG')	('around', 'RB')	While the music was playing the geology teacher was rocking around .
+NA	NA	Banning Viagra was a big flop .
+('run', 'VB')	('time', 'NN')	You must not run after two hares at the same time .
+('gave', 'VBD')	('keep', 'VB')	The warden gave the inmates acne medicine hoping it would keep them from breaking out .
+('give', 'VBP')	('give', 'VBP')	Plenty of people give the lord credit . Few give him cash .
+NA	NA	Variety is the spice of life .
+('I', 'PRP')	('I', 'PRP')	I really do have a photographic memory - - I just haven ' t developed it yet .
+NA	NA	My other vehicle is a Galaxy Class Starship
+NA	NA	Still water runs deep .
+('nails', 'NNS')	('Next', 'NNP')	Doctor , Doctor , should I file my nails ? - No . Throw them away like everybody else . Next .
+('good', 'JJ')	('posted', 'VBN')	He ' s a good letter carrier . He always keeps you posted .
+('time', 'NN')	NA	Footprints on the sands of time are not made by sitting down .
+NA	('lose', 'VB')	OLD LAWYERS never die they just lose their judgment .
+('said', 'VBD')	NA	After selling a shipment of salt the salesman said ' let ' s shake on that . '
+NA	NA	Someone who robs shoe stores is an arch criminal .
+NA	NA	The doctor couldn ' t transfer the organs because he didn ' t have the guts to do it .
+('valuable', 'JJ')	('believed', 'VBN')	The valuable dog was still missing , believed stolen , however the police announced they have a lead .
+NA	NA	OLD LIBRARIANS never die , they just check out .
+('Is', 'VBZ')	('Come', 'VB')	Wal - Mart Is Not the Only Saving Place . Come On In .
+('Lightning', 'VBG')	NA	Lightning never strikes twice in the same place .
+('appeared', 'VBN')	('major', 'JJ')	An hobbituary to Tolkien appeared in each of the major newspapers , all had a familiar ring to them .
+('find', 'VB')	('made', 'VBD')	The passenger couldn ' t find where his next flight was , but then he made the connection .
+('Hmmm', 'NNP')	('funny', 'JJ')	Hmmm , fence must still be down over at the funny farm . . . .
+NA	NA	When the branding iron was invented cattle were very impressed .
+[]
+[]
+('always', 'RB')	('look', 'VBP')	You always find something in the last place you look .
+('die', 'VBP')	('stop', 'VB')	OLD CHEMISTS never die , they just stop reacting .
+('mama', 'NN')	('get', 'VB')	Yo mama ' s so easy , that Madonna get tips from her !
+('preserve', 'VB')	('Because', 'IN')	Why do people preserve fruits and vegetables ? Because they ' can ' .
+('lots', 'NNS')	('make', 'VB')	He bought lots of pens before starting his new job . He wanted to make his mark .
+('curtains', 'NNS')	('real', 'JJ')	In the room the curtains were drawn , but the rest of the furniture was real .
+('wonder', 'VBP')	('end', 'NN')	Males who wonder why they should have a prostate exam usually get it in the end .
+[]
+[]
+[]
+[]
+('They', 'PRP')	('last', 'JJ')	They argued about their vacation and finally stayed at the last resort .
+('Eating', 'VBG')	('cramming', 'NN')	Eating too many snacks when studying for a test is called cramming .
+NA	('keep', 'VB')	OLD COURIERS never die , they just keep on expressing it !
+('She', 'PRP')	('good', 'JJ')	She was only a Telephone operator ' s daughter , but she sure had good connections .
+('Rusty', 'NNP')	('I', 'PRP')	My name is Rusty . I undercoat cars .
+('lost', 'VBD')	('time', 'NN')	We ' re lost but we ' re making good time .
+NA	NA	' ' It ' s a German song , ' ' Tom lied .
+('used', 'VBN')	('pointed', 'JJ')	A teacher used his index finger to ask a lot of pointed questions .
+('Bruce', 'NNP')	('feeling', 'VBG')	Since Bruce got too close to the big blade at the saw mill he is no longer feeling chipper .
+NA	NA	Opening a new funeral parlor can be quite an undertaking .
+('well', 'RB')	NA	The oil well driller had a boring job .
+NA	NA	If you got it , flaunt it .
+('man', 'NN')	('making', 'VBG')	The man who worked at the watch factory was very funny . He stood about all day making faces .
+NA	NA	Grills are a hot item .
+NA	('eyed', 'VBN')	There was once a cross - eyed teacher who couldn ' t control his pupils .
+('woodcutter', 'NN')	('axes', 'NNS')	A woodcutter ' s world revolves on his axes .
+('He', 'PRP')	('running', 'VBG')	He has been a jogger for three years running .
+('Occasionally', 'RB')	('I', 'PRP')	Occasionally , I hear an assertion followed by a hasty qualification , such as , ' ' Jim graduated in 1995 - - if memory serves . ' ' I ' ll respond : ' . . . or only stands and waits . ' '
+('certain', 'JJ')	('touchy', 'NN')	In certain sexual harassment cases things can get kind of touchy .
+('fortune', 'JJ')	('thunders', 'NNS')	If fortune favours , beware of being exalted ; if fortune thunders , beware of being overwhelmed .
+('Grey', 'NNP')	('lots', 'NNS')	`` Tea , Early Grey , hot `` - Picard . . `` Ale , Romulan , lots . `` - Kirk
+NA	('dribbling', 'NN')	OLD BASKETBALL PLAYERS never die they just go on dribbling .
+('I', 'PRP')	('mechanically', 'RB')	I ' ve got to fix the automobile , said Tom mechanically .
+NA	('May', 'NNP')	Is there a best month of spring ? There May be .
+('swallowed', 'VBD')	NA	A guy swallowed a spoon and found he couldn ' t stir .
+NA	('web', 'NN')	Ducks don ' t have their palms read - they look for it on the web .
+('swallowed', 'VBD')	('described', 'VBD')	The boy swallowed a pillow , the hospital described his condition as comfortable .
+('I', 'PRP')	('wood', 'NN')	I nailed my wood - shop test .
+NA	NA	Captain we ' re at 1700 CPS . The UARTs canna take much more
+NA	NA	Windows loading . Come back tomorrow .
+('die', 'VBP')	('try', 'VB')	OLD JUDGES never die , they just cease to try
+NA	('Ribs', 'NNP')	What did the skeleton have for supper ? Ribs .
+('She', 'PRP')	('town', 'NN')	She was only a Swimmer ' s daughter , but she knew every dive in town . .
+('My', 'PRP$')	('Woody', 'NNP')	My name is Woody . A Forester
+NA	NA	Fight fire with fire .
+('bought', 'VBD')	('apart', 'RB')	When they bought a water bed , the couple started to drift apart .
+('My', 'PRP$')	('Guy', 'NNP')	My name is Guy . I install antennas .
+('hardest', 'JJS')	('keep', 'VB')	The hardest thing for a person to keep is his opinion
+('count', 'VB')	('four', 'CD')	Can bankers count ? Eight windows and only four tellers ?
+('young', 'JJ')	('shot', 'NN')	A young nurse was nervous about giving vaccinations but gave it her best shot .
+('tell', 'VBP')	('lying', 'VBG')	If you tell a falsehood just after waking up you are lying in bed .
+('snake', 'VB')	('struck', 'NN')	After that poisonous snake struck at me in the Arizona Desert I was really rattled .
+('He', 'PRP')	('brush', 'NN')	He shined a police officer ' s shoes and had a brush with the law .
+NA	NA	' Change the channel ' she said remotely .
+NA	NA	We have nothing to fear but fear itself .
+('Then', 'RB')	('I', 'PRP')	Then there was the occasion I spotted a health - oriented cafe displaying a sign reading ' ' California Shakes . ' ' Obviously , I thought .
+('two', 'CD')	('least', 'JJS')	Of two evils choose the least .
+NA	('astronomical', 'JJ')	The cost of the space program is astronomical .
+('Press', 'NN')	('Press', 'NNP')	911 : Press 1 if robbery . Press 2 if house on fire . Press 3 . . .
+('like', 'IN')	('cultured', 'VBN')	People who like yogurt are well cultured .
+NA	NA	She played baseball and so did he . They hit it off .
+NA	('chimed', 'VBD')	A doorbell salesman joined the choir , and chimed right in .
+('He', 'PRP')	('one', 'CD')	He got measles in jail when he broke out one night .
+NA	NA	A fisherman who was also a pianist was an expert with scales .
+NA	('playing', 'VBG')	The melody kept on playing until it became a strain .
+('two', 'CD')	('striking', 'JJ')	The two bowlers bore a striking resemblance .
+('quoth', 'VBZ')	('pissed', 'VBD')	Fire , quoth the fox , when he pissed on the ice .
+NA	NA	Anarchists of the world , UNITE ! !
+('It', 'PRP')	('come', 'VBN')	It was a sad day for the rattlesnake family , the time had come for the children to strike out on their own .
+('I', 'PRP')	('console', 'VB')	When I had my PlayStation stolen , my family were there to console me .
+('Okay', 'NNP')	('going', 'VBG')	Okay , I pulled the pin . Now what ? Where are you going ?
+NA	NA	Young women who are mathematics professors closely watch their figures .
+('He', 'PRP')	('got', 'VBD')	He had trouble in his new job making tents and got himself into a flap .
+NA	NA	A bird in the hand is worth two in the bush .
+('way', 'NN')	('left', 'VBN')	Overdrawn ? No way ! I still have checks left !
+NA	NA	Poor blood circulation runs through the family .
+NA	NA	If a lawyer speaks for too long there will be an extended sentence .
+('Keep', 'VB')	('end', 'NN')	Basic Flying Rule # 1 : Keep the pointy end forward .
+NA	NA	He was a restaurant critic but had no taste .
+NA	NA	All that glisters is not gold .
+('Wally', 'RB')	('serve', 'VB')	Wally wasn ' t sure in which branch of the Army he wanted to serve , but he gravitated toward the paratroops .
+('Power', 'NN')	('corrupts', 'NNS')	Power tends to corrupt ; absolute power corrupts absolutely .
+('math', 'NN')	('knows', 'VBZ')	I met a math professor who has 12 children - she really knows how to multiply .
+NA	NA	Many words will not fill a bushel .
+('I', 'PRP')	('I', 'PRP')	My new girlfriend and I are moving together into a tree house , I hope we won ' t fall out .
+('I', 'PRP')	('I', 'PRP')	I used to be a banker but I lost interest
+('never', 'RB')	('end', 'NN')	OLD PROCTOLOGISTS never die , they just face the end .
+('My', 'PRP$')	('brushing', 'VBG')	My dentist seems distracted , I think he was brushing me off .
+('We', 'PRP')	NA	We did it twice last night , she relayed .
+('She', 'PRP')	('state', 'NN')	She was only a Governor ' s daughter , but what a state she was in .
+('I', 'PRP')	('momentarily', 'RB')	I never get lost , just momentarily disoriented .
+NA	('channels', 'NNS')	On TV it ' s a maze of channels , luckily he had a guide .
+('tell', 'VBP')	('Next', 'NNP')	Doctor , doctor , people tell me I ' m a wheelbarrow . - Don ' t let people push you around . Next .
+NA	('dying', 'VBG')	Never invest in funerals , it ' s a dying industry .
+NA	NA	Hangmen always keep their customers in the loop .
+NA	NA	Roentgen was radiating .
+NA	('punch', 'VBP')	OLD BOXERS never die , they just punch out
+('fly', 'NN')	('single', 'JJ')	Waiter , there ' s a fly in my soup ! ' ' At our restaurant , we guarantee You won ' t find a single fly . ' ' ' ' Whaddya mean ? ' ' ' ' Because they ' re all married . ' '
+NA	NA	You are now entering a School Free Drug Zone .
+NA	NA	Sky divers don ' t jump , they just fall away .
+('never', 'RB')	('lose', 'VBP')	OLD PLANETS never die , they just lose their attraction .
+('wanted', 'VBD')	('never', 'RB')	I wanted to make suits but I could never measure up .
+('My', 'PRP$')	('I', 'PRP')	My name is Will , I ' m a lawyer .
+('next', 'JJ')	('advanced', 'VBD')	' ' Here ' s your allowance for the next two weeks , ' ' Tom advanced .
+NA	('shuffle', 'VBD')	OLD CARD PLAYERS never die , they just shuffle off .
+('Bible', 'JJ')	('Eden', 'NNP')	The earliest mention of cars is in the Bible when Adam and Eve were driven out of the Garden of Eden .
+('guillotine', 'NN')	('gets', 'VBZ')	When a guillotine executioner is layed off he gets severance .
+('I', 'PRP')	('every', 'DT')	I like elevators they let me say jokes on every level .
+('never', 'RB')	('lose', 'VBP')	OLD ALCOHOLICS never die , they just lose their spirit .
+('die', 'VBZ')	('hiding', 'NN')	OLD TANNERS never die they just go into hiding .
+('Jenny', 'NNP')	('harp', 'NN')	Jenny was sure she was going to Heaven but she wouldn ' t harp on it .
+NA	('whole', 'JJ')	A nuclear war can ruin your whole day . . .
+('get', 'VB')	NA	In Ireland you ' re more likely to get a Pat answer .
+('unless', 'IN')	NA	You can ' t have an omelette unless you break the egg .
+('Give', 'VB')	('hang', 'VBD')	Give a dog a bad name and hang him .
+('fixed', 'VBN')	('flat', 'JJ')	Tires are fixed for a flat rate .
+NA	('head', 'NN')	The heart sees farther than the head .
+('dishonest', 'JJ')	('dealt', 'VBN')	He was the most dishonest and cleverest card shark in the city , the police said he will be dealt with .
+('never', 'RB')	('get', 'VB')	Old electricians never die , they just get discharged .
+('fifty', 'JJ')	('I', 'PRP')	The trampoline was on sale for fifty per cent off . Needless to say I jumped on the offer .
+NA	NA	I wanted to be a sonar technician , but it was out of my depth .
+NA	NA	Peter went overboard for the lord , why can’t we .
+NA	('I', 'PRP')	Stop talking ! I ' m out of aspirin !
+('carefully', 'RB')	('see', 'VB')	Proofread carefully to see if you any words out .
+NA	NA	The railway constructions are on track .
+('set', 'VB')	('free', 'JJ')	The truth shall set you free , or The truth will set you free .
+('Stamp', 'NNP')	NA	Stamp out excessive postage prices .
+('Art', 'NNP')	NA	My name is Art , I ' m a museum curator .
+('He', 'PRP')	('feel', 'VB')	He put so many blanks in his document that he started to feel spaced out .
+('I', 'PRP')	('mail', 'NN')	I ' m sorry Mrs . Bobbitt , you can ' t send that in the mail .
+('good', 'JJ')	('pocket', 'VB')	The mother kangaroo tried to instill good financial habits in her baby . She told him to pocket all his allowance .
+('better', 'JJR')	('years', 'NNS')	Highways today are much better than they were many years ago and there are lots of concrete examples of it .
+NA	NA	Monkey see , monkey do .
+('Don', 'NNP')	('foggiest', 'JJS')	Don ' t get lost in the mist or else you won ' t have the foggiest idea where you are .
+('play', 'NN')	('make', 'VB')	A former doctor , while auditioning for a play , broke his leg . But luckily , he could still make the cast .
+NA	NA	Anything not nailed down is a cat toy .
+('Success', 'NNP')	NA	Success is a journey not a destination .
+('jokes', 'NNS')	('get', 'VBP')	Some jokes get dated , other jokes get married .
+('tipped', 'VBD')	('never', 'RB')	I ' ve never tipped a cow . Then again , one has never served me food .
+('heard', 'VBN')	('store', 'NN')	Have you heard about that online origami store ? It folded .
+('I', 'PRP')	('I', 'PRP')	I ' d love to change the world . . . if I can get the source code .
+('She', 'PRP')	NA	She was only an Attorney ' s daughter , but what a will to break .
+('smile', 'VBP')	('wonder', 'VB')	Always smile . It makes people wonder what you ' re up to .
+('grain', 'NN')	NA	Kindness , like grain , increases by sowing .
+('want', 'VBP')	('got', 'VBD')	He didn ' t want to volunteer for the rodeo but he got roped into it .
+('switched', 'VBD')	('tack', 'NN')	When he switched from horses to sailing , his life took on a new tack .
+('I', 'PRP')	('yes', 'UH')	Do I straddle the fence on issues ? Well , yes and no . . . .
+('small', 'JJ')	('much', 'RB')	I wrote a novel about a fellow who had a small garden . It didn ' t have much of a plot .
+('makes', 'VBZ')	('fonder', 'NN')	Absence makes the heart grow fonder .
+NA	('royal', 'JJ')	The queen told the prince that he was a royal pain .
+('Hell', 'NN')	('gotten', 'VB')	Hell ! I thought I’d gotten away with it !
+('I', 'PRP')	('moped', 'VBD')	' ' I want a motorized bicycle , ' ' Tom moped .
+NA	NA	A friend can not be known in prosperity nor an enemy be hidden in adversity .
+('given', 'VBN')	('time', 'NN')	A man given a watch at his retirement said ' it ' s about time ' .
+('often', 'RB')	('candid', 'JJ')	Photographers are often very candid people .
+('I', 'PRP')	('long', 'RB')	Hell ! I thought it didn ' t matter what you believed as long as you were sincere !
+('stolen', 'VBN')	('say', 'VBP')	A thousand dogs were stolen from a pet shop on Saturday . Police say they have no leads .
+('Shame', 'NNP')	NA	Shame take him that shame thinketh .
+('makes', 'VBZ')	('ending', 'VBG')	A good beginning makes a good ending .
+('understand', 'VB')	('universal', 'JJ')	Aliens can easily understand each other because their language is universal .
+('first', 'RB')	('run', 'VB')	At first he was was a sprinter , but then he decided to run for office .
+('It', 'PRP')	('lights', 'NNS')	It is always darkest just before you turn on the lights .
+('duck', 'NN')	('duck', 'NN')	If it looks like a duck , swims like a duck , and quacks like a duck , then it probably is a duck .
+('little', 'JJ')	('hope', 'VBP')	Doctor , Doctor My little boy has just swallowed a roll of film ! - Hmmmm . Let ' s hope nothing develops . Next .
+('I', 'PRP')	('shape', 'NN')	I wondered why my geometry class was always tired . They were all out of shape .
+NA	NA	We offer counsel so you are not audited on your final return .
+('bit', 'NN')	('better', 'JJR')	A golden bit does not make the horse any better .
+('die', 'VBP')	('keep', 'VB')	OLD BOOTLEGGERS never die , they just keep still .
+('greatest', 'JJS')	('us', 'PRP')	We carry our greatest enemies within us .
+('To', 'TO')	NA	To draw cartoons for a living requires someone who is very animated .
+NA	NA	Bill Gates took advantage of his Windows of opportunity
+NA	NA	I ' m drawn to art .
+NA	('lose', 'VB')	OLD MATHEMATICIANS never die , they just lose some functions .
+('decide', 'IN')	('party', 'NN')	When you can ' t decide with your friends whose place to have a party at it ' s known as party politics .
+NA	('convertible', 'JJ')	Missionaries like open hooded cars because they are convertible .
+('first', 'JJ')	('hitch', 'NN')	The first time he put the horses on the carriage it went without a hitch .
+[]
+[]
+('us', 'PRP')	('put', 'VB')	Undertakers ' Motto - Trust us . We are the very last ones to put you down .
+NA	NA	We are overdressed when we are wrapped up in ourselves .
+NA	NA	The inventor of sandpaper had a rough time of it .
+NA	('knees', 'NNS')	Satan can’t bring you down any farther than your knees .
+('The', 'DT')	NA	The inventor of the stove top was in his element .
+NA	('nice', 'JJ')	Astronauts work in a nice atmosphere .
+NA	NA	Well drilling is a deep subject .
+('My', 'PRP$')	NA	My name is Candy . I ' m a confectioner .
+('This', 'DT')	('said', 'VBD')	This is a picture of my new house , said Tom , visibly moved .
+('I', 'PRP')	('Can', 'MD')	I ' m buying a birthday present for a sculptor . Can you chip in ?
+('cavity', 'NN')	('filling', 'VBG')	My cavity wasn ' t fixed by my regular dentist , but by a guy who was filling in .
+('never', 'RB')	('touch', 'NN')	OLD TYPISTS never die , they just lose their touch .
+NA	NA	Installing a fan can be a breeze .
+('Skipping', 'VBG')	('suspended', 'VBN')	Skipping school to bungee jump will get you suspended .
+('time', 'NN')	('great', 'JJ')	Nature , time , and patience are three great physicians .
+('There', 'EX')	('open', 'VB')	There is only one way to open the door and that is the key .
+NA	NA	My other computer runs the Enterprise .
+NA	('doubt', 'NN')	Engineers : often wrong , seldom in doubt .
+('die', 'VBP')	('work', 'NN')	OLD GRAVEDIGGERS never die , they just get buried in their work
+('IRS', 'NNP')	('collect', 'VB')	When the shocked IRS agent was found guilty of tax evasion he had to take time to collect himself .
+('let', 'VBD')	('good', 'JJ')	Don ' t let the perfect become the enemy of the good .
+('always', 'RB')	('weasel', 'VB')	The rodent catcher was always trying to weasel his way out of work .
+NA	NA	A hedge between keeps friends green .
+NA	('phrase', 'NN')	When William joined the army he disliked the phrase ' fire at will ' .
+('coins', 'NNS')	('batter', 'NN')	When some coins fell into the batter it turned out to be a rich cake .
+NA	NA	Fine words butter no parsnips .
+('discovered', 'VBD')	('broken', 'VBN')	When the shoe store owner discovered that someone had broken into his store , the police pumped him for information .
+('That', 'DT')	NA	That ' s the seventh dip , Namaan said cleanly .
+('take', 'VBP')	NA	Don ' t take life seriously . . . it isn ' t permanent .
+('arguing', 'VBG')	('odds', 'NNS')	Two mathematicians arguing about even numbers were at odds .
+NA	NA	The weather bureau is an umbrella organization .
+('die', 'VBP')	('disconnected', 'JJ')	OLD TELEPHONE OPERATORS never die , they just become disconnected .
+('found', 'VBN')	('quite', 'RB')	A streaker was found dead this morning . Police say the details are quite revealing .
+('I', 'PRP')	('I', 'PRP')	I strongly dislike the subject of math , however I am partial to fractions .
+('believe', 'VBP')	('another', 'DT')	The builders of raceways believe that one good turn deserves another .
+('attached', 'VBN')	('would', 'MD')	A computer program attached to an electric chair would have to have its execution checked carefully .
+('die', 'VBP')	('discarded', 'VBN')	OLD GAMBLERS never die , they just get discarded .
+('mate', 'NN')	('picking', 'VBG')	My mate swallowed a cordless vacuum cleaner , they took him to hospital and he is picking up nicely .
+NA	NA	My mom ran out of poultry seasoning so she winged it .
+NA	NA	OLD CREDIT CARD USERS never die , they just expire .
+('profession', 'NN')	NA	The members of the oldest profession are not really lost women ; they are just mislaid .
+('A', 'DT')	('strikes', 'NNS')	A bowling team was called ' lightning ' because they had so many strikes .
+('lasts', 'VBZ')	('ex', 'JJ')	A wife lasts as long as a marriage , an ex - wife for ever .
+NA	NA	My name is Gene , I ' m a DNA researcher .
+NA	NA	Don ' t fall before you ' re pushed .
+NA	NA	He had to learn what the measles was , from scratch .
+('My', 'PRP$')	('musician', 'NN')	My name is Lute . I ' m a musician .
+('She', 'PRP')	('broke', 'VBD')	She had a boyfriend with a wooden leg , but broke it off .
+('One', 'CD')	('another', 'DT')	One leftover said to another ' foiled again . '
+NA	('storm', 'NN')	Underpaid weather forecasters predicted a storm of protest .
+('painter', 'NN')	('strokes', 'NNS')	The painter was hospitalized due to too many strokes .
+('calculator', 'NN')	('count', 'VB')	Trust your calculator . It ' s something to count on .
+('asked', 'VBN')	('I', 'PRP')	When asked by a passenger how high he would get , the pilot replied , ' I don ' t do drugs . '
+('went', 'VBD')	('columns', 'NNS')	The journalist went to Greece to see the ancient ruins and is now writing several columns about them .
+('late', 'JJ')	('buried', 'VBN')	The mortician was late for dinner because he was buried in his work .
+NA	('get', 'VB')	OLD RABBIS never die , they just get grey around the temples .
+('wanted', 'VBD')	('always', 'RB')	When the janitor wanted to take up public speaking he always had the floor .
+('die', 'VBP')	('unstrung', 'JJ')	OLD GUITARISTS never die , they just become unstrung .
+('I', 'PRP')	('Weird', 'NNP')	I before E except after C , huh ? Weird . . . . .
+('date', 'NN')	('She', 'PRP')	The date of the marathon was changed . She took it in stride .
+('needed', 'VBN')	('heeded', 'JJ')	Advice most needed is least heeded .
+NA	NA	A cutlery manufacturing company was built at a fork in the road .
+NA	('recovered', 'VBN')	The man who fell into an upholstery machine is fully recovered .
+('A', 'DT')	('rab', 'VBP')	( A ) bort , ( R ) etry , ( F ) ail , ( G ) rab _ Hammer
+[]
+[]
+[]
+('longest', 'JJS')	('last', 'JJ')	The longest mile is the last mile home .
+NA	NA	People in the desert have dry humor .
+('reads', 'NN')	('Trespassing', 'NNP')	A sign at a cemetery reads , ' No Trespassing , Violators Will Face Grave Charges ' .
+('bliss', 'JJ')	('wise', 'NN')	Where ignorance is bliss , ' tis folly to be wise .
+NA	NA	Time and tide wait for no man .
+NA	('dog', 'NN')	Love me , love my dog .
+NA	('secret', 'NN')	For a long time , black holes were a dark secret .
+('She', 'PRP')	('get', 'VB')	She was only a Conductor ' s daughter , but she told you where to get off .
+('I', 'PRP')	('example', 'NN')	I ' m not worthless . I can always serve as a bad example .
+NA	NA	Forgive and forget .
+('wash', 'IN')	NA	Don ' t wash your dirty linen in public .
+NA	NA	A burnt child dreads the fire .
+NA	NA	Cooks have a lot of spice in their lives .
+('refused', 'VBD')	('incriminate', 'VB')	The defendant in a coffee theft trial refused to testify on the grounds that could incriminate him .
+('dog', 'NN')	('scraps', 'NNS')	Dorothy ' s dog , of the Wizard of Oz fame , always eats his food entirely - he never leaves any scraps because it ' s in toto .
+('die', 'VBP')	('get', 'VB')	OLD LANDSCAPERS never die , they just get weeded out .
+('school', 'NN')	('passing', 'VBG')	In medical school he worried about passing as a surgeon , but he made the cut .
+('A', 'DT')	('mysterious', 'JJ')	A cat found a mysterious sweater , but the mystery was soon unravelled .
+('walkers', 'NNS')	('free', 'JJ')	Notice in a field : The farmer allows walkers to cross the field for free , but the bull charges .
+('I', 'PRP')	('passed', 'VBD')	I didn ' t have the faintest idea as to why I passed out .
+('used', 'VBD')	('work', 'VB')	I used to work in a blanket factory but it folded .
+NA	NA	Rental agents offer quarters for dollars .
+('rode', 'VBD')	('evening', 'NN')	The environmentalist rode his bike 20 miles in the morning and 20 more in the evening . He loved recycling .
+('I', 'PRP')	('bathroom', 'NN')	. . . I multi - task , I read in the bathroom .
+('qualifications', 'NNS')	('teacher', 'NN')	His qualifications as a math teacher didn ' t add up .
+('present', 'JJ')	('bring', 'VB')	Enjoy the present day , trusting little to what tomorrow may bring .
+('There', 'EX')	('omission', 'NN')	There are sins of omission as well as of commission .
+NA	NA	Deeds are fruits , words are but leaves .
+NA	NA	Wade not in unknown waters .
+('forget', 'VBP')	('missing', 'VBG')	I forget the dream , but I ' m missing a pajama button . . .
+('made', 'VBD')	('daughter', 'NN')	She was only a Electrician ' s daughter , and she made house calls to remove her customers ' shorts .
+('ugly', 'RB')	('cry', 'NN')	Yo mama ' s so ugly , she made an onion cry .
+('Sherry', 'NNP')	('work', 'VBP')	My name is Sherry . I work in a vineyard .
+('trust', 'VB')	('screwing', 'VBG')	How could I trust the ceiling fan installer when I knew he was always screwing up .
+NA	NA	Politics makes strange bedfellows .
+('musician', 'JJ')	('playing', 'VBG')	A musician went to hospital after playing too many accidentals .
+('If', 'IN')	('dog', 'NN')	If you want a metal dog leash go to a chain store .
+('ever', 'RB')	('competition', 'NN')	If they ever have a contest for the best looking mannequin , there will be stiff competition .
+('drink', 'NN')	('make', 'VBP')	Set your drink on a skateboard , they make good coasters .
+('Hey', 'NNP')	('time', 'NN')	Hey , wake up ! It ' s time for your sleeping pills .
+NA	NA	Procrastination is the thief of time .
+('watched', 'JJ')	('boils', 'VBZ')	A watched pot never boils .
+NA	NA	OLD PHILOSOPHERS never die , they just retire to their own premises .
+('People', 'NNS')	('lot', 'NN')	People who work at a mint make a lot of money .
+('wanted', 'VBD')	('went', 'VBD')	I wanted to join my local rambling club , but the guy I spoke to on the phone just went on and on .
+('She', 'PRP')	NA	She was only a Porchclimber ' s daughter , but you should see her stoop
+('optometrist', 'JJ')	('people', 'NNS')	Have an optometrist run for president , because they are people of vision .
+NA	NA	Go with the flow .
+('She', 'PRP')	('still', 'RB')	She was only a whisky maker but he loved her still .
+('When', 'WRB')	('blushed', 'VBD')	When the beautician was asked to complete her make - up work she blushed .
+('As', 'IN')	('way', 'NN')	As usual , the chief meteorologist blustered his way through the staff meeting .
+NA	NA	As you sow , so you reap .
+('never', 'RB')	('get', 'VB')	OLD BUTCHERS never die , they just get disjointed .
+('beauty', 'JJ')	('need', 'VBP')	If you miss a class at beauty school you ' ll need a makeup session .
+('name', 'NN')	('Bud', 'NNP')	My name is Bud . I ' m in flowers .
+('The', 'DT')	('next', 'JJ')	The musician in jail was anxiously awaiting his next release .
+('addicted', 'VBD')	('time', 'NN')	The man addicted to brake fluid said he could stop any time .
+NA	NA	OLD WATCHMAKERS never die , they just wind down .
+('There', 'EX')	('twixt', 'JJ')	There ' s many a slip ' twixt cup and lip .
+('never', 'RB')	('bits', 'NNS')	OLD HACKERS never die , they just go to bits
+('I', 'PRP')	('choked', 'VBD')	' ' I ' ve got to stop this motor , ' ' Tom choked .
+NA	NA	Reckless youth makes rueful age .
+('Do', 'VB')	('unto', 'IN')	Do unto others as you would have them do unto you .
+('best', 'JJS')	('point', 'NN')	Even the best bird dog is only good to a point .
+NA	('lose', 'VBP')	OLD HELICOPTER PILOTS never die , they just lose their choppers .
+('took', 'VBD')	('grip', 'NN')	The cat took up computer lessons in hopes of mastering its grip on a mouse .
+('relocating', 'VBG')	('moving', 'JJ')	Packing up and relocating to a new home can be a moving experience .
+('like', 'IN')	('forget', 'VB')	Love is like war , Easy to start , Hard to end , Impossible to forget .
+NA	NA	If you can ' t beat them , join them .
+('Pockets', 'VBZ')	('%', 'NN')	Pick Pockets 50 % Climb Walls 75 % Steal Tagline 99 %
+NA	NA	The earless defendant waived his hearing .
+('A', 'DT')	('held', 'VBN')	A seminar on Time Travel will be held 2 weeks ago . . . .
+('careful', 'JJ')	('might', 'MD')	Be careful what you wish for , you just might get it .
+NA	('capers', 'NNS')	The hotel chef was noted for his tomfoolery and his capers .
+NA	NA	Sea captains have a lot of latitude .
+NA	('lose', 'VBP')	OLD LIBRARIANS never die , they just lose their circulation .
+('see', 'VB')	('light', 'NN')	Scientists allow us to see the sun in a different light .
+NA	NA	Proverbs run in pairs .
+NA	NA	Dentists have the same old grind day after day .
+('sun', 'NN')	('late', 'RB')	The star asked the sun why the moon was always up so late . Sun responded that it was just a phase .
+NA	('paper', 'NN')	Erasable pens were a good idea on paper .
+NA	NA	If you do research in optics you will have to do some light reading .
+('My', 'PRP$')	('star', 'NN')	My name is Oscar , and I ' m a movie star .
+('For', 'IN')	('ten', 'JJ')	For fast relief take two tablets . The ten commandments
+('could', 'MD')	('back', 'RP')	I could not pull out of my parking space , so I used my back up plan .
+('Where', 'WRB')	('find', 'VB')	Where there are many chickens you can find layers of eggs .
+('pampered', 'VBN')	('milk', 'NN')	A cow that is pampered too much will give spoiled milk .
+('When', 'WRB')	('back', 'NN')	When Irish boys carry their little brothers , they get a Pat on the back .
+('He', 'PRP')	('son', 'NN')	He died leaving 100 clocks . His son is winding up the estate .
+('He', 'PRP')	('get', 'VB')	He bought a donkey because he thought he might get a kick out of it .
+('man', 'NN')	('still', 'RB')	The man who dies with the most toys is still dead .
+NA	NA	OLD WATCHMAKERS never die , they just unwind .
+('Shit', 'NNP')	('pot', 'NN')	Shit or get off the pot .
+('hear', 'VBP')	('job', 'NN')	Did you hear about the pilot who always had work ? He was great at landing a job .
+('Do', 'VBP')	('comb', 'NN')	Do you have any parting words ? - How about comb and brush ?
+('Windows', 'NNP')	('Functionally', 'RB')	Windows isn ' t crippleware : it ' s `` Functionally Challenged ``
+NA	NA	Network management is like trying to herd cats . . .
+('Confidence', 'NN')	('sense', 'VB')	Confidence is important ; the computer can sense fear .
+NA	('interest', 'NN')	Two banks with different rates have a conflict of interest .
+('glue', 'NN')	('attached', 'VBN')	When crazy glue was invented lots of people became attached to it .
+('It', 'PRP')	('never', 'RB')	It ' s a good horse that never stumbles .
+('There', 'EX')	NA	There ' s no place like home .
+NA	NA	By perseverance the snail reached the arc .
+('invented', 'VBN')	NA	When the wheel was invented , it caused a revolution .
+NA	NA	' ' It ' s twelve noon , ' ' Tom chimed in .
+('got', 'VBD')	('behind', 'NN')	The butcher backed up into the meat grinder and got a little behind in his work .
+('Beats', 'NNS')	('want', 'VB')	Beats me why anyone would want to be a masochist .
+('Long', 'JJ')	('forgotten', 'VBN')	Long absent , soon forgotten .
+('die', 'VBP')	('lose', 'VB')	OLD CARDIOLOGISTS never die , they just lose heart .
+('friend', 'NN')	('found', 'VBN')	A friend is best found in adversity .
+('light', 'JJ')	('Edison', 'NNP')	After he invented the light bulb , people saw Edison in a new light .
+NA	('reinvent', 'VB')	Don ' t try to reinvent the wheel .
+('Hell', 'NNP')	('scorned', 'VBD')	Hell hath no fury like the lawyer of woman scorned !
+('never', 'RB')	('spark', 'NN')	OLD ELECTRICIANS never die , they just lose their spark .
+('way', 'NN')	('take', 'VB')	The best way to stop a charging bull is to take away his credit card .
+[]
+[]
+('I', 'PRP')	('work', 'NN')	I wanted to exercise last night but it just didn ' t work out .
+('What', 'WP')	NA	What ' s another word for Thesaurus ?
+('people', 'NNS')	('started', 'VBD')	Some people with a lot of vision started the Blind Institute .
+NA	NA	Everyone ' s fuming over the high cost of gas .
+('She', 'PRP')	('alcoholic', 'NN')	She told me the drink was non - alcoholic , but where was the proof ?
+('gave', 'VBD')	('gave', 'VBD')	During a tennis match one player gave the other a backhanded compliment .
+NA	NA	Time will tell .
+('auditioned', 'VBD')	('part', 'NN')	He auditioned for a part as a trumpet player but he blew it .
+NA	('guys', 'NNS')	Most males in a men ' s room are stand - up guys .
+('girl', 'NN')	('They', 'PRP')	A girl and her boyfriend went to a party as a barcode . They were an item .
+('wanted', 'VBD')	('contacts', 'NNS')	There was an eye doctor who wanted to re - locate but couldn ' t find a job because he didn ' t have enough contacts .
+('She', 'PRP')	('going', 'VBG')	She was only a Fireman ' s daughter , but she ' s really going to blazes .
+NA	NA	My name is Frank , the Hot - Dog vendor
+('week', 'NN')	('tired', 'JJ')	Last week I was diagnosed with insomnia , and now I ' m just so tired of it .
+('use', 'VB')	('Note', 'NNP')	Musical composers can use lots of Note paper .
+NA	NA	Small people are in short supply .
+('much', 'JJ')	('make', 'VB')	Burning too much incense in a rented room could make the owner incensed .
+NA	NA	For a fish , the end of a barbed hook is the ' ' point ' ' of no return .
+NA	NA	Drumming is not the way to catch a hare .
+('fish', 'JJ')	('feed', 'VBP')	Give a man a fish and you feed him for a day . Teach a man to fish and you feed him for a lifetime .
+NA	('They', 'PRP')	Two silk worms had a race . They ended up in a tie .
+NA	NA	Semaphore was flagged away as a form of communication decades ago .
+NA	NA	A will is a relative thing .
+NA	NA	Home is where the heart is .
+NA	NA	OLD BEEKEEPERS never die they just buzz off .
+('I', 'PRP')	('butcher', 'VBP')	I ' d tell you a joke about a cow but I always butcher it .
+('new', 'JJ')	('makes', 'VBZ')	There ' s a new magnetic steam iron that makes your clothes attractive .
+NA	('change', 'NN')	OLD CASHIERS never die , they just change .
+('The', 'DT')	NA	The police auction was a complete bust .
+('good', 'JJ')	('lady', 'NN')	Joan is as good as my lady in the dark .
+NA	NA	The incontinent Scotsman had a wee accident .
+NA	NA	Be reasonable . . . . . do it my way .
+NA	NA	My dog has a lot of potential , you just have to unleash it .
+NA	('others', 'NNS')	To some - marriage is a word . . . to others - a sentence .
+NA	NA	Confidence is the companion of success .
+('love', 'NN')	('yodel', 'VB')	I ' d love to , but I ' m teaching my ferret to yodel .
+('watch', 'NN')	('day', 'NN')	A broken watch is right two times a day .
+('play', 'NN')	('much', 'RB')	Don ' t play with matches . Lighters work much , much better .
+NA	('work', 'NN')	Reward for a job well done : more work .
+('channels', 'NNS')	('remote', 'JJ')	Years ago , changing TV channels from a sitting position was a remote possibility .
+('best', 'JJS')	('bit', 'NN')	Horses eat best when they don ' t have a bit in their mouth .
+('I', 'PRP')	('time', 'NN')	I ' ve passed the exam this time , Tom remarked .
+('good', 'JJ')	('tables', 'NNS')	Waiters are good at multiplication because they know their tables .
+('forgot', 'VBD')	('store', 'NN')	When he forgot to itemize what he wanted at the grocery store he felt quite listless .
+('live', 'VB')	('long', 'JJ')	Two can live as cheaply as one , for half as long .
+('got', 'VBD')	('fine', 'NN')	I got a small ticket for speeding . It ' s fine with me .
+NA	NA	Sharks don ' t eat lawyers . Professional courtesy .
+('I', 'PRP')	('dawned', 'VBD')	I once had insomnia so bad I was awake until it dawned on me .
+('Surfing', 'VBG')	NA	Surfing is a swell sport !
+NA	NA	Some food for thought is only baloney
+NA	('poached', 'VBN')	Stolen eggs are poached .
+('He', 'PRP')	('&', 'CC')	He does the work of 3 men . . . . Larry Moe & Curly .
+('rock', 'NN')	('get', 'VB')	Professional rock climbers , the only people paid to get high .
+('heaven', 'VB')	('heaven', 'VB')	Good girls go to heaven . Bad girls go EVERYwhere .
+NA	NA	I ' m not lost , I ' m `` locationally challenged . ``
+('When', 'WRB')	('problem', 'NN')	When the doctor asked the editor how he was doing , he said he had a problem with his circulation .
+NA	NA	Where there ' s muck there ' s brass .
+('I', 'PRP')	('math', 'NN')	I didn ' t understand the math , so the teacher summed it up for me .
+NA	NA	When in Rome , do as the Romans do .
+NA	NA	Many a mickle makes a muckle .
+('He', 'PRP')	('He', 'PRP')	For a dishonest employee : He ' s an unbelievable worker .
+('I', 'PRP')	('skinny', 'NN')	I wanted to do some research on anorexia , so I went to the library to get the skinny .
+('spice', 'NN')	('captain', 'NN')	When the spice ships used to bring goods to the king the captain was peppered with compliments .
+('never', 'RB')	('stop', 'NN')	OLD ORGANISTS never die , they just come to a stop .
+('ancient', 'JJ')	('getting', 'VBG')	The only similarity between ancient times and the 1970 ' s is that both were full of people getting stoned .
+NA	NA	A cat may look at a king .
+('What', 'WP')	('pointless', 'RB')	What did the triangle say to the circle ? You ' re so pointless .
+('I', 'PRP')	('back', 'RB')	I ' m taking this ship back into harbor , Tom reported .
+('Pops', 'NNP')	('drinks', 'NNS')	They call me Pops . I sell soft drinks .
+('I', 'PRP')	('gift', 'NN')	I tried wrapping Christmas presents , but I didn ' t have the gift .
+('I', 'PRP')	('relish', 'NN')	' ' I love hot dogs , ' ' said Tom with relish .
+('mess', 'NN')	('fed', 'VBN')	In the army mess hall , the men were getting fed up .
+('eat', 'VBP')	('seed', 'NN')	People who eat their apples stem and seed and all improve their core values .
+('I', 'PRP')	('parole', 'NN')	I met this guy who said he loved children , then I found out he was on parole for it .
+NA	NA	Piano players know what bar they are in .
+('clock', 'NN')	NA	Two clock makers argued and got ticked off .
+('beautiful', 'JJ')	('That', 'DT')	Some people take beautiful pictures and cut them into pieces . That ' s a puzzle to me .
+('I', 'PRP')	('opinion', 'NN')	I found out that at the gym , their opinion on fitness carries a lot of weight .
+NA	NA	Great minds agree .
+NA	('go', 'VBP')	OLD FIREFIGHTERS never die they just go to blazes .
+('new', 'JJ')	('necessary', 'JJ')	When a new baby comes into a family , many changes are necessary .
+('royal', 'JJ')	('formalities', 'NNS')	The royal pharmacist wore a tuxedo and dispensed with formalities .
+('Never', 'RB')	NA	Never share a foxhole with anyone braver than you are .
+('crazy', 'JJ')	('coughing', 'VBG')	A crazy programmer with a cold is a coughing hacker .
+('taught', 'VBD')	('take', 'VB')	Eve taught us it’s okay to take a little ribbing
+NA	NA	The only free cheese is in the mouse trap .
+('actor', 'NN')	('visit', 'VB')	The astronomer became an actor because he always wanted to visit the stars .
+NA	('repentance', 'VB')	Hasty judgment leads to repentance .
+NA	NA	OLD GEOLOGISTS never die , they just have their faults
+NA	('one', 'CD')	Take care of number one .
+NA	('believe', 'VBP')	He ' s dead , Jim . Kick him if you don ' t believe me .
+('line', 'NN')	('hang', 'VBD')	Meet me at the clothes line . That ' s where I hang out !
+NA	NA	Life is what you make of it .
+('made', 'VBD')	('big', 'JJ')	The inventor of shag carpet made a big pile .
+('I', 'PRP')	('taking', 'VBG')	I ' ve always pictured myself taking selfies .
+('He', 'PRP')	('know', 'VBP')	He would promise to play golf , but he didn ' t know how to follow through .
+('great', 'JJ')	('draw', 'VB')	The artist was great . He could always draw a crowd .
+('He', 'PRP')	('steal', 'VB')	He that steals an egg will steal an ox .
+NA	NA	Glue inventors have to stick to it .
+('He', 'PRP')	('eventually', 'RB')	He made a slow start in the sport of weightlifting but he picked it up eventually .
+NA	('step', 'VB')	The president of a ladder manufacturer had to step down .
+('ever', 'RB')	('forsake', 'VB')	Though thou hast ever so many counsellors , yet do not forsake the counsel of thy own soul .
+('key', 'JJ')	('key', 'NN')	Press any key to continue or any other key to quit
+NA	('beat', 'VB')	A boiled egg in the morning is hard to beat .
+NA	NA	Banning the bra was a big flop .
+('started', 'VBD')	('He', 'PRP')	The general started bowling before his aide had entered his name on the score sheet . He had launched a pre - emptive strike .
+('better', 'RBR')	('one', 'CD')	It is better to die on one ' s feet than live on one ' s knees .
+NA	('shortening', 'NN')	Biscuits and speeches are better when made with shortening .
+('removing', 'VBG')	('croak', 'NN')	Biologists have recently produced immortal frogs by removing their vocal cords . They can ' t croak .
+('Digging', 'VBG')	('grave', 'JJ')	Digging a hole for a coffin is a grave matter .
+('calculator', 'NN')	('numbers', 'NNS')	When the CEO dropped his brownie on the calculator , was he trying to fudge the numbers ?
+NA	NA	Noteworthy musicians are very composed .
+NA	('manufacturers', 'NNS')	Stereo speakers are made by ' high volume ' manufacturers .
+('Cats', 'NNS')	('everything', 'NN')	Cats remind us that not everything in Nature has purpose .
+('karate', 'JJ')	('chops', 'NNS')	A karate school restaurant served mainly chops .
+('You', 'PRP')	('example', 'NN')	You have an important role as a negative example .
+NA	('soon', 'RB')	For insomnia move to the edge of the bed and you ' ll soon drop off .
+('glass', 'NN')	('I', 'PRP')	He tried to sell me glass with imperfections in it , but I saw through it .
+('make', 'VBP')	('come', 'VB')	Those who make balls of wool for a living like to come home and unwind .
+('I', 'PRP')	('hit', 'VBD')	I wondered why the baseball was getting bigger . Then it hit me .
+('The', 'DT')	('winning', 'NN')	The athlete colored her hair and started a winning streak .
+NA	('parted', 'VBN')	A balding man and his hair are soon parted .
+NA	NA	Oil executives are always using crude language .
+NA	NA	Fear not the loss of the bell more than the loss of the steeple .
+NA	NA	Your E - mail has been returned due to insufficient voltage
+('die', 'VBP')	('sucked', 'VBN')	OLD VACUUM CLEANER SALESMEN never die , they just get sucked in !
+('writing', 'VBG')	('draft', 'NN')	When writing out drink recipes you have to have a first draft .
+('He', 'PRP')	('time', 'NN')	He worked in a chocolate factory , but always took his sweet time .
+('Did', 'NNP')	('feel', 'VB')	Did you hear about the crab in financial difficulty ? It was starting to feel the pinch .
+NA	NA	A paid up computer is , by definition , obsolete .
+('right', 'JJ')	('seldom', 'NN')	Actions are usually right , but the reasons seldom are .
+NA	NA	The enemy of my enemy , is my friend .
+('I', 'PRP')	('quesadillas', 'PDT')	I made a really cheesy pun about quesadillas the other day .
+('organizational', 'JJ')	('meeting', 'NN')	The organizational get together for a company football team was called a kickoff meeting .
+('lit', 'VBD')	('wanted', 'VBD')	He lit the arrow head because he wanted to fire it .
+('Don', 'NNP')	('great', 'JJ')	' ' Don ' t add too much water , ' ' said Tom with great concentration .
+('die', 'VBZ')	('drive', 'NN')	OLD CHAUFFEURS never die they just lose their drive .
+('Some', 'DT')	('idea', 'NN')	Some people still think that writing long stories is a novel idea .
+('Come', 'NNP')	('big', 'JJ')	Come huddle with us before the big game
+('She', 'PRP')	('stomach', 'NN')	She swallowed a peach seed and could feel it in the pit of her stomach .
+('HARDER', 'NNP')	('YOU', 'NN')	WORK HARDER ! . . . Millions on Welfare depend on YOU !
+('I', 'PRP')	('abstractly', 'RB')	' ' I like modern painting , ' ' said Tom abstractly .
+NA	NA	Give him an inch and he ' ll take a yard .
+('big', 'JJ')	('big', 'JJ')	The price of the big fan blew me away .
+NA	NA	OLD HOUSEWIVES never die , they just wash away .
+('check', 'VB')	('EKG', 'NNP')	The Biomedical Engineer didn ' t have the heart to check the EKG machine .
+('bad', 'JJ')	('sage', 'NN')	My stuffing was bad , so I got some sage advice .
+NA	NA	Morticians make you feel dead gorgeous .
+('The', 'DT')	('reforms', 'NNS')	The janitor ' s union called for sweeping reforms .
+('He', 'PRP')	('tidy', 'NN')	He folded and straightened the money because he wanted a tidy sum .
+('never', 'RB')	('shot', 'NN')	The boy had never played basketball before so he decided to give it a shot .
+('Apple', 'NNP')	('men', 'NNS')	She was only an Apple - grower ' s daughter but the men said she was delicious .
+('disk', 'NN')	NA	Double your hard disk space : DELETE WINDOWS !
+('said', 'VBD')	('moment', 'NN')	The hostage said he couldn ' t stay on the phone long because he was tied up at the moment .
+NA	NA	Bring your spirtual Marshmellows , our pastor is on fire !
+NA	NA	Give credit where credit is due .
+('I', 'PRP')	('nothing', 'NN')	I tried to look up impotence on the Internet but nothing came up .
+NA	('fault', 'NN')	The agreeable tennis umpire was generous to a fault .
+NA	NA	This tagline no verb .
+('like', 'VBP')	('without', 'IN')	' ' I like ragged margins , ' ' said Tom without justification .
+('open', 'VBP')	NA	Don ' t open the darkroom door ; it lets all the dark out .
+NA	('picture', 'NN')	Old photographers never die , they ' re just out of the picture for a while .
+NA	NA	Arguments about the weather will eventually blow over .
+('I', 'PRP')	('said', 'VBD')	' ' I don ' t work here on a regular basis , ' ' said Tom casually .
+NA	('croak', 'NNS')	OLD FROGS never die , but they do croak .
+('What', 'WP')	('snapped', 'VBD')	What are you taking pictures of ? Tom snapped .
+NA	('dive', 'VB')	Endorsement by an olympic swimmer caused a company ' s profits to dive .
+NA	NA	The cannibal passed his brother in the woods .
+NA	NA	Freud could barely repress his excitement .
+NA	('dictated', 'VBD')	My word is final ! Tom dictated to his secretary .
+('It', 'PRP')	('loaded', 'VBN')	It ' s no wonder that some baseball players have lots of money - often even many of the bases are loaded .
+NA	('beat', 'NN')	Good police officers never miss a beat .
+('cut', 'VBD')	('black', 'JJ')	To save money for the company he cut all the electricity . They were soon in the black .
+('wearing', 'VBG')	('pull', 'VB')	I try wearing tight jeans , but I can never pull it off .
+('first', 'JJ')	('haircut', 'NN')	At first I hated my haircut , but now it ' s growing on me .
+('What', 'WP')	('shirt', 'NN')	What did the minister say to the underdressed layman ? ' ' No shoes , no shirt , no service ' '
+('sports', 'NNS')	('many', 'JJ')	A sports match was attended by many scores .
+NA	NA	You can ' t milk a bull .
+('It', 'PRP')	('stuff', 'NN')	It ' s not the money I want , it ' s the stuff .
+NA	NA	Your very last breath will be a fatal blow .
+NA	('sometime', 'RB')	A true friend does sometime venture to be offensive .
+('I', 'PRP')	NA	I ' ll corroborate that again , Tom reproved .
+('Why', 'WRB')	('work', 'NN')	Why yes , I - do - work for a unit of the Illuminati .
+NA	NA	I had an appointment with the chiropractor , but I backed out .
+('baby', 'NN')	('first', 'JJ')	When the baby bird penned his first novel he was just a fledgling author .
+('developed', 'VBN')	('joint', 'JJ')	Artificial knees and elbows were developed during a joint project .
+('believed', 'VBD')	('cells', 'NNS')	I always believed my body was a prison for me . I was right , in biology I learnt they were made of cells .
+NA	NA	Sow thin , shear thin .
+('I', 'PRP')	('point', 'NN')	I used to hate maths but then I realised decimals have a point .
+('never', 'RB')	('get', 'VB')	OLD BASEBALLS never die they just get pitched .
+NA	('wonderful', 'JJ')	The baseball pitcher ' s retirement was at the end of a wonderful ERA .
+('got', 'VBD')	('still', 'RB')	The boy who got electrocuted was unable to give a statement because he was still shocked at the incident .
+('got', 'VBD')	('putting', 'VBG')	She got fired from the hot dog stand for putting her hair in a bun .
+('donut', 'NN')	('full', 'JJ')	The case against a donut thief was full of holes .
+('Sheesh', 'JJ')	('fun', 'NN')	Sheesh ! You start havin ' fun , and they send the lawyers !
+NA	NA	He that can have patience can have what he will .
+NA	NA	The duck said to the bartender , ' put it on my bill . '
+('While', 'IN')	('This', 'DT')	While having a hard time water - skiing , the boy commented , ' This is such a drag . '
+('tried', 'VBD')	('block', 'NN')	When the artist tried to draw a cube he had a mental block .
+('conditioning', 'VBG')	('fan', 'NN')	When the air conditioning failed in the indoor stadium there was a fan protest .
+NA	('become', 'VB')	OLD WOOL COATS never die , they just become mothballed .
+('runaway', 'JJ')	NA	The runaway beer truck barrelled down the freeway after its driver was mugged .
+('All', 'DT')	('And', 'CC')	All true wisdom is found on T - shirts . - - And in taglines .
+('If', 'IN')	('probably', 'RB')	If it ' s too good to be true , then it probably is .
+NA	NA	Gauss was asked to attend because of his magnetic personality .
+NA	('called', 'VBN')	A group of physicists is called a nucleus .
+('Why', 'WRB')	('teach', 'VB')	Why do we have training bras ? What can we teach them ?
+('A', 'DT')	('failure', 'NN')	A book called ' Current Trends in Wiring your House ' turned out to be a shocking failure .
+NA	NA	False friends are worse than open enemies .
+NA	('guys', 'NNS')	Mason - Dixon Line n . Separates y ' all from youse guys
+('night', 'NN')	('neighbors', 'NNS')	Last night sex was so good the neighbors lit cigarettes .
+NA	('man', 'NN')	Manners maketh the man .
+NA	NA	A word spoken is past recalling .
+('right', 'NN')	NA	You have the right to remain silent . . . . USE IT !
+NA	('quickly', 'RB')	Fools and their money become popular quickly .
+NA	NA	The apple never falls far from the tree .
+NA	NA	A hangman will always keep you in the loop .
+('sitting', 'VBG')	('row', 'VBP')	We ' re all sitting in the same boat : I fish , you row .
+('I', 'PRP')	('said', 'VBD')	' ' I find you guilty , ' ' said the judge with conviction .
+NA	('keel', 'VB')	OLD YACHTSMEN never die , they just keel over .
+('keeper', 'NN')	('night', 'NN')	She was only a Lighthouse keeper ' s daughter , but she never went out at night
+NA	NA	Admiration is the daughter of ignorance .
+('You', 'PRP')	('normal', 'JJ')	You are confused ; but this is your normal state .
+NA	NA	Live by the sword , die by the sword .
+NA	('peripheral', 'IN')	User : The hardest - to - setup PC peripheral you can buy .
+('dissect', 'VB')	('delivered', 'VBN')	' ' I will now demonstrate how to dissect a sheep , ' ' delivered Tom .
+('You', 'PRP')	('forms', 'NNS')	You have to fill out many government forms because there are many forms of government .
+('No', 'NNP')	('taxes', 'NNS')	Bush says `` No new taxes ! `` , Clinton says , `` No , NEW taxes ! ``
+NA	('growing', 'VBG')	The fertiliser business is a growing industry .
+NA	NA	Poverty is the reward of idleness .
+('dry', 'JJ')	('hang', 'VBP')	OLD SHEET ROCKERS ( dry wallers ) never die , they just hang around .
+('drive', 'VB')	('manual', 'NN')	I tried to learn how to drive a stick shift but couldn ' t locate the manual .
+('Took', 'NNP')	('kept', 'VBD')	Took an hour to bury the cat . Silly thing kept moving . . .
+('players', 'NNS')	('bit', 'NN')	When poker players have to fold they feel a bit discarded .
+('went', 'VBD')	('stuffed', 'VBN')	I went to a buffet dinner with my neighbor , who is a taxidermist . After such a big meal , I was stuffed .
+('Those', 'DT')	('lot', 'NN')	Those who iron clothes have a lot of pressing demands .
+('think', 'VBP')	('best', 'JJS')	I think a job as a shoe salesmen would be your best fit .
+('kept', 'VBD')	('job', 'NN')	I kept failing to get a job as a butcher because I couldn ' t just make the cut .
+('girls', 'NNS')	('nice', 'JJ')	To many girls the word ' marriage ' has a nice ring to it .
+('pair', 'NN')	NA	A pair of loud twins were stereo speakers .
+('mountain', 'NN')	('peak', 'JJ')	To be a mountain climber one needs to be in peak condition .
+('bible', 'JJ')	('someone', 'NN')	A bible falling apart belongs to someone who isn’t .
+('work', 'VBP')	('rolling', 'JJ')	If you work in a tire factory you have to get rolling every morning .
+NA	('auditioning', 'VBG')	The trumpeter blew it while auditioning for the symphony .
+('idea', 'NN')	('believe', 'VBP')	An idea is not responsible for fools who believe in it .
+('said', 'VBD')	('taken', 'VBN')	When a ladder was stolen from a store the manager said that further steps would be taken .
+('high', 'JJ')	('offensive', 'JJ')	A high scoring football game can be very offensive .
+('She', 'PRP')	('knew', 'VBD')	She was only a Vacuum salesman ' s daughter , but she knew how to suck !
+NA	NA	Every rose has its thorn .
+('If', 'IN')	NA	If you have need of a locksmith he will be your key man .
+('Plough', 'NNP')	('corn', 'NN')	Plough deep while sluggards sleep , and you will have corn to sell and keep .
+NA	('touch', 'NN')	Massage therapists need a touch of style .
+NA	NA	He ' s not dead , he ' s electroencephalographically challenged
+('get', 'VBP')	('spin', 'NN')	Politicians get onto the merry - go - round and then put a spin on it .
+NA	NA	For a chemist disappointed in an experiment the reaction was on his face .
+('I', 'PRP')	('shop', 'NN')	I was looking for watch batteries but I wound up at a clock shop .
+NA	NA	Vertical living is flat dwelling .
+('Waiter', 'NNP')	('find', 'VB')	Waiter , my bill please . - How did you find your luncheon , sir ? - With a magnifying glass .
+('keep', 'VB')	('standing', 'NN')	A lot of kneeling will keep you in good standing
+('I', 'PRP')	('much', 'RB')	I just finished reading Newton ' s Principia Mathematica , and found much of it to be rather derivative .
+('I', 'PRP')	('incensed', 'VBD')	' ' I ' m burning aromatic substances , ' ' said Tom , incensed .
+('discovering', 'VBG')	('mother', 'NN')	Upon discovering her children playing with matches their mother was flaming mad .
+NA	('>', 'NN')	Canadian DOS prompt : EH ? \ >
+('Squirt', 'NNP')	('People', 'NNP')	Squirt guns don ' t soak people , People soak people .
+NA	NA	The duke and the count had a fight . The duke was down for the count .
+('thought', 'VBD')	('taking', 'VBG')	I thought about studying astronomy for university but I knew I would just be taking up space .
+('He', 'PRP')	('sweet', 'VBN')	He sold candy and chocolate . A lot of girls were sweet on him .
+('went', 'VBD')	('see', 'VBP')	I went to an invisible fairground but didn ' t think it was very good . I just couldn ' t see the attraction .
+('commuting', 'VBG')	NA	One of the joys of being a lightweight is that commuting by wind is a breeze !
+('look', 'VB')	('I', 'PRP')	My buddy asked me to look after his pet goose while he was away . I told him I wasn ' t down with that .
+NA	('new', 'JJ')	OLD PROGRAMMERS never die , they just move to new addresses .
+NA	('rifle', 'VB')	A speaker at the firearms convention had to rifle through his notes .
+NA	NA	Good clothes open all doors .
+NA	NA	Watson and Crick did the twist all night .
+('strikes', 'VBZ')	('strikes', 'VBZ')	A blow with a word strikes deeper than a blow with a sword .
+NA	NA	Tires cost 100 bucks a pop .
+('never', 'RB')	('react', 'VB')	OLD CHEMISTS never die , they just fail to react .
+('Where', 'WRB')	('In', 'IN')	Where do pancakes live ? In a flat .
+('asked', 'VBD')	('covered', 'VBN')	When I asked if I could get insurance if the nearby volcano erupted they assured me I would be covered .
+NA	NA	Retired teachers are classless .
+('For', 'IN')	('lost', 'VBN')	For want of a nail the shoe is lost , for want of a shoe the horse is lost , for want of a horse the rider is lost .
+('She', 'PRP')	('feet', 'NNS')	She was only a Janitor ' s daughter , and she was often swept off her feet .
+('never', 'RB')	('pull', 'NN')	OLD DENTISTS never die , they just lose their pull .
+('companies', 'NNS')	NA	Lumber companies have many board meetings .
+('wrapped', 'VBD')	('night', 'NN')	Due to inclement weather , the sandwich shop wrapped up early Tuesday night .
+('Sometimes', 'RB')	('make', 'VB')	Sometimes a pencil sharpener is needed in order to make a good point .
+NA	('everyone', 'NN')	Never draw fire , it irritates everyone around you .
+('Rich', 'NNP')	('banker', 'NN')	My name is Rich , A successful investment banker .
+('photographer', 'NN')	('watch', 'NN')	A photographer taking pictures of golfers says ' watch the birdie ' .
+('dog', 'NN')	('littering', 'VBG')	A dog gave birth to puppies near the road and was ticketed for littering .
+('work', 'VBP')	('exhausted', 'VBN')	Those who work on reducing auto emissions go home exhausted .
+('They', 'PRP')	('live', 'VB')	They bought a home on a cliff because they liked to live on the edge .
+NA	('pass', 'VBP')	Old quarterbacks never die , they just pass away .
+('make', 'VBP')	('attractive', 'JJ')	Those who make magnets can be quite attractive .
+NA	NA	Better is the enemy of good .
+('never', 'RB')	('past', 'JJ')	OLD NUMBER THEORISTS never die , they just get past their prime .
+NA	('people', 'NNS')	The groundskeeper at a large cemetery was important because he had 5000 people under him .
+('How', 'WRB')	('never', 'RB')	How come wrong numbers are never busy ? ? ?
+('growing', 'VBG')	NA	There is a growing body of obesity research .
+('I', 'PRP')	('highlight', 'NN')	I tinted my hair today . It was the highlight of my day .
+NA	NA	Stealing someone ' s coffee is called ' mugging ' .
+('doctor', 'NN')	('He', 'PRP')	A doctor drank while putting on patients ' casts . He was soon plastered .
+('That', 'DT')	('Tom', 'NNP')	That ' s the third time my teacher changed my grade , Tom remarked .
+('I', 'PRP')	('karate', 'NN')	I am kicking myself I did not take up karate earlier .
+('Why', 'WRB')	('point', 'NN')	Why do archers shoot arrows ? Could it be they are trying to get a point across ?
+('web', 'NN')	('weave', 'VBP')	Oh what a tangled web we weave . On the Internet .
+('talks', 'NNS')	NA	Everyone talks about the weather , but nobody does anything about it .
+('never', 'RB')	('turn', 'NN')	OLD BUS DRIVERS never die , they just take a turn for the worse .
+('I', 'PRP')	('getting', 'VBG')	I gave in when my wife hounded me about getting a puppy .
+NA	NA	Being a fire - fighter ignited my interest heavily .
+('broke', 'VBD')	('shot', 'NN')	If it ain ' t broke , let me have a shot at it .
+('Age', 'NNP')	('skill', 'NN')	Age and treachery can always overcome youth and skill .
+NA	('beat', 'VB')	A boiled egg is hard to beat .
+('It', 'PRP')	('late', 'JJ')	It ' s never too late to mend .
+NA	('really', 'RB')	When Wally discovered he had Lyme disease he was really ticked off .
+NA	NA	Avogadro expected a large number to attend .
+('I', 'PRP')	('I', 'PRP')	I used to have a life , now I have a modem .
+NA	NA	During the meeting about earthquakes , there were several motions .
+('Those', 'DT')	('feel', 'VBP')	Those who make sinks often feel washed out .
+('Cookie', 'NNP')	('baker', 'NN')	My name is Cookie , I ' m a baker .
+('Rules', 'NNS')	('Never', 'RB')	2 Rules for Success : Rule # 1 : Never reveal everything you know .
+NA	('butt', 'VBD')	OLD PROCTOLOGISTS never die , they just butt out .
+('magician', 'NN')	('audience', 'NN')	He sat in the magician ' s audience dressed as a cactus . He was a plant .
+NA	('keep', 'VB')	OLD WASHING MACHINE OPERATORS never die , they just keep agitating .
+('I', 'PRP')	('nailed', 'VBD')	I didn ' t know which hammer to get , but I think I nailed it .
+('Love', 'VB')	NA	Love can be a touchy subject .
+NA	NA	Grasp all , lose all .
+('It', 'PRP')	('really', 'RB')	It was the first time she ' d seen a live sponge on display , and she really soaked it in .
+NA	NA	A music store owner has to have sound business practices .
+NA	('made', 'VBD')	The first guy to mass produce candies made a mint .
+('die', 'VBP')	('keep', 'VB')	Old presidents never die they just keep going through their cabinets .
+('When', 'WRB')	('lot', 'NN')	When they claimed to house two thousand campers , it sounded like a lot of bunk .
+('never', 'RB')	('shot', 'NN')	He ' d never gone hunting but decided to give it a shot .
+('Where', 'WRB')	('THIS', 'NNP')	Stewardess trainee : `` Where does THIS door gooooooooooooo . . . . ``
+NA	NA	Volta was electrified .
+('shoulder', 'NN')	('two', 'CD')	Dwarf on a giant ' s shoulder sees farther of the two .
+('I', 'PRP')	('cut', 'VBD')	I ' m very picky about my hair , so a strange barber just won ' t cut it .
+('Some', 'DT')	('arts', 'NNS')	Some people go into martial arts just for kicks .
+NA	NA	A reporter was at an ice cream store getting the scoop .
+('I', 'PRP')	('otherwise', 'RB')	I ' m NOT stubborn ! You can ' t convince me otherwise ! !
+('Outlook', 'NN')	NA	Sometimes our Outlook in Life is sent but not received .
+('thinking', 'VBG')	('clouded', 'VBN')	Weather forecasters thinking is sometimes clouded .
+('Did', 'NNP')	('worth', 'JJ')	Did you hear about the farmer who got attacked by a cow ? He milked it for all it was worth .
+NA	('lose', 'VBP')	OLD BOOKKEEPERS never die they just lose their figures .
+('Who', 'WP')	('around', 'IN')	Who do you have to sleep with to get service around here ?
+('would', 'MD')	('end', 'NN')	Building a cul - de - sac would be a bit of a dead - end job .
+('They', 'PRP')	('away', 'RB')	They said he drank 2 bottles of whisky a day , but it wasn ' t true . He had to scotch those rumours right away .
+('I', 'PRP')	('snakes', 'JJ')	Teacher : In this box , I have a 10 - foot snake . Sammy : You can ' t fool me , Teacher . . . snakes don ' t have feet .
+('good', 'JJ')	NA	A good friend never offends .
+('good', 'JJ')	('making', 'VBG')	The rabbi became a professional golfer because he was good at making the cut .
+('instructors', 'NNS')	('work', 'NN')	Swimming instructors are always getting immersed in their work .
+NA	NA	they stand best who kneel most
+('It', 'PRP')	('argument', 'NN')	' ' It ' s an actual parameter , not a formal parameter , ' ' was Tom ' s argument .
+NA	('cards', 'NNS')	For greeting card companies their fate is in the cards .
+NA	NA	A summer is a mathematician .
+('Mike', 'NNP')	('I', 'PRP')	My name is Mike . I ' m an announcer
+('Misspelled', 'VBN')	('error', 'JJ')	Misspelled ? Impossible . My modem is error correcting .
+NA	NA	A dry cleaners had a dozen suits in court .
+NA	NA	Violinists are often fiddling around .
+NA	NA	Armadillo : A mouse built to government specs .
+('If', 'IN')	('try', 'VB')	If at first you don ' t succeed , try , try again .
+('So', 'RB')	('blossoming', 'VBG')	So , how ' s the flower business going ? Oh , it ' s blossoming quite nicely .
+NA	NA	Objects in taglines are closer than they appear .
+NA	NA	Working for the IRS is a hard job because it is so taxing .
+('heavy', 'JJ')	('spirits', 'NNS')	A heavy drinker of hard liquor appears to be in high spirits .
+('believe', 'VBP')	('deeds', 'NNS')	Real estate agents believe in doing good deeds .
+('cause', 'NN')	NA	Securities are the cause of many people ' s insecurities .
+NA	NA	Some thinkle peep I ' m under the affluence of inkohol . . .
+('ran', 'VBD')	('home', 'NN')	When the Dalmatian ran away , he was spotted two blocks from home .
+('My', 'PRP$')	('I', 'PRP')	My name is Rusty , I ' m an iron worker .
+('My', 'PRP$')	('I', 'PRP')	My student was late for class , claiming he was in the washroom . I think he was stalling .
+('make', 'VB')	('simply', 'RB')	We should make a beer commercial . It sounds simply intoxicating .
+('I', 'PRP')	('arm', 'NN')	I ' d give my right arm to be ambidextrous .
+('daughter', 'NN')	('liked', 'VBD')	She was only a Insurance broker ' s daughter , but all the guys liked her policy .
+('She', 'PRP')	('way', 'NN')	She was only a Bookbinder ' s daughter , but she knew her way between the sheets .
+('never', 'RB')	('age', 'NN')	OLD ACTUARIES never die they just get broken down by age and sex .
+('I', 'PRP')	('dawn', 'NN')	I love to eat eggs at the crack of dawn .
+NA	NA	Did you hear about the tire dealer that had a blowout sale ?
+('wind', 'NN')	('awful', 'JJ')	' ' This wind is awful , ' ' blustered Tom .
+('new', 'JJ')	('seem', 'VBP')	My new theory on inertia doesn ' t seem to be gaining momentum .
+('I', 'PRP')	('refused', 'VBD')	' ' I won ' t buy a circuit breaker , ' ' Tom refused .
+('without', 'IN')	NA	A professor without a pointer may find that his lecture is pointless .
+('I', 'PRP')	('said', 'VBD')	This is where I keep my arrows , said Tom , quivering .
+('Objects', 'NNS')	('appear', 'VBP')	Objects under T - Shirt are larger than they appear .
+('He', 'PRP')	('finally', 'RB')	He realized he ' d made the major leagues when it finally hit him .
+('eat', 'VB')	('looks', 'VBZ')	Joe refused to eat sushi because it looks fishy .
+NA	('thought', 'VBD')	I know a rancher who has 100 head of cattle , but he thought there were only 99 until he rounded them up .
+('set', 'NN')	NA	History is a set of lies agreed upon by the Victors
+NA	NA	Set a herring to catch a whale .
+('Leonardo', 'NNP')	('make', 'VB')	Leonardo Da Vinci could use a paint brush to make a stroke of genius .
+('jelly', 'JJ')	('concerned', 'VBN')	A jelly truck and a biscuit truck collided yesterday - police are a trifle concerned .
+('It', 'PRP')	('fault', 'NN')	It seems like it ' s always Patsy ' s fault .
+('I', 'PRP')	('bluffed', 'VBD')	Sure I can climb cliffs ! Tom bluffed .
+('hard', 'JJ')	('hitch', 'NN')	Marriage is hard but divorce usually goes off without a hitch .
+('want', 'VBP')	('find', 'VB')	Those who want to paint polka - dots have to find a good spot .
+NA	NA	Misery loves company .
+('Why', 'WRB')	NA	Why are all businessmen fat ? Must be all the inflation .
+NA	NA	Iron was discovered because someone smelt it .
+('He', 'PRP')	('new', 'JJ')	He was trying to sell me new windows , but his motivations were transparent .
+NA	('remains', 'VBZ')	Despite the high cost of living , it remains popular .
+NA	('lose', 'VBP')	OLD ELECTRICIANS never die , they just lose their resistance .
+('went', 'VBD')	('little', 'JJ')	A small boy went to the counter to pay for his lunch but he was a little short .
+('OK', 'NNP')	('usually', 'RB')	It ' s OK to watch an elephant bathe as they usually have their trunks on .
+('Only', 'RB')	NA	Only the good die young .
+('My', 'PRP$')	('service', 'NN')	My name is Dusty , I run a cleaning service .
+('jump', 'VBP')	('make', 'VBP')	If you jump to conclusions , you make terrible landings .
+('If', 'IN')	('run', 'VB')	If a clock had legs , time would run out .
+('always', 'RB')	('push', 'VB')	He always called his girlfriend his ' luck ' . Until he decided to push his luck .
+NA	NA	53 . 7 % of all statistics are totally incorrect
+('All', 'NNP')	('excellent', 'JJ')	The All - Pro wide receiver ' s wedding was a little bit shaky , but his reception was excellent .
+NA	NA	Audubon said he ' d have to wing it .
+('nothing', 'NN')	('smiled', 'VBD')	She said she had nothing to wear . I smiled .
+('OLD', 'NNP')	('marbles', 'NNS')	OLD SCULPTORS never die they just lose their marbles .
+NA	('moonlighting', 'VBG')	His day job was astronomy but at night time he was moonlighting .
+('My', 'PRP$')	('I', 'PRP')	My name is Cliff . I ' m a mountaineer .
+('church', 'NN')	NA	A church welcomed all denominations but preferred tens and twenties .
+('If', 'IN')	NA	If you give some managers an inch they think they ' re a ruler .
+('never', 'RB')	('get', 'VB')	OLD WRITERS never die , they just get erased .
+NA	NA	Prevention is better than cure .
+('die', 'VBP')	('pine', 'VB')	OLD FORESTERS never die , they just pine away .
+('day', 'NN')	('people', 'NNS')	Whenever the nurses have a bad day they just keep needling people .
+('He', 'PRP')	NA	He became a sky diver out of the blue .
+NA	NA	Memories of you remind me of you .
+('lives', 'VBZ')	('telling', 'VBG')	My friend lives by a cliff he ' s always telling me to drop over .
+('hates', 'VBZ')	('lot', 'NN')	He hates his job selling used cars , but it ' s just his lot in life .
+('hell', 'VB')	('enough', 'RB')	To hell with criticism . Praise is good enough for me .
+NA	('always', 'RB')	A racehorse ' s life is always on track .
+('I', 'PRP')	('I', 'PRP')	I couldn ' t decide whether or not to make spiced apple cider , so I mulled it over .
+NA	('one', 'CD')	MilliHelen : Amount of beauty needed to launch one ship .
+[]
+[]
+[]
+[]
+('I', 'PRP')	('memory', 'NN')	I can ' t recall the last time I did any running , but I ' ve been jogging my memory .
+('medieval', 'JJ')	('hanging', 'VBG')	People in medieval days were always hanging out by the gallows .
+('baby', 'NN')	('rattle', 'VB')	The failure of the third largest manufacturer of baby ' s toys was enough to rattle the entire industry .
+NA	('play', 'NN')	Neil Simon ' s only unsuccessful play : Chapter 11 .
+('always', 'RB')	('big', 'JJ')	The Transformer always had a lot of quarters with him . He was a big fan of change .
+('trying', 'VBG')	('cut', 'NN')	A butcher was trying so hard to be funny , but he just wasn ' t making the cut .
+NA	('check', 'VB')	OLD CASHIERS never die they just check out .
+('without', 'IN')	('hardware', 'NN')	LSD : Virtual Reality without all the fancy hardware
+('great', 'JJ')	('looked', 'VBD')	At seven foot six he was a great basketball player and everyone looked up to him .
+('Please', 'NN')	('hear', 'VB')	Bowling Alley : Please be quiet . We need to hear a pin drop .
+('weigh', 'JJ')	NA	The weigh - in at the Sumo wrestling tournament was a large scale effort .
+NA	NA	The forecaster was away because he was under the weather .
+NA	NA	The cobbler ' s wife is the worst shod .
+('paint', 'NN')	('red', 'JJ')	A train load of paint derailed . Nearby businesses were put in the red .
+NA	NA	I ' d love to , but my patent is pending .
+NA	NA	Carrying coals to Newcastle .
+('It', 'PRP')	('luck', 'NN')	It was a lucky car . Until he had to push his luck .
+NA	NA	An elephant ' s opinion carries a lot of weight .
+('store', 'NN')	('pick', 'VB')	Sign on a music store window : ' Come in and pick out a drum - - then beat it ! '
+('studying', 'VBG')	('I', 'PRP')	My daughter ' s studying natural medicine and I ' m rooting for her .
+('went', 'VBD')	('whole', 'JJ')	I went to the theatre , it looked a bit suspicious . I reckon the whole thing was staged .
+NA	NA	Men talk only to conceal the mind .
+('put', 'VBD')	('get', 'VB')	He put bug spray on his watch to get rid of the ticks .
+NA	('trailer', 'NN')	The movie about the mobile home was advertised with a trailer .
+('takes', 'VBZ')	('dirty', 'JJ')	Officer Jones takes his yearly bath every June . He is a characteristic example of a dirty cop .
+NA	('good', 'JJ')	Life’s a ledger , are we giving a good accounting of ourselves
+('like', 'IN')	('geared', 'VBN')	Employers like their mechanics to be geared up .
+NA	NA	Home improvement . Take your family to church .
+('die', 'VBZ')	('loaded', 'VBN')	OLD GUNS never die they just get loaded .
+('Let', 'VB')	('message', 'NN')	Let me know right away if you don ' t get this message .
+('make', 'VBP')	('efficient', 'JJ')	Computers make very fast , very efficient mistakes .
+NA	NA	Marconi was not wired up about going .
+('arguing', 'VBG')	('duke', 'VB')	Two duchesses were arguing about their husbands . They decided to duke it out .
+('empty', 'JJ')	('hear', 'VB')	In an empty head , you can hear forever . . . .
+NA	NA	Pick your friends , but not to pieces
+NA	('boats', 'NNS')	A rising tide lifts all boats .
+NA	('dribbling', 'NN')	OLD SOCCER PLAYERS never die , they just go on dribbling .
+('car', 'NN')	('shot', 'JJ')	After he carried a gun in his car the engine was soon shot .
+NA	NA	He who is not with me is against me .
+NA	('lose', 'VBP')	OLD PROFESSORS never die , they just lose their class .
+('#', '#')	NA	WinError # 01 : Unable to figure out own code . System crashed .
+('I', 'PRP')	('eyes', 'NNS')	I can ' t really see myself without eyes .
+NA	NA	The inventor of the fahrenheit scale solved the problem by degrees .
+('know', 'VBP')	('know', 'VBP')	If you don ' t know how to choose music ask a guitarist - they know how to pick .
+('I', 'PRP')	('beat', 'NN')	I bought a metronome for 20 bucks . You can ' t beat that price .
+('My', 'PRP$')	('part', 'NN')	My comb is invaluable - I can ' t part with it .
+('stranger', 'JJR')	('stranger', 'JJR')	Reality is not only stranger than we imagine , it is stranger than we can imagine .
+('city', 'NN')	('go', 'VB')	A city worker who campaigned for new sewer pipes finally had to go underground .
+('long', 'JJ')	('us', 'PRP')	She told a long story about a coil of rope , and then left us all hanging .
+('went', 'VBD')	NA	When the tornado went through town it was quite a blow .
+('concrete', 'NN')	('mind', 'NN')	The correct formula for concrete is worthwhile to cement in your mind .
+('known', 'VBN')	('Bait', 'NNP')	Sushi : known to the rest of the world as ' Bait '
+NA	NA	Henry perfected the Ford down to a T .
+('choose', 'VBP')	('hungry', 'JJ')	Those who choose not to eat , slowly get hungry - - and Fast .
+('guitarist', 'NN')	('rocked', 'VBN')	The guitarist passed out on stage , he must have rocked himself to sleep .
+NA	('kill', 'VB')	Those who live by the sword . . . kill those who don ' t .
+NA	NA	A penny saved is a Congressional oversight .
+('never', 'RB')	('goal', 'NN')	OLD HOCKEY PLAYERS never die , they just achieve their final goal .
+NA	NA	Shock me , say something intelligent !
+NA	NA	The two inventors of the radio were on the same wavelength .
+('orthodontist', 'JJ')	NA	For the orthodontist visit , the boy had to brace himself .
+NA	NA	Decimals have a point .
+NA	NA	Police can do a search if it ' s Warranted .
+('invent', 'VB')	('screwed', 'VBD')	Archimedes set out to invent a water pump and screwed it up .
+('never', 'RB')	('goal', 'NN')	OLD SOCCER PLAYERS never die , they just achieve their final goal .
+('There', 'EX')	('see', 'VB')	There was a sale at the fish market today . I went to see what was the catch .
+NA	NA	All ' s well that ends well .
+('often', 'RB')	('good', 'JJ')	You often hear of a good wine through the grapevine .
+('My', 'PRP$')	('advisor', 'NN')	My name is Ira . I ' m an investment advisor .
+('selling', 'VBG')	('deal', 'NN')	He was selling palm trees , but people thought it was a shady deal .
+('Why', 'WRB')	('trash', 'NN')	Why don ' t people like to talk to garbage men ? They mostly talk trash .
+('usually', 'RB')	('avoid', 'VB')	I usually take steps to avoid elevators .
+('wins', 'VBZ')	NA	Once again , Odo wins the Twister championship .
+('Birds', 'NNS')	NA	Birds of a feather flock together .
+NA	NA	Everything is worth its price .
+('My', 'PRP$')	('Iris', 'NNP')	My name is Iris . I ' m an optometrist
+('Workers', 'NNS')	('cost', 'NN')	Workers in an upholstery business demanded a wage hike to cushion the high cost of living .
+('lost', 'VBN')	('asking', 'VBG')	Many things are lost for want of asking .
+('hand', 'NN')	('one', 'CD')	A bird in the hand is better than one overhead !
+('I', 'PRP')	('hoot', 'NN')	I can SPELL , I just can ' t TYPE worth a hoot !
+('know', 'VB')	('run', 'VBP')	How do you know if you run out of invisible ink ?
+('I', 'PRP')	('job', 'NN')	My name is Nick . I was a barber but I ' m looking for a new job .
+('money', 'NN')	('cheaper', 'JJR')	Don ' t marry for money ; you can borrow it cheaper .
+NA	NA	If it ' s useless , it will have to be documented .
+NA	('deal', 'NN')	The guy who sold his carnival got a Fair deal .
+('Winning', 'VBG')	NA	Winning isn ' t everything , it ' s the only thing .
+('late', 'JJ')	('got', 'VBD')	When the human cannonball was late for work he got fired .
+NA	NA	Take the will for the deed .
+('never', 'RB')	('get', 'VB')	OLD PAINTERS never die they just get plastered .
+('must', 'MD')	('bad', 'JJ')	We must take the bad with the good .
+NA	NA	I ' m NOT unemployed . . . . . I ' m a consultant .
+('Carol', 'NNP')	('holidays', 'NNS')	My name is Carol . I sing during the holidays .
+('Always', 'NNP')	('stick', 'VB')	Always trust a glue salesman . They tend to stick to their word .
+NA	NA	Archimedes was buoyant at the thought .
+NA	NA	Two airline pilots in a stand - up comedy did a takeoff .
+('There', 'EX')	('alone', 'RB')	There is no greater torment than to be alone in paradise .
+('dug', 'VBD')	('meant', 'VB')	A friend told me he dug a hole in my backyard and filled it with water . I thought he meant well .
+('My', 'PRP$')	('Teddy', 'NNP')	My name is Teddy , I ' m in lingerie
+NA	NA	Gardeners like to spring into action .
+('tell', 'VB')	('move', 'VBP')	Should we tell the children when we move ?
+('always', 'RB')	NA	Acrobats are always doing good turns .
+('I', 'PRP')	NA	' ' I invested in a hi - tech startup , ' ' Tom ventured .
+('someone', 'NN')	('someone', 'NN')	Love is not finding someone to live with ; it ' s finding someone whom you can ' t live without .
+NA	NA	Don ' t bark if you can ' t bite .
+('usually', 'RB')	('receiving', 'VBG')	Patients usually feel better after receiving hand transplants .
+('We', 'PRP')	('come', 'VBP')	We ' ll burn that bridge when we come to it .
+NA	NA	Derringer had one shot at fame .
+NA	NA	Exxon - greasing the coastline for smoother boating !
+('pay', 'VB')	('get', 'VBP')	If you don ' t pay your exorcist you get repossessed .
+NA	NA	Have an adequate day .
+('dead', 'JJ')	('wallet', 'NN')	He ' s dead Jim . Grab his tricorder . I ' ll get his wallet .
+('sport', 'NN')	('hooked', 'JJ')	Those who like sport fishing can really get hooked .
+('pay', 'VB')	('better', 'JJR')	If you have to pay to go to the river , we ' d better stop at the bank .
+('You', 'PRP')	('many', 'JJ')	You have to give credit to people who work in stores during a holiday - and many people do .
+('fast', 'RB')	('spoiled', 'VBD')	The 4 major food groups : fast , frozen , junk , & spoiled .
+('Becoming', 'VBG')	('unique', 'JJ')	Becoming a yoga instructor offers the possibilities of a unique teaching position .
+('It', 'PRP')	NA	It is not wise to open old wounds .
+('great', 'JJ')	('pretty', 'RB')	Humpty Dumpty had a great fall - and a pretty good spring and summer , too .
+NA	NA	The remedy is worse than the disease .
+('place', 'NN')	('back', 'RB')	The place that made rubber balls almost went bankrupt , but they bounced back .
+('surest', 'JJS')	NA	The surest steps to happiness are the steps to church .
+('Soon', 'RB')	('instrumental', 'JJ')	Soon after he joined the band , the guitarist was instrumental .
+('never', 'RB')	('become', 'VB')	OLD GEOGRAPHERS never die , they just become legends .
+('Are', 'NNP')	('pets', 'NNS')	Are giraffes good pets or are they too high maintenance ?
+('gum', 'NN')	('chew', 'VB')	The man who worked in the gum factory fell in a vat of bubblegum . His boss had to chew him out .
+('She', 'PRP')	NA	She was only a Watchman ' s daughter , but any time suited her .
+NA	NA	Weather forecasters have to have lots of degrees .
+('chisel', 'VB')	('cave', 'NN')	`` And we had to chisel taglines into the walls of the cave . . . . ``
+NA	('waste', 'VBP')	OLD SANITATION MEN never die , they just waste away
+NA	('tests', 'NNS')	To become an electrician you have to pass a battery of tests .
+('rather', 'RB')	NA	Choose a wife rather by your ear than your eye .
+('test', 'NN')	('know', 'VBP')	Never test for an error you don ' t know how to handle .
+('die', 'VBZ')	('played', 'VBN')	OLD MUSICIANS never die they just get played out .
+('If', 'IN')	('think', 'VBP')	If you burn the candle on both ends , you’re not as bright as you think .
+('limped', 'VBN')	NA	A student limped into class with a lame excuse .
