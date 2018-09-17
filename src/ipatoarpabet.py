@@ -85,10 +85,11 @@ def _stat_translate( ipa ):
         if not sound:
             continue
         if not sound in mapping:
-            log.error('Unrecognized ipa: %s', sound)
+            # log.error('Unrecognized ipa: %s', sound)
+            pass
         translations = mapping.get(sound)
         if not translations:
-            log.error('Unrecognized ipa: %s', sound)
+            # log.error('Unrecognized ipa: %s', sound)
             continue
         # choose the most likely
         translations = [ t[0] for t in translations if t[1] > STAT_MAP_THRESHOLD ]

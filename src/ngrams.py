@@ -7,7 +7,7 @@ import nltk
 import subprocess
 from math import ceil
 
-word_frequencies = {ln.split()[0]: int(ln.split()[1]) for ln in open("data/most_frequent_words.txt").read().split("\n")[:-1]}
+# word_frequencies = {ln.split()[0]: int(ln.split()[1]) for ln in open("data/most_frequent_words.txt").read().split("\n")[:-1]}
 whole_three_grams = None
 four_grams = None
 
@@ -324,7 +324,8 @@ def ngram_frequency(in_words):
 
 def get_gram_file(first_word, n):
 
-    data_folder = json.load(open("local/local_files.json"))[n]
+    # data_folder = json.load(open("local/local_files.json"))[n]
+    data_folder = '/home/doogy/data'
 
     if first_word[0] in string.punctuation:
         if first_word[0] == '`' or first_word[0] == "\"":
