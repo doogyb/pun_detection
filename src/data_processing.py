@@ -84,7 +84,12 @@ if __name__ == '__main__':
 
 
 def load_cmu():
-    global cmu
+    # local cmu to retrain espeak stuff
+
+    # with open("corpus/cmu.json") as f:
+    #     cmu = json.load(f)
+    #
+    # return cmu
     cmu = cmudict.dict()
     for key, val in cmu.items():
         for i, phoneme in enumerate(val):
@@ -93,7 +98,6 @@ def load_cmu():
 
 
 def load_data():
-
     cmu = load_cmu()
     task1 = []
     task2 = []
@@ -159,6 +163,45 @@ def load_data():
 
     return task1, task2, task3, min_pairs, strings, pun_strings
 
+SPACE = " "
+NEWLINE = "\n"
+INDENT = 3
+
+escape_quotes = lambda c: "\\" + c if c == '"' else c
+
+def to_json(o, level=0):
+    ret = ""
+
+    if isinstance(o, dict):
+        ret += "{" + NEWLINE
+        comma = ""
+        for k,v in o.items():
+            ret += comma
+            comma = ",\n"
+            ret += SPACE * INDENT * (level+1)
+            ret += '"' + ''.join(list(map(escape_quotes, o))) + '":' + SPACE
+            ret += to_json(v, level + 1)
+
+        ret += NEWLINE + SPACE * INDENT * level + "}"
+    elif isinstance(o, str):
+        ret += '"' + o + '"'
+    elif isinstance(o, list):
+        ret += "[" + ",".join([to_json(e, level+1) for e in o]) + "]"
+    elif isinstance(o, bool):
+        ret += "true" if o else "false"
+    elif isinstance(o, int):
+        ret += str(o)
+    elif isinstance(o, float):
+        ret += '%.7g' % o
+    elif isinstance(o, numpy.ndarray) and numpy.issubdtype(o.dtype, numpy.integer):
+        ret += "[" + ','.join(map(str, o.flatten().tolist())) + "]"
+    elif isinstance(o, numpy.ndarray) and numpy.issubdtype(o.dtype, numpy.inexact):
+        ret += "[" + ','.join(map(lambda x: '%.7g' % x, o.flatten().tolist())) + "]"
+    elif o is None:
+        ret += 'null'
+    else:
+        raise TypeError("Unknown type '%s' for json serialization" % str(type(o)))
+    return ret
 
 def convert(context, contractions):
     res = []

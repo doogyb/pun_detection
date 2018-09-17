@@ -2,6 +2,7 @@ import subprocess
 from src.data_processing import load_cmu
 import src.string_similarity as sm
 from src.ipatoarpabet import translate as ph_translate
+
 word_frequencies = None
 MAX_FREQUENCY = 100000
 model = None
@@ -19,20 +20,6 @@ def get_closest_sounding_words(in_word, cthreshold=0, share_first_letter=False, 
     global cmu
     if not cmu:
         cmu = load_cmu()
-
-    def phonetic_translation(pun_word):
-        phonemes = []
-        for word in pun_word.split():
-            if word in cmu:
-                pun_phone = cmu[word][0]
-            else:
-                pun_phone = ph_translate(word)[0].split()
-            phonemes.extend(pun_phone)
-        return phonemes
-
-    # if in_word not in cmu:
-    #     return []
-
 
     ph = '/'.join(phonetic_translation(in_word))
 
@@ -76,19 +63,23 @@ def phonetic_translation(pun_word):
     return phonemes
 
 
-def phonetic_distance(word1, word2):
-    ph1 = phonetic_translation(word1)
-    ph2 = phonetic_translation(word2)
+def phonetic_distance(word1, word2, translated=False):
+    if translated:
+        ph1 = word1
+        ph2 = word2
+    else:
+        ph1 = phonetic_translation(word1)
+        ph2 = phonetic_translation(word2)
 
     # levenshtein of phonemes as atomic units
-    phoneme_l = levenshtein(ph1, ph2)
+    phoneme_l = sm.levenshtein(ph1, ph2)
     len_l = max(len(ph1), len(ph2))
 
     # treat phonemes as strings
-    phoneme_s = levenshtein(''.join(ph1), ''.join(ph2))
-    len_s = max(''.join(ph1), ''.join(ph2))
+    phoneme_s = sm.levenshtein(''.join(ph1), ''.join(ph2))
+    len_s = max(len(''.join(ph1)), len(''.join(ph2)))
 
-    return max(phoneme_l/len_l, phoneme_s/len_s)
+    return 1 - max(phoneme_l/len_l, phoneme_s/len_s)
 
 
 
