@@ -102,9 +102,9 @@ def load_data():
     task1 = []
     task2 = []
     strings = []
-
-    with open("data/contractions.json") as f:
-        contractions = set(json.load(f))
+    # 
+    # with open("data/contractions.json") as f:
+    #     contractions = set(json.load(f))
 
     with open("/home/doogy/Data/semeval2017_task7/data/test/subtask1-heterographic-test.xml") as f:
         xmldict = xmltodict.parse(f.read())
