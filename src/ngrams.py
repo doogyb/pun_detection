@@ -316,7 +316,7 @@ def ngram_frequency(in_words):
 
     # in_words being a list of words
 
-    gram_file = get_gram_file(in_words[0], str(len(in_words)) + "grams")
+    gram_file = get_gram_file(in_words[0], len(in_words))
     arguments = ["src/c/ngram_frequency", gram_file]
     arguments.extend(in_words)
     return int(subprocess.check_output(arguments))
@@ -325,14 +325,32 @@ def ngram_frequency(in_words):
 def get_gram_file(first_word, n):
 
     # data_folder = json.load(open("local/local_files.json"))[n]
-    data_folder = '/home/doogy/data'
+    data_folder = '/home/doogy/Data/{}/c1/'.format(str(n) + "grams")
+
+    symbol_map = {
+    '\'': 'quotes',
+    '`': 'quotes',
+    '"': 'quotes',
+    ';': 'semicolon',
+    ':': 'colon',
+    '\\': 'backslash',
+    '<': 'less',
+    '>': 'more',
+    '.': 'point',
+    '?': 'intterogation',
+    }
 
     if first_word[0] in string.punctuation:
-        if first_word[0] == '`' or first_word[0] == "\"":
-            return data_folder + "symbols/quotes.gz"
+        if first_word[0] in symbol_map:
+            return (data_folder
+                    + "symbols/{}.gz"
+                    .format(symbol_map[first_word[0]]))
+                    
         return data_folder + "symbols/" + first_word[0] + ".gz"
 
-    if first_word[0].isupper():
+    if first_word[0] in "012345679":
+        char_dir = "number/"
+    elif first_word[0].isupper():
         char_dir = "upper/"
     else:
         char_dir = "lower/"
