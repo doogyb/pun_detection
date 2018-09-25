@@ -86,14 +86,15 @@ if __name__ == '__main__':
 def load_cmu():
     # local cmu to retrain espeak stuff
 
-    # with open("corpus/cmu.json") as f:
-    #     cmu = json.load(f)
-    #
+    with open("corpus/combined_cmu.json") as f:
+        cmu = json.load(f)
+
     # return cmu
-    cmu = cmudict.dict()
-    for key, val in cmu.items():
-        for i, phoneme in enumerate(val):
-            cmu[key][i] = [ph[:2] for ph in phoneme]
+    # cmu = cmudict.dict()
+    # for key, val in cmu.items():
+    #     for i, phoneme in enumerate(val):
+    #         cmu[key][i] = [ph[:2] for ph in phoneme]
+
     return cmu
 
 
@@ -102,9 +103,9 @@ def load_data():
     task1 = []
     task2 = []
     strings = []
-
-    with open("data/contractions.json") as f:
-        contractions = set(json.load(f))
+    #
+    # with open("data/contractions.json") as f:
+    #     contractions = set(json.load(f))
 
     with open("/home/doogy/Data/semeval2017_task7/data/test/subtask1-heterographic-test.xml") as f:
         xmldict = xmltodict.parse(f.read())

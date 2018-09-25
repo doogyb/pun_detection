@@ -52,12 +52,14 @@ def same_sounding_words(in_word):
 
     return ret
 
-def phonetic_translation(pun_word):
+def phonetic_translation(pun_word, use_espeak=False):
     phonemes = []
+    pun_word = pun_word.lower()
     for word in pun_word.split():
+        pun_phone = []
         if word in cmu:
             pun_phone = cmu[word][0]
-        else:
+        elif use_espeak:
             pun_phone = ph_translate(word)[0].split()
         phonemes.extend(pun_phone)
     return phonemes
