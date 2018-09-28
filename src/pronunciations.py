@@ -23,8 +23,6 @@ def get_closest_sounding_words(in_word, cthreshold=0, share_first_letter=False, 
 
     ph = '/'.join(phonetic_translation(in_word))
 
-    print(ph)
-
     pros = set(subprocess.check_output(["src/c/closest_sounding_words", in_word, ph, str(cthreshold)]).split())
     pros = set([p.decode('utf-8') for p in pros])
     if use_dictionary:
