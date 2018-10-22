@@ -13,5 +13,6 @@ data/
 venv/
 log/
 subtask3*
+vectors/
 
 results/
