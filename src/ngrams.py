@@ -42,11 +42,11 @@ def load_four_grams():
 
 def get_three_gram_wildcard(first_word, last_word):
     three_gram_frequencies = {}
-    three_gram_file = get_gram_file(first_word, "3grams")
+    three_gram_file = get_gram_file(first_word, 3)
     # print(three_gram_file)
     search_start = False
     if not os.path.isfile(three_gram_file):
-        print(three_gram_file)
+        print("Not a path: ", three_gram_file)
         return {}
     with gzip.open(three_gram_file, 'rt', encoding="ISO-8859-1") as f:
 
@@ -345,7 +345,7 @@ def get_gram_file(first_word, n):
             return (data_folder
                     + "symbols/{}.gz"
                     .format(symbol_map[first_word[0]]))
-                    
+
         return data_folder + "symbols/" + first_word[0] + ".gz"
 
     if first_word[0] in "012345679":

@@ -1,0 +1,4 @@
+#! /bin/zsh
+python3 result_script.py phonetic_filter_no_pos True False
+python3 result_script.py all_trigram_no_pos False False
+python3 result_script.py all_trigram_with_pos False True

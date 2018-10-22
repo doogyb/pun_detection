@@ -22,7 +22,6 @@ def get_closest_sounding_words(in_word, cthreshold=0, share_first_letter=False, 
         cmu = load_cmu()
 
     ph = '/'.join(phonetic_translation(in_word))
-
     print(ph)
 
     pros = set(subprocess.check_output(["src/c/closest_sounding_words", in_word, ph, str(cthreshold)]).split())

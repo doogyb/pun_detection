@@ -107,10 +107,14 @@ def load_data():
     # with open("data/contractions.json") as f:
     #     contractions = set(json.load(f))
 
-    with open("/home/doogy/Data/semeval2017_task7/data/test/subtask1-heterographic-test.xml") as f:
-        xmldict = xmltodict.parse(f.read())
-        for sent in xmldict['corpus']['text']:
-            task1.append({"words": [w['#text'] for w in sent['word'] if '#text' in w]})
+    # with open("/home/doogy/Data/semeval2017_task7/data/test/subtask1-heterographic-test.xml") as f:
+    #     xmldict = xmltodict.parse(f.read())
+    #     for sent in xmldict['corpus']['text']:
+    #         task1.append({"words": [w['#text'] for w in sent['word'] if '#text' in w]})
+
+    with open("data/tempsemeval.txt") as f:
+        for line in f:
+            task1.append({"words": [w for w in line.split()]})
 
     strings = [' '.join(p['words']) for p in task1]
 
