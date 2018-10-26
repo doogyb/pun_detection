@@ -2,11 +2,55 @@
 import json
 import xml.etree.ElementTree as ET
 import sys
-
+import numpy as np
 import itertools
 import xmltodict
 from nltk import word_tokenize
 from nltk.corpus import wordnet as wn, cmudict
+from sklearn.preprocessing import normalize
+
+def scores_as_matrix(path):
+
+    def ranked_vectors(path, is_file=True):
+        subs = []
+        for index in range(1780):
+            print_progress(index, 1780)
+            full_path = "results/{}/{}".format(path, index)
+            with open(full_path) as f:
+                subs.append(json.load(f))
+        return subs
+
+    def number_of_substitutions(index, subs):
+        tot_sum = 0
+        for k, v in subs[index].items():
+            tot_sum += len(v)
+        return tot_sum
+
+    def generate_ranked_vector(index, mvl, subs):
+        vec = [0] * mvl
+        scores = []
+        for k, v in subs[index].items():
+            scores.extend([score[1] for score in v])
+
+        scores = list(sorted(scores, reverse=True))
+        for i, j in zip(range(mvl), range(len(scores))):
+            vec[i] = scores[i]
+        return vec
+
+    subs = ranked_vectors(path)
+    max_columns = 10000
+
+    max_vector_length = (min(max(number_of_substitutions(i, subs)
+                             for i in range(1780)),
+                             max_columns))
+
+    vectors = ([generate_ranked_vector(i, max_vector_length, subs)
+                for i in range(1780)])
+
+    X = np.array(vectors)
+    X = normalize(X)
+
+    return X
 
 
 def print_progress(iteration, total, prefix='', suffix='', decimals=1, bar_length=100):

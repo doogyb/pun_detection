@@ -14,8 +14,14 @@ from src.pronunciations import phonetic_translation
 from gensim import models
 
 cmu = load_cmu()
+reverse_cmu = load_reverse_cmu()
 print("Loading Model, this could take a while...")
 # models.KeyedVectors.load_word2vec_format("/home/doogy/Data/GoogleNews-vectors-negative300.bin.gz", binary=True)
+
+def load_reverse_cmu():
+    for k, v in cmu.items():
+        print(k, v)
+        break
 
 def translate(context, pun_word, ngram_length=3):
 
@@ -137,9 +143,14 @@ def is_Tom_Swifty(sentence, model):
         a, b = prefixes(candidate, 3)
         prefs.extend(b)
 
+    print(candidates)
+    print(prefs)
     # remove stopwords and search word
-    search_sentence = [w for w in sentence if w.lower() not in stopwords.words('english') and w not in candidates]
+    search_sentence = ([w for w in sentence
+                        if w.lower() not in stopwords.words('english')
+                        and w not in candidates])
 
+    print(search_sentence)
     max_score = -1
     best_pair = None
     for word in prefs:
