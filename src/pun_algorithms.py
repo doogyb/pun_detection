@@ -10,11 +10,16 @@ from nltk.tokenize import wordpunct_tokenize
 from nltk.tokenize import word_tokenize
 from collections import defaultdict
 from nltk.corpus import stopwords
-from src.pronunciations import phonetic_translation
+from src.pronunciations import phonetic_translation, phonetic_distance
 from gensim import models
 
+print("Here")
+
+
 cmu = load_cmu()
-reverse_cmu = load_reverse_cmu()
+reverse_cmu = {' '.join(v[0]):k for k, v in cmu.items()}
+
+
 print("Loading Model, this could take a while...")
 # models.KeyedVectors.load_word2vec_format("/home/doogy/Data/GoogleNews-vectors-negative300.bin.gz", binary=True)
 
@@ -117,7 +122,7 @@ def is_Tom_Swifty(sentence, model):
     # tom swifty has format [PROPER NOUN said ADVERB .]
     sentence = word_tokenize(sentence)
     pos = pos_tag(sentence)
-    words = [p[0] for p in pos]
+    words = [p[0].lower() for p in pos]
     tags = [p[1] for p in pos]
 
     if 'NNP' not in tags[-4:]:
@@ -131,34 +136,48 @@ def is_Tom_Swifty(sentence, model):
 
     candidates = []
     for i in range(noun_position+1, len(tags)):
-        if tags[i] in {'VBD', 'RB'}:
+        if tags[i] in {'VBD', 'RB'} and words[i] != 'said':
             candidates.append(words[i])
 
     # If the word is neither an adverb or verb, return false
     if len(candidates) == 0:
         return False
 
-    prefs = []
+    prefs = defaultdict(list)
     for candidate in candidates:
         a, b = prefixes(candidate, 3)
-        prefs.extend(b)
+        prefs[candidate].extend(b)
 
-    print(candidates)
-    print(prefs)
-    # remove stopwords and search word
+    for w in candidates:
+        if w not in cmu:
+            continue
+        og_ph = cmu[w][0]
+        for i in range(len(og_ph)):
+            for j in range(i, len(og_ph)):
+                if ' '.join(og_ph[i: j]) in reverse_cmu:
+                    prefs[candidate].append(reverse_cmu[' '.join(og_ph[i: j])])
+
+
     search_sentence = ([w for w in sentence
                         if w.lower() not in stopwords.words('english')
                         and w not in candidates])
 
-    print(search_sentence)
     max_score = -1
     best_pair = None
-    for word in prefs:
-        pair, score = word_sentence_similarity(word, search_sentence, model)
-        if score > max_score:
-            max_score = score
-            best_pair = pair
-    return best_pair, max_score
+
+    for candidate, words in prefs.items():
+        for word in words:
+            pair, score = word_sentence_similarity(word, search_sentence, model)
+            if not pair:
+                continue
+
+            # print("Comparing", candidate, pair[0])
+            # print("Phonetic distance: ", phonetic_distance(candidate, pair[0]) ** 3)
+            score *= phonetic_distance(candidate, pair[0])
+            if score > max_score:
+                max_score = score
+                best_pair = pair
+        return best_pair, max_score
 
 def prefixes(word, threshold=None):
 
@@ -186,6 +205,8 @@ def prefixes(word, threshold=None):
                     ret[i].append(k)
                     seen.add(k)
     seen.remove(word)
+
+
     return ret, seen
 
 
