@@ -16,8 +16,9 @@ def scores_as_matrix(path):
         for index in range(1780):
             print_progress(index, 1780)
             full_path = "results/{}/{}".format(path, index)
-            with open(full_path) as f:
-                subs.append(json.load(f))
+            f = open(full_path)
+            subs.append(json.load(f))
+            f.close()
         return subs
 
     def number_of_substitutions(index, subs):
@@ -51,6 +52,17 @@ def scores_as_matrix(path):
     X = normalize(X)
 
     return X
+
+def scores_as_list(path):
+
+    subs = []
+    for index in range(1780):
+        print_progress(index, 1780)
+        full_path = "results/{}/{}".format(path, index)
+        f = open(full_path)
+        subs.append(json.load(f))
+        f.close()
+    return subs
 
 
 def print_progress(iteration, total, prefix='', suffix='', decimals=1, bar_length=100):
@@ -156,7 +168,7 @@ def load_data():
     #     for sent in xmldict['corpus']['text']:
     #         task1.append({"words": [w['#text'] for w in sent['word'] if '#text' in w]})
 
-    with open("data/tempsemeval.txt") as f:
+    with open("data/task1-no-contractions.txt") as f:
         for line in f:
             task1.append({"words": [w for w in line.split()]})
 
@@ -168,8 +180,12 @@ def load_data():
 
     with open("/home/doogy/Data/semeval2017_task7/data/test/subtask2-heterographic-test.xml") as f:
         xmldict = xmltodict.parse(f.read())
-        for sent in xmldict['corpus']['text']:
-            task2.append({"words": [w['#text'] for w in sent['word'] if '#text' in w]})
+    #     for sent in xmldict['corpus']['text']:
+    #         task2.append({"words": [w['#text'] for w in sent['word'] if '#text' in w]})
+
+    with open("data/task2-no-contractions.txt") as f:
+        for line in f:
+            task2.append({"words": [w for w in line.split()]})
 
     pun_strings = [' '.join(p['words']) for p in task2]
 

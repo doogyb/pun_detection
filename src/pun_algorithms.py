@@ -13,15 +13,12 @@ from nltk.corpus import stopwords
 from src.pronunciations import phonetic_translation, phonetic_distance
 from gensim import models
 
-print("Here")
-
 
 cmu = load_cmu()
-reverse_cmu = {' '.join(v[0]):k for k, v in cmu.items()}
 
-
-print("Loading Model, this could take a while...")
-# models.KeyedVectors.load_word2vec_format("/home/doogy/Data/GoogleNews-vectors-negative300.bin.gz", binary=True)
+reverse_cmu = defaultdict(list)
+for k, v in cmu.items():
+    reverse_cmu[' '.join(v[0])].append(k)
 
 def load_reverse_cmu():
     for k, v in cmu.items():
@@ -154,9 +151,8 @@ def is_Tom_Swifty(sentence, model):
         og_ph = cmu[w][0]
         for i in range(len(og_ph)):
             for j in range(i, len(og_ph)):
-                if ' '.join(og_ph[i: j]) in reverse_cmu:
-                    prefs[candidate].append(reverse_cmu[' '.join(og_ph[i: j])])
-
+                if ' '.join(og_ph[i: j]) in reverse_cmu and j - i > 2:
+                    prefs[w].extend(reverse_cmu[' '.join(og_ph[i: j])])
 
     search_sentence = ([w for w in sentence
                         if w.lower() not in stopwords.words('english')
@@ -164,6 +160,8 @@ def is_Tom_Swifty(sentence, model):
 
     max_score = -1
     best_pair = None
+
+    scores = defaultdict(list)
 
     for candidate, words in prefs.items():
         for word in words:
@@ -174,10 +172,15 @@ def is_Tom_Swifty(sentence, model):
             # print("Comparing", candidate, pair[0])
             # print("Phonetic distance: ", phonetic_distance(candidate, pair[0]) ** 3)
             score *= phonetic_distance(candidate, pair[0])
+            scores[candidate].append((pair, score))
             if score > max_score:
                 max_score = score
                 best_pair = pair
-        return best_pair, max_score
+
+    for k in scores:
+        scores[k] = list(sorted(scores[k], key=lambda x: x[1], reverse=True))
+    return list(sorted(scores.items(), key=lambda x: x[1][0][1], reverse=True))
+    # return list(sorted(ret, key=lambda x: x[1], reverse=True))
 
 def prefixes(word, threshold=None):
 
