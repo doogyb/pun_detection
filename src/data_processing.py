@@ -55,6 +55,14 @@ def scores_as_matrix(path):
 
 def scores_as_list(path):
 
+    import os
+    if os.path.isfile("results/" + path + ".json"):
+        print("returning from json")
+        f = open("results/" + path + ".json")
+        subs = json.load(f)
+        f.close()
+        return subs
+    print("Check")
     subs = []
     for index in range(1780):
         print_progress(index, 1780)
@@ -100,7 +108,7 @@ def annotate_subtask3():
     with(open("../data/subtask3-annotations-full-2.tsv")) as f:
         already_written = len(f.read().split("\n"))
 
-    with open("../data/subtask3-annotations-full-2.tsv", 'a') as out_file:
+    with open("../data/subtask3-annotations-full-2.tsv") as out_file:
         for count, line in enumerate(lines):
             if count <= already_written:
                 continue
