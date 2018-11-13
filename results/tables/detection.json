@@ -1,0 +1,5 @@
+Phonetic Filter, Use Position, Coverage, Precision, Recall, F1, Mean Reciprocal Rank
+True, False, 0.896, 0.764, 0.685, 0.722, 0.714
+True, True, 0.896, 0.766, 0.686, 0.724, 0.715
+False, False, 0.988, 0.750, 0.741, 0.746, 0.803
+False, True, 0.988, 0.766, 0.757, 0.761, 0.812
