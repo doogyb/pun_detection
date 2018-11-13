@@ -1,13 +1,10 @@
 *.pyc
 .idea/
 *.bin
-data/models/*
 local_files.json
 .ipynb_checkpoints/*
-data/ngram_searchspace
 test/*
 baselines/*
-data/
 venv/
 log/
 subtask3*
