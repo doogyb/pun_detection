@@ -8,6 +8,13 @@ import xmltodict
 from nltk import word_tokenize
 from nltk.corpus import wordnet as wn, cmudict
 from sklearn.preprocessing import normalize
+from nltk.corpus import wordnet
+from nltk.stem import WordNetLemmatizer, PorterStemmer
+from nltk import pos_tag
+import os
+
+lm = WordNetLemmatizer()
+stemmer = PorterStemmer()
 
 def scores_as_matrix(path):
 
@@ -62,7 +69,6 @@ def scores_as_list(path):
         subs = json.load(f)
         f.close()
         return subs
-    print("Check")
     subs = []
     for index in range(1780):
         print_progress(index, 1780)
@@ -71,7 +77,6 @@ def scores_as_list(path):
         subs.append(json.load(f))
         f.close()
     return subs
-
 
 def print_progress(iteration, total, prefix='', suffix='', decimals=1, bar_length=100):
     """
@@ -94,7 +99,6 @@ def print_progress(iteration, total, prefix='', suffix='', decimals=1, bar_lengt
     if iteration == total:
         sys.stdout.write('\n')
     sys.stdout.flush()
-
 
 def annotate_subtask3():
     tree = ET.parse("../data/subtask3-homographic-test.xml")
@@ -148,16 +152,9 @@ if __name__ == '__main__':
 
 
 def load_cmu():
-    # local cmu to retrain espeak stuff
 
     with open("corpus/combined_cmu.json") as f:
         cmu = json.load(f)
-
-    # return cmu
-    # cmu = cmudict.dict()
-    # for key, val in cmu.items():
-    #     for i, phoneme in enumerate(val):
-    #         cmu[key][i] = [ph[:2] for ph in phoneme]
 
     return cmu
 
@@ -202,19 +199,27 @@ def load_data():
             word_array = xmldict['corpus']['text'][i]['word']
 
             task2[i]['target'] = word_array[[w['@id'] for w in word_array].index(line.split()[1])]['#text']
+            task2[i]['t1_index'] = int(line.split()[0].split('_')[1]) - 1
 
     task3 = []
     with open("/home/doogy/Data/semeval2017_task7/data/test/subtask3-heterographic-test.gold") as f:
         for line in f.readlines():
             lsplit = line.split()
+            task1_ind = int(lsplit[0].split('_')[1]) - 1
+            c = {}
+            c['words'] = task1[task1_ind]['words']
+            c['t1_index'] = task1_ind
+
             left = list(set([w[:w.index('%')] for w in lsplit[1].split(';')]))
             right = list(set([w[:w.index('%')] for w in lsplit[2].split(';')]))
-            task3.append((left, right))
+
+            c['sense_tags'] = ((left, right))
+            task3.append(c)
 
     min_pairs = []
     from src.string_similarity import levenshtein
 
-    for targets, recoveries in task3:
+    for targets, recoveries in [t['sense_tags'] for t in task3]:
         if len(targets) == 1 and len(recoveries) == 1:
             min_pairs.append((targets[0], recoveries[0]))
         else:
@@ -236,62 +241,121 @@ def load_data():
 
     return task1, task2, task3, min_pairs, strings, pun_strings
 
-SPACE = " "
-NEWLINE = "\n"
-INDENT = 3
+def load_task3_data(path, task1, task2, task3):
 
-escape_quotes = lambda c: "\\" + c if c == '"' else c
+    full_path = "results/" + path
+    condensed_path = full_path + "_condensed.json"
 
-def to_json(o, level=0):
-    ret = ""
+    pun_words = [None] * len(task1)
+    for c in task2:
+        pun_words[c['t1_index']] = c['target']
+    pun_words = [pun_words[c['t1_index']] for c in task3]
 
-    if isinstance(o, dict):
-        ret += "{" + NEWLINE
-        comma = ""
-        for k,v in o.items():
-            ret += comma
-            comma = ",\n"
-            ret += SPACE * INDENT * (level+1)
-            ret += '"' + ''.join(list(map(escape_quotes, o))) + '":' + SPACE
-            ret += to_json(v, level + 1)
+    def get_rankings():
 
-        ret += NEWLINE + SPACE * INDENT * level + "}"
-    elif isinstance(o, str):
-        ret += '"' + o + '"'
-    elif isinstance(o, list):
-        ret += "[" + ",".join([to_json(e, level+1) for e in o]) + "]"
-    elif isinstance(o, bool):
-        ret += "true" if o else "false"
-    elif isinstance(o, int):
-        ret += str(o)
-    elif isinstance(o, float):
-        ret += '%.7g' % o
-    elif isinstance(o, numpy.ndarray) and numpy.issubdtype(o.dtype, numpy.integer):
-        ret += "[" + ','.join(map(str, o.flatten().tolist())) + "]"
-    elif isinstance(o, numpy.ndarray) and numpy.issubdtype(o.dtype, numpy.inexact):
-        ret += "[" + ','.join(map(lambda x: '%.7g' % x, o.flatten().tolist())) + "]"
-    elif o is None:
-        ret += 'null'
-    else:
-        raise TypeError("Unknown type '%s' for json serialization" % str(type(o)))
-    return ret
+        if os.path.isfile(condensed_path):
+            f = open(condensed_path)
+            t3_subs = json.load(f)
+            f.close()
+            t3_subs = [t3_subs[c['t1_index']] for c in task3]
 
-def convert(context, contractions):
-    res = []
-    i = 0
-    while i < len(context):
-        # if i len(context) - 2:
-        contract = ''.join(context[i:i+3])
-        if ''.join(context[i:i+2]) == "''":
-            res.append('"')
-            i += 2
-        elif contract in contractions:
-            res.append(contract)
-            i += 3
         else:
-            res.append(context[i])
-            i += 1
+            substitutions = scores_as_list(path)
+            t3_subs = []
+            for i in [c['t1_index'] for c in task3]:
+                t3_subs.append((list(sorted(substitutions[i].items(),
+                                key=lambda x: x[1][0][1], reverse=True))))
 
-    res = word_tokenize(' '.join(res))
-    res = list(map(lambda x: '"' if x == '``' else x, res))
-    return res
+            for i in range(len(t3_subs)):
+                for j in range(len(t3_subs[i])):
+
+                    t3_subs[i][j] = list(t3_subs[i][j])
+                    t3_subs[i][j][1] = t3_subs[i][j][1][:25]
+
+        sub_rankings = []
+        for i, subs in enumerate(t3_subs):
+            print_progress(i, len(t3_subs))
+
+            pun_word = pun_words[i]
+            sentence = task3[i]['words']
+            replace_index = sentence.index(pun_word)
+            ranked_subs = {}
+
+            for sub in subs:
+                derivations = []
+                for w in [s[0].split()[1] for s in sub[1]]:
+
+                    temp_sent = list(sentence)
+                    temp_sent[replace_index] = w
+
+                    derivations.append({'original_word': w,
+                                        'derivations': morphs(w, temp_sent)})
+
+                ranked_subs[sub[0].split()[1]] = derivations
+
+            sub_rankings.append(ranked_subs)
+        return sub_rankings
+
+    def toms():
+        with open("results/tom_swifties.json") as f:
+            tsa = json.load(f)
+
+        temp_toms = [False] * len(task1)
+
+        for context, tom in zip(task2, tsa):
+            temp_toms[context['t1_index']] = tom
+
+        tom_swifty_annotations = [temp_toms[c['t1_index']] for c in task3]
+
+        tom_rankings = []
+        for i, ts in enumerate(tom_swifty_annotations):
+            if not ts:
+                tom_rankings.append(False)
+                continue
+
+            pun_word = pun_words[i]
+            sentence = task3[i]['words']
+            replace_index = sentence.index(pun_word)
+
+            derivatives = []
+            for w in [t[0][0] for t in ts[0][1]]:
+                s = set([w])
+                temp_sent = list(sentence)
+                temp_sent[replace_index] = w
+                derivatives.append({'derivations': morphs(w, temp_sent),
+                                    'original_word': w})
+
+            tom_rankings.append({ts[0][0]: derivatives})
+        return tom_rankings
+
+    sub_rankings = get_rankings()
+    tom_rankings = toms()
+
+    for i in range(len(tom_rankings)):
+        if tom_rankings[i]:
+            sub_rankings[i] = tom_rankings[i]
+
+    return sub_rankings
+
+
+
+
+def lemma(word, sentence):
+    tags = [t[1] for t in pos_tag(sentence)]
+    tag = tags[sentence.index(word)]
+
+    if tag.startswith('V'):
+        return lm.lemmatize(word, wordnet.VERB)
+    elif tag.startswith('J'):
+        return lm.lemmatize(word, wordnet.ADJ)
+    elif tag.startswith('N'):
+        return lm.lemmatize(word, wordnet.NOUN)
+    elif tag.startswith('R'):
+        return lm.lemmatize(word, wordnet.ADV)
+    else:
+        return ''
+
+def morphs(word, sentence):
+    lemmas = [lemma(word, sentence)]
+    lemmas.append(stemmer.stem(word))
+    return list(set(lemmas))

@@ -1,8 +1,6 @@
 *.pyc
 .idea/
-.gitignore.*
 *.bin
-data/g2p*
 data/models/*
 local_files.json
 .ipynb_checkpoints/*
